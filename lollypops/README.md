@@ -2,7 +2,7 @@
 
 * Download the latest firmware from this folder (the .bin file at the bottom of the above list)
 * Connect to your Lollypops Wifi Access point
-* Navigate your browser to 192.168.4.1
+* Open a browser and type **192.168.4.1** into the address bar
 * Click 'Update Firmware'
 * Enter your HOME Wifi details, then click 'Test'
 * Once connected, browse for the firmware file you downloaded earlier
