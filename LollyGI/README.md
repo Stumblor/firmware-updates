@@ -1,4 +1,4 @@
-###How to update your LollyGI firmware
+### How to update your LollyGI firmware
 * Download the latest firmware from this folder (the .bin file at the bottom of the above list)
 * Connect to your Lollypops Wifi Access point (Stumblor-Lollypops-xxxx)
 * Open a browser and type 192.168.4.1 into the address bar
