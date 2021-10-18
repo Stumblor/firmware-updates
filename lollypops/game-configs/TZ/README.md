@@ -10,15 +10,15 @@ J5 (Sensor 4) - DIP Switch set to 1K (**IMPORTANT**) and connected to **Flasher 
 ### Configuration
 Set the Actions of each LED to below (or import the configuration in this folder).
 
-LED1 At Rest Action = Off 
-LED1 Trigger Action = Show At Rest Pattern 
+* LED1 At Rest Action = Off 
+* LED1 Trigger Action = Show At Rest Pattern 
 
-LED2 At Rest Action = Off 
-LED2 Trigger Action = Show At Rest Pattern 
+* LED2 At Rest Action = Off 
+* LED2 Trigger Action = Show At Rest Pattern 
 
-LED3 At Rest Action = Off 
-LED3 Trigger Action = Show At Rest Pattern 
+* LED3 At Rest Action = Off 
+* LED3 Trigger Action = Show At Rest Pattern 
 
-LED4 At Rest Action = Off 
-LED4 Trigger Action = Show Random Pattern 
-LED4 Trigger Target = All LEDs 
+* LED4 At Rest Action = Off 
+* LED4 Trigger Action = Show Random Pattern 
+* LED4 Trigger Target = All LEDs 
