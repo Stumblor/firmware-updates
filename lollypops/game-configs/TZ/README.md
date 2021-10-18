@@ -1,5 +1,5 @@
 ### Background
-Twilight zone is somewhat unique in the sense that the pop bumpers can have three different states at any one time - off, flashing or on. In order to support these states, we have to wire the Lollypops up slightly differently to normal.
+Twilight zone is somewhat unique in the sense that the pop bumpers can have three different states at any one time - off, flashing or on. In order to support these states, we have to wire the Lollypops up differently to normal.
 
 ### Connections
 * J2 (Sensor 1) - Connected to **Lamp 61** (Left Jet Bumper).
