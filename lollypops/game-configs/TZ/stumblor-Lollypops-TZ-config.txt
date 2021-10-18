@@ -1,0 +1,14 @@
+colours: 0 TriggerAction 0
+colours: 0 AtRestAction 12
+colours: 0 TriggerTime 1
+colours: 1 TriggerAction 0
+colours: 1 AtRestAction 12
+colours: 1 TriggerTime 1
+colours: 2 TriggerAction 0
+colours: 2 AtRestAction 12
+colours: 2 TriggerTime 1
+colours: 3 TriggerAction 10
+colours: 3 AtRestAction 12
+colours: 3 TriggerTime 1
+colours: 3 TriggerAll 1
+:OK
