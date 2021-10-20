@@ -1,5 +1,7 @@
 ### How to update your Lollypops firmware
 
+#### The Easy Way
+
 * Download the latest firmware from this folder (the .bin file at the bottom of the above list)
 * Power the device
   * If uninstalled, the easiest way is to use a 9V battery and your alligator clips. Red to positive, Black to negative.
@@ -15,3 +17,14 @@
 * Enter your HOME Wifi details, then click 'Test'
 * Once connected, browse for the firmware file you downloaded earlier
 * Wait for the update to complete
+
+#### The Hard Way
+
+If you find yourself unable to access the web UI, you can also update using a FTDI programmer. Different flavours if FTDI programmers have different layouts, so make sure you take a look at your documenation to ensure you are connecting to the right pins.
+
+![image](https://user-images.githubusercontent.com/3416626/138160041-0c45ab58-f65d-4d75-89f1-a1b4c3f383f7.png)
+
+* Download the latest firmware from this folder (the .bin file at the bottom of the above list)
+* run **pip install esptool**
+* run **esptool.py --chip esp8266 erase_flash**
+* run **esptool.py --chip esp8266 write_flash 0x0000 {name of the file you downloaded}**
