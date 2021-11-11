@@ -10,7 +10,7 @@
 
     ![image](https://user-images.githubusercontent.com/3416626/133926854-f6d35e71-669c-4c4b-84df-e83bc10cbb64.png)
 
-  * If installed, power up your game and go into the Test Menu.
+  * If installed, power up your game and go into the machine's Test Menu using the coin door controls.
 * Connect to your Lollypops Wifi Access point (Stumblor-Lollypops-xxxx)
 * Open a browser and type **192.168.4.1** into the address bar
 * Click 'Update Firmware'
