@@ -1,8 +1,9 @@
-### How to update your firmware
+### Updating you Firmware
 
 #### The Easy Way
 
-* Download the latest firmware from this folder (the .bin file at the bottom of the above list)
+* Find your mod in the directories above. If there is a version number, check what is written on your board.
+* Open the folder, and download the latest firmware (the .bin file at the bottom of the list)
 * Power the device
   * If uninstalled, the easiest way is to use a 9V battery and your alligator clips. Red to positive, Black to negative.
 
@@ -11,7 +12,7 @@
     ![image](https://user-images.githubusercontent.com/3416626/133926854-f6d35e71-669c-4c4b-84df-e83bc10cbb64.png)
 
   * If installed, power up your game and go into the machine's Test Menu using the coin door controls.
-* Connect to your Lollypops Wifi Access point (Stumblor-Lollypops-xxxx)
+* Connect to your Wifi Access point (example: Stumblor-Lollypops-xxxx)
 * Open a browser and type **192.168.4.1** into the address bar
 * Click 'Update Firmware'
 * Enter your HOME Wifi details, then click 'Test'
