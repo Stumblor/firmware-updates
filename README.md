@@ -16,7 +16,7 @@
   * If installed, power up your game and go into the machine's Test Menu using the coin door controls.
 * Connect to your Wifi Access point (example: Stumblor-Lollypops-xxxx)
 * Open a browser and type **192.168.4.1** into the address bar
-* Click 'Update Firmware'
+* Click 'Settings', then 'Update Firmware'
 * Enter your HOME Wifi details, then click 'Test'
 * Once connected, browse for the firmware file you downloaded earlier
 * Wait for the update to complete
