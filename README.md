@@ -19,7 +19,7 @@
 * Click 'Settings', then 'Update Firmware'
 * Enter your HOME Wifi details, then click 'Test'
 * Once connected, browse for the firmware file you downloaded earlier
-* Wait for the update to complete
+* Wait for the update to reach 100%. The board will then reboot automatically.
 
 #### The Hard Way
 
