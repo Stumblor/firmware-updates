@@ -28,5 +28,5 @@ ls /dev/cu.usbserial*
 ```
 * Run the following, substituting {port} with the result of the previous command
 ```
-avrdude -Cavrdude.conf -v -V -patmega328p -carduino -P/dev/cu.wchusbserial1430 -b115200 -D -Uflash:w:/var/folders/6r/j_h8gfzd1xs55kvgr9l1hr440000gn/T/arduino_build_95019/afterglow_gi_arduino.ino.hex:i 
+avrdude -Cavrdude.conf -v -V -patmega328p -carduino -P{port} -b115200 -D -Uflash:w:firmware.hex:i
 ```
