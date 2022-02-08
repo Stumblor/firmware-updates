@@ -8,7 +8,6 @@
 ## MACOS
 
 * Download the most recent firmware from the list above (the latest .hex file)
-* Download avrdude.conf from the list above
 * Press `Command+Space` and type `Terminal` and press enter.
 * Install avrdude
 ```
@@ -28,5 +27,5 @@ ls /dev/cu.usbserial*
 ```
 * Run the following, substituting {port} with the result of the previous command
 ```
-avrdude -Cavrdude.conf -v -V -patmega328p -carduino -P{port} -b115200 -D -Uflash:w:firmware.hex:i
+avrdude -v -V -patmega328p -carduino -P{port} -b115200 -D -Uflash:w:firmware.hex:i
 ```
