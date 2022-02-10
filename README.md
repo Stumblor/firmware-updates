@@ -5,7 +5,7 @@
 #### The Easy Way
 
 * Find your mod in the directories above. If there is a version number, check what is written on your board.
-* Open the folder, and download the latest firmware (the .bin file at the bottom of the list)
+* Open the folder, and download the latest firmware (click the .bin file at the bottom of the above list > Raw > File > Save Page As)
 * Power the device
   * If uninstalled, the easiest way is to use a 9V battery and your alligator clips. Red to positive, Black to negative.
 
@@ -27,7 +27,7 @@ If you find yourself unable to access the web UI, you can also update using a FT
 
 ![image](https://user-images.githubusercontent.com/3416626/138160041-0c45ab58-f65d-4d75-89f1-a1b4c3f383f7.png)
 
-* Download the latest firmware from this folder (the .bin file at the bottom of the above list)
+* Download the latest firmware from this folder (click the .bin file at the bottom of the above list > Raw > File > Save Page As)
 * run **pip install esptool**
 * run **esptool.py --chip esp8266 erase_flash**
 * run **esptool.py --chip esp8266 write_flash 0x0000 {name of the file you downloaded}**
