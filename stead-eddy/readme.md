@@ -7,7 +7,7 @@ For both PC and Mac, you will first need to connect the Blue Arduino Nano board 
 
 ## PC
 
-* Download the most recent firmware from the list above (the latest .hex file)
+* Download the most recent firmware from the list above (click the latest .hex file > Raw > File > Save Page As)
 * Download <a href='https://blog.zakkemble.net/download/AVRDUDESS-2.13-setup.exe'>AVRDudess</a>, install, and run
 
 ![image](https://user-images.githubusercontent.com/3416626/152965770-be110290-8501-4cf1-9f3d-a3a4907ce92a.png)
@@ -20,7 +20,7 @@ For both PC and Mac, you will first need to connect the Blue Arduino Nano board 
 
 ## MACOS
 
-* Download the most recent firmware from the list above (the latest .hex file)
+* Download the most recent firmware from the list above (click the latest .hex file > Raw > File > Save Page As)
 * Press `Command+Space` and type `Terminal` and press enter.
 * Install avrdude
 ```
