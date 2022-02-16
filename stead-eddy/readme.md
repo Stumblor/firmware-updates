@@ -22,15 +22,19 @@ For both PC and Mac, you will first need to connect the Blue Arduino Nano board 
 
 1. Download the most recent firmware from the list above (click the latest .hex file > Raw > File > Save Page As)
 2. Press `Command+Space` and type `Terminal` and press enter.
-3. Install avrdude
+3. Install <a href='https://brew.sh/'>homebrew</a> by entering the following command (if not done so already)
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+4. Install avrdude
 ```
 brew install avrdude
 ```
-4. Navigate to your Downloads folder
+5. Navigate to your Downloads folder
 ```
 cd Downloads
 ```
-5. Find the USB port you are connected to
+6. Find the USB port you are connected to
 ```
 ls /dev/tty.wch*
 ```
@@ -38,7 +42,7 @@ ls /dev/tty.wch*
 ```
 ls /dev/cu.usbserial*
 ```
-6. Run the following, substituting {port} with the result of step 5
+7. Run the following, substituting {port} with the result of step 5
 ```
 avrdude -v -V -patmega328p -carduino -P{port} -b115200 -D -Uflash:w:firmware.hex:i
 ```
