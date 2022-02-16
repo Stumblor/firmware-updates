@@ -36,11 +36,11 @@ cd Downloads
 ```
 6. Find the USB port you are connected to
 ```
-ls /dev/tty.wch*
+ls /dev/cu.usbserial*
 ```
 (or if none found)
 ```
-ls /dev/cu.usbserial*
+ls /dev/tty.wch*
 ```
 7. Run the following, substituting {port} with the result of step 5
 ```
