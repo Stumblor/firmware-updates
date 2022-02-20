@@ -48,6 +48,6 @@ avrdude -v -V -patmega328p -carduino -P{port} -b115200 -D -Uflash:w:firmware.hex
 ```
 For example:
 ```
-avrdude -v -V -patmega328p -carduino P/dev/cu.usbserial1440 -b115200 -D -Uflash:w:firmware.hex:i
+avrdude -v -V -patmega328p -carduino -P/dev/cu.usbserial1440 -b115200 -D -Uflash:w:firmware.hex:i
 ```
 
