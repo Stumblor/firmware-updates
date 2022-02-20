@@ -42,7 +42,8 @@ ls /dev/cu.usbserial*
 ```
 ls /dev/tty.wch*
 ```
-7. Run the following, substituting {port} with the result of step 6
+7. Run the following, substituting {port} with the result of step 6 (for example, **-P/dev/cu.usbserial1440**)
 ```
 avrdude -v -V -patmega328p -carduino -P{port} -b115200 -D -Uflash:w:firmware.hex:i
 ```
+
