@@ -4,22 +4,23 @@
 
 #### The Easy Way
 
-* Find your mod in the directories above. If there is a version number, check what is written on your board.
-* Open the folder, and download the latest firmware (click .bin file > Download)
-* Power the device
-  * If uninstalled, the easiest way is to use a 9V battery and your alligator clips. Red to positive, Black to negative.
+1. Find your mod in the directories above. If there is a version number, check what is written on your board.
+2. Open the folder, and download the latest firmware (click .bin file > Download)
+3. Power the device
+  * If installed, power up your game and go into the machine's Test Menu using the coin door controls (it is important to have steady power, not attract mode!).
+  * If uninstalled, the easiest way to power Lollypops is to use a 9V battery and your alligator clips. Red to positive, Black to negative. For other devices, check the pinout.
 
     ![image](https://user-images.githubusercontent.com/3416626/133926847-52d98d64-d494-41fb-b7c8-ddf0166606c7.png)
 
     ![image](https://user-images.githubusercontent.com/3416626/133926854-f6d35e71-669c-4c4b-84df-e83bc10cbb64.png)
 
-  * If installed, power up your game and go into the machine's Test Menu using the coin door controls.
-* Connect to your Wifi Access point (example: Stumblor-Lollypops-xxxx)
-* Open a browser and type **192.168.4.1** into the address bar
-* Click 'Settings', then 'Update Firmware'
-* Enter your HOME Wifi details, then click 'Test'
-* Once connected, browse for the firmware file you downloaded earlier
-* Wait for the update to reach 100%. The board will then reboot automatically.
+
+4. Connect to your Wifi Access point (example: Stumblor-{device name}-xxxx)
+5. Open a browser and type **192.168.4.1** into the address bar
+6. Click 'Settings', then 'Update Firmware'
+7. Enter your HOME Wifi details and then click the Test/Connect button. If the Wifi connect fails, try to put the device closer to your router, or if that is not possible, setup a wifi hotspot on your phone and connect to that.
+8. Once connected, browse for the firmware file you downloaded earlier to begin firmware update.
+9. Wait for the update to reach 100%. Once that happend, the board will take 10 seconds or so to install, re-check settings, and then reboot. Once you see the board is active again, you can navigate back to **192.168.4.1** to check settings. Occaisionally the update will stop before reaching 100%. If that happens, refresh the browser and retry from steo 7.
 
 #### The Hard Way
 
