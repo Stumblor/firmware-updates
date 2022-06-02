@@ -20,7 +20,7 @@
 6. Click 'Settings', then 'Update Firmware'
 7. Enter your HOME Wifi details and then click the Test/Connect button. If the Wifi connect fails, try to put the device closer to your router, or if that is not possible, setup a wifi hotspot on your phone and connect to that.
 8. Once connected, browse for the firmware file you downloaded earlier to begin firmware update.
-9. Wait for the update to reach 100%. Once that happend, the board will take 10 seconds or so to install, re-check settings, and then reboot. Once you see the board is active again, you can navigate back to **192.168.4.1** to check settings. Occaisionally the update will stop before reaching 100%. If that happens, refresh the browser and retry from steo 7.
+9. Wait for the update to reach 100%. Once that happend, the board will take 10 seconds or so to install, re-check settings, and then reboot. Once you see the board is active again, you can navigate back to **192.168.4.1** to check settings. Occaisionally the update will stop before reaching 100%. If that happens, refresh the browser and retry from step 7.
 
 #### The Hard Way
 
