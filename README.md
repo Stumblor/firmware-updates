@@ -2,7 +2,20 @@
 
 ### Updating your Mod Firmware
 
-#### The Easy Way
+#### The Easiest Way
+
+*This method is only available to mods that have firmware download capability, such as the GZ "Tokyo Neon" sign mod.*
+
+1. Turn on your machine, and then **enter the service menu**. Ensure the device is powered (you may need to re-close your coin door).
+2. Connect to your Wifi Access point (example: Stumblor-{device name}-xxxx)
+3. Open a browser and type **192.168.4.1** into the address bar.
+4. Click 'Settings', then 'Update Firmware'.
+5. Enter your HOME Wifi details and then click the Test/Connect button. If the Wifi connect fails, try to put the device closer to your router, or if that is not possible, setup a wifi hotspot on your phone and connect to that.
+6. Wait to see if any update is required.
+7. If a new version was found, click 'Download Latest & Install'. 
+8. Wait for the download & installation to complete. The device will then reset. You may need to reconnect to your Access point (step 2) and possibly do another power cycle of the device to complete the process.
+
+#### The Slightly Less Easy Way
 
 1. Find your mod in the directories above. If there is a version number, check what is written on your board.
 2. Open the folder, and download the latest firmware (click .bin file > Download)
