@@ -1,14 +1,14 @@
 c: #6435c9
 s: 0 SomeSwitch
-m: 0	Attract
-m: 1	Ball Start
-m: 2	White Rabbit
-m: 3	Caterpillar
-m: 4	Knave of Hearts
-m: 5	Mad Hatter
-m: 6	Army of Cards
-m: 7	Queen of Hearts
-m: 8	Throne Room
-m: 9	Midnight Madness
-m: 10 	Jabberwock Multiball
+m: 0 Attract
+m: 1 Ball Start
+m: 2 White Rabbit
+m: 3 Caterpillar
+m: 4 Knave of Hearts
+m: 5 Mad Hatter
+m: 6 Army of Cards
+m: 7 Queen of Hearts
+m: 8 Throne Room
+m: 9 Midnight Madness
+m: 10 Jabberwock Multiball
 m: 11	Quick Multiball (2 ball)
