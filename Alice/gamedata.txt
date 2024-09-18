@@ -11,4 +11,4 @@ m: 7 Queen of Hearts
 m: 8 Throne Room
 m: 9 Midnight Madness
 m: 10 Jabberwock Multiball
-m: 11	Quick Multiball (2 ball)
+m: 11 Quick Multiball (2 ball)
