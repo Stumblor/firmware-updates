@@ -1,7 +1,59 @@
 c: #6435c9
-s: 0 SW-0 SomeSwitch
+s: 0 SW00 Shooter Lane
+s: 1 SW01 Ball Trough 1
+s: 2 W02 Ball Trough 2
+s: 3 SW03 Ball Trough 3
+s: 4 SW04 Ball Trough 4
+s: 5 SW05 Ball Trough 5
+s: 6 SW06 Ball Trough 6
+s: 7 SW07 Ball Trough Jam
+s: 8 SW08 Outlane Left
+s: 9 SW09 Inlane Left
+s: 10 SW10 Slingshot Left
+s: 11 SW11 Slingshot Right
+s: 12 SW12 Inlane Right
+s: 13 SW13 Outlane Right
+s: 14 SW14 Target Magnet
+s: 15 SW15 Target Lock Left
+s: 16 SW16 not used
+s: 17 SW17 VUK
+s: 18 SW18 Lock Rollover Insert
+s: 19 SW19 Skill Shot Rollover Insert
+s: 20 SW20 Left Loop Rollover
+s: 21 SW21 Inner Newton Ball Target
+s: 22 SW22 Left Loop Rollover Insert
+s: 23 SW23 Spinner
+s: 24 SW24 Under MPF Targets
+s: 25 SW25 Left Orbit Rollover
+s: 26 SW26 Bonus X Left Rollover
+s: 27 SW27 Bonus X Right Rollover
+s: 28 SW28 MPF Target Bank
+s: 29 SW29 MPF Eject
+s: 30 SW30 MPF Exit Opto
+s: 31 SW31 Right Ramp Made Opto
+s: 32 SW32 Left Ramp Made Opto
+s: 33 SW33 MPF Captive Ball Opto
+s: 34 SW34 Opto Pair Right Orbit
+s: 35 SW35 Opto Pair Right Ramp
+s: 36 SW36 Opto Lock 3
+s: 37 SW37 Opto Lock 2
+s: 38 SW38 Opto Lock 1
+s: 39 SW39 Three Target Bank
+s: 40 SW40 not used
+s: 41 SW41 not used
+s: 42 SW42 Lock Target Right
+s: 43 SW43 Drop Target
+s: 44 SW44 not used
+s: 45 SW45 Two Target Bank
+s: 46 SW46 Pop Bumper Top
+s: 47 SW47 Pop Bumper Left
+s: 48 SW48 Pop Bumper Right
+s: 49 SW49 Skill Shot Opto (DTRH)
+s: 50 SW50 Right Loop Rollover Insert
+s: 51 SW51 Scoop Opto
+s: 52 SW52 Right Loop Target
 m: 0 Attract
-m: 1 Ball Start
+m: 1 Gameplay - No Mode
 m: 2 White Rabbit
 m: 3 Caterpillar
 m: 4 Knave of Hearts
