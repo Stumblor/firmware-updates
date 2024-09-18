@@ -1,7 +1,7 @@
 c: #6435c9
 s: 0 SW00 Shooter Lane
 s: 1 SW01 Ball Trough 1
-s: 2 W02 Ball Trough 2
+s: 2 SW02 Ball Trough 2
 s: 3 SW03 Ball Trough 3
 s: 4 SW04 Ball Trough 4
 s: 5 SW05 Ball Trough 5
