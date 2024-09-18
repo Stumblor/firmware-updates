@@ -1,5 +1,5 @@
 c: #6435c9
-s: 0 SomeSwitch
+s: 0 SW-0 SomeSwitch
 m: 0 Attract
 m: 1 Ball Start
 m: 2 White Rabbit
