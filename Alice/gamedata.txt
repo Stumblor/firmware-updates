@@ -60,10 +60,11 @@ m: 4 Knave of Hearts
 m: 5 Mad Hatter
 m: 6 Army of Cards
 m: 7 Queen of Hearts
-m: 8 Throne Room
+m: 8 Throne Room (Paint the Roses Red)
 m: 9 Midnight Madness
 m: 10 Jabberwock Multiball
-m: 11 Quick Multiball (2 ball)
+m: 11 Croquet Multiball (2 ball)
 m: 12 Mystery
 m: 13 Mad Hatter (Green)
+m: 14 Finding Suits
 
