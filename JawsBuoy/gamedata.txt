@@ -1,4 +1,4 @@
 c: #0047ab
 m: 0 GI On
 m: 1 GI Off
-m: 2 GI Green
+m: 2 Night Swim
