@@ -1,1 +1,224 @@
-
+$: 0x0001 main theme
+$: 0x0002 funhouse theme
+$: 0x0004 left launch ball
+$: 0x0005 before launching ball
+$: 0x0006 11h45
+$: 0x0007 before multiball
+$: 0x0008 multiball theme
+$: 0x0009 jackpot high score theme
+$: 0x000a midnight
+$: 0x000b funhouse
+$: 0x000c lock 11 45
+$: 0x000d multiball restart
+$: 0x000e frenzy
+$: 0x000f superdog
+$: 0x0010 multiball restart
+$: 0x0011 quick multiball
+$: 0x0012 end mode
+$: 0x0013 quick multiball shooter
+$: 0x0040 win 1
+$: 0x0041 main theme
+$: 0x0042 rudy sleeping
+$: 0x0043 11 45h theme
+$: 0x0044 rudy sleeping
+$: 0x0045 super frenzy
+$: 0x0046 champion music
+$: 0x0047 multiball restart
+$: 0x0048 frenzy
+$: 0x0049 super dog
+$: 0x004a multiball theme
+$: 0x0050 button door sound
+$: 0x0051 menu button
+$: 0x0052 wrong way
+$: 0x0053 adjustment ok
+$: 0x0054 waiting adjustment
+$: 0x0055 next menu
+$: 0x0056 previous menu
+$: 0x0057 back menu
+$: 0x0058 back menu
+$: 0x0059 error in the menu
+$: 0x0080 extra ball
+$: 0x0081 the park is closed
+$: 0x0082 gangway lit inlane
+$: 0x0083 windtunnel mystery mirror
+$: 0x0084 outlane
+$: 0x0086 windtunnel mystery mirror award
+$: 0x0087 s t e p target hit
+$: 0x0088 clock bell
+$: 0x0089 shooter plunge
+$: 0x008a bumper hit 1
+$: 0x008b bumper hit 2
+$: 0x008c bumper hit 3
+$: 0x008d lit steps sinkhole
+$: 0x008e left shooter plunge
+$: 0x0090 tilt
+$: 0x0091 s t e p complete
+$: 0x0092 mystery lit inlane
+$: 0x0093 tilt warning
+$: 0x0094 money introduce
+$: 0x0095 super dog hit
+$: 0x0096 jet bumper hit
+$: 0x0097 jet bumper hit
+$: 0x0098 jet bumper hit
+$: 0x0099 flashing jet bumper hit
+$: 0x009a flashing jet bumper hit
+$: 0x009b flashing jet bumper hit
+$: 0x009c bonus rudy hole 
+$: 0x009d step missed
+$: 0x009f mystery lit inlane
+$: 0x00a0 extra ball lit
+$: 0x00a1 frenzy total end
+$: 0x00a2 step target hit when lit
+$: 0x00a3 loop 1
+$: 0x00a4 various target hit
+$: 0x00a5 loop 2
+$: 0x00a7 loop 3
+$: 0x00a9 million shot made
+$: 0x00aa 3 way combo
+$: 0x00ac multiball ramp
+$: 0x00ad 4 way combo
+$: 0x00ae trap door bonus
+$: 0x00b0 hidden hallway kickout
+$: 0x00b5 frenzy target hit
+$: 0x00b6 ramp entrance
+$: 0x00b8 trap door open
+$: 0x00ba various target hit
+$: 0x00bc steps award super dog
+$: 0x00bf hole exit at right 
+$: 0x00c0 bell ring
+$: 0x00c1 ramp hit enter
+$: 0x00c2 ramp made
+$: 0x00c3 orbit shot
+$: 0x00c4 gangway made
+$: 0x00c6 trap door closed
+$: 0x00c7 trap door closed
+$: 0x00c8 jackpot
+$: 0x00c9 before multiball rudy suffocate 
+$: 0x00ca win stars
+$: 0x00cb multiball restart hidden hallway
+$: 0x00cc quick multiball mirror award
+$: 0x00ce replay special
+$: 0x00d0 frenzy effect 1
+$: 0x00d1 frenzy effect 2
+$: 0x00d2 frenzy effect 3
+$: 0x00d3 frenzy effect 4
+$: 0x00d4 during match
+$: 0x00d5 during match
+$: 0x00d6 frenzy effect 7
+$: 0x00d7 frenzy effect 8
+$: 0x00d8 frenzy effect 9
+$: 0x00d9 frenzy effect 10
+$: 0x00db frenzy effect 11
+$: 0x00df during match
+$: 0x00e0 bonus 1
+$: 0x00e1 bonus 2
+$: 0x00e2 during bonus
+$: 0x00e3 bonus 4
+$: 0x00e4 bonus 5
+$: 0x00e5 during match
+$: 0x00e6 bonus 7
+$: 0x7a00 hey hey hey
+$: 0x7a01 haa ha ha ha ha ha ha ha
+$: 0x7a02 hey
+$: 0x7a03 you can t hide
+$: 0x7a04 i see you now
+$: 0x7a05 come back here
+$: 0x7a06 play again
+$: 0x7a07 it s getting late
+$: 0x7a08 get deal
+$: 0x7a09 you pig
+$: 0x7a0a where did you go now 
+$: 0x7a0b quit playing with the clock
+$: 0x7a0c m sausage
+$: 0x7a0d go ahead trying high
+$: 0x7a0e ummmmhhh beeeehhh
+$: 0x7a0f uhhhhh
+$: 0x7a10 no way
+$: 0x7a11 uwoooowooo
+$: 0x7a12 uhhhhuhhhh
+$: 0x7a13 stop running around
+$: 0x7a14 stop it
+$: 0x7a15 yerk
+$: 0x7a16 ouch
+$: 0x7a17 this is really starting to annoy me
+$: 0x7a18 aouch
+$: 0x7a19 that s not funny
+$: 0x7a1a close the door
+$: 0x7a1b you don t wanna go down there
+$: 0x7a1c funhouse
+$: 0x7a1d ya ain t seen the likes of me
+$: 0x7a1e explosion
+$: 0x7a1f beef biff 
+$: 0x7a20 bucko
+$: 0x7a21 buddy
+$: 0x7a22 you don t know what s in there
+$: 0x7a23 buster
+$: 0x7a24 chuckie
+$: 0x7a25 stay away from that door
+$: 0x7a26 c mon in
+$: 0x7a27 slick
+$: 0x7a28 don t go near the door
+$: 0x7a29 what did i ever do to you
+$: 0x7a2a my funhouse is closed
+$: 0x7a2b i thought we were pals
+$: 0x7a2c this is the trapdoor
+$: 0x7a2d go play on the steps
+$: 0x7a2e where did it go 
+$: 0x7a2f slick
+$: 0x7a30 yum yum
+$: 0x7a31 pitifoowi
+$: 0x7a32 chuckie
+$: 0x7a33 biff
+$: 0x7a34 spunky
+$: 0x7a35 there s an extra ball
+$: 0x7a36 shoot again
+$: 0x7a37 buddy
+$: 0x7a38 buster
+$: 0x7a39 frenzy
+$: 0x7a3a bucko
+$: 0x7a3b oh boy oh boy oh boy
+$: 0x7a3c what was that 
+$: 0x7a3d spunky
+$: 0x7a3e nice doing
+$: 0x7a3f howdy
+$: 0x7a40 hungry
+$: 0x7a41 you re up
+$: 0x7a42 the door is open
+$: 0x7a43 hand s up
+$: 0x7a44 look out
+$: 0x7a45 here it comes
+$: 0x7a46 you can have it back
+$: 0x7a47 right back at ya
+$: 0x7a48 i m watching you
+$: 0x7a49 good night
+$: 0x7a4a great shot
+$: 0x7a4b i feel like a million
+$: 0x7a4c hey it s only pinball
+$: 0x7a4d i m still hungry
+$: 0x7a4e maybe next time
+$: 0x7a4f i m not happy with you now
+$: 0x7a50 oh no
+$: 0x7a51 it s lunchtime
+$: 0x7a52 power fan
+$: 0x7a53 game way
+$: 0x7a54 that was no accident
+$: 0x7a55 now who s the dummy
+$: 0x7a56 look over there
+$: 0x7a57 you missed again
+$: 0x7a58 snoring
+$: 0x7a59 snoring 2
+$: 0x7a5a shout
+$: 0x7a5b let s play two
+$: 0x7a5c zoom
+$: 0x7a5d extra ball
+$: 0x7a5e swallow
+$: 0x7a5f million
+$: 0x7a60 i m so sleepy
+$: 0x7a61 yawn
+$: 0x7a62 yawn 2
+$: 0x7a63 big points
+$: 0x7a65 stay away from the clock
+$: 0x7a68 you re making me very unhappy
+$: 0x7a69 hey
+$: 0x7a6a explosion 2
+$: 0x7a6b explosion 3
