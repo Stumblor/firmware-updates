@@ -1,224 +1,224 @@
-prefix: 0x0001 0001 main theme
-prefix: 0x0002 0002 funhouse theme
-prefix: 0x0004 0004 left launch ball
-prefix: 0x0005 0005 before launching ball
-prefix: 0x0006 0006 11h45
-prefix: 0x0007 0007 before multiball
-prefix: 0x0008 0008 multiball theme
-prefix: 0x0009 0009 jackpot high score theme
-prefix: 0x000a 000a midnight
-prefix: 0x000b 000b funhouse
-prefix: 0x000c 000c lock 11 45
-prefix: 0x000d 000d multiball restart
-prefix: 0x000e 000e frenzy
-prefix: 0x000f 000f superdog
-prefix: 0x0010 0010 multiball restart
-prefix: 0x0011 0011 quick multiball
-prefix: 0x0012 0012 end mode
-prefix: 0x0013 0013 quick multiball shooter
-prefix: 0x0040 0040 win 1
-prefix: 0x0041 0041 main theme
-prefix: 0x0042 0042 rudy sleeping
-prefix: 0x0043 0043 11 45h theme
-prefix: 0x0044 0044 rudy sleeping
-prefix: 0x0045 0045 super frenzy
-prefix: 0x0046 0046 champion music
-prefix: 0x0047 0047 multiball restart
-prefix: 0x0048 0048 frenzy
-prefix: 0x0049 0049 super dog
-prefix: 0x004a 004a multiball theme
-prefix: 0x0050 0050 bouton door sound
-prefix: 0x0051 0051 menu bouton
-prefix: 0x0052 0052 wrong way
-prefix: 0x0053 0053 adjustement ok
-prefix: 0x0054 0054 waiting adjustement
-prefix: 0x0055 0055 next menu
-prefix: 0x0056 0056 previous menu
-prefix: 0x0057 0057 back menu
-prefix: 0x0058 0058 back menu
-prefix: 0x0059 0059 error in the menu
-prefix: 0x0080 0080 extra ball
-prefix: 0x0081 0081 the park is closed
-prefix: 0x0082 0082 gangway lit inlane
-prefix: 0x0083 0083 windtunnel mystery mirror
-prefix: 0x0084 0084 outlane
-prefix: 0x0086 0086 windtunnel mystery mirror award
-prefix: 0x0087 0087 s t e p target hit
-prefix: 0x0088 0088 clock bell
-prefix: 0x0089 0089 shooter plunge
-prefix: 0x008a 008a bumper hit 1
-prefix: 0x008b 008b bumper hit 2
-prefix: 0x008c 008c bumper hit 3
-prefix: 0x008d 008d lit steps sinkhole
-prefix: 0x008e 008e left shooter plunge
-prefix: 0x0090 0090 tilt
-prefix: 0x0091 0091 s t e p complete
-prefix: 0x0092 0092 mystery lit inlane
-prefix: 0x0093 0093 tilt warning
-prefix: 0x0094 0094 money introduce
-prefix: 0x0095 0095 super dog hit
-prefix: 0x0096 0096 jet bumper hit
-prefix: 0x0097 0097 jet bumper hit
-prefix: 0x0098 0098 jet bumper hit
-prefix: 0x0099 0099 flashing jet bumper hit
-prefix: 0x009a 009a flashing jet bumper hit
-prefix: 0x009b 009b flashing jet bumper hit
-prefix: 0x009c 009c bonus rudy hole 
-prefix: 0x009d 009d step missed
-prefix: 0x009f 009f mystery lit inlane
-prefix: 0x00a0 00a0 extra ball lit
-prefix: 0x00a1 00a1 frenzy total end
-prefix: 0x00a2 00a2 step target hit when lit
-prefix: 0x00a3 00a3 loop 1
-prefix: 0x00a4 00a4 various target hit
-prefix: 0x00a5 00a5 loop 2
-prefix: 0x00a7 00a7 loop 3
-prefix: 0x00a9 00a9 million shot made
-prefix: 0x00aa 00aa 3 way combo
-prefix: 0x00ac 00ac multiball ramp
-prefix: 0x00ad 00ad 4 way combo
-prefix: 0x00ae 00ae trap door bonus
-prefix: 0x00b0 00b0 hidden hallway kickout
-prefix: 0x00b5 00b5 frenzy target hit
-prefix: 0x00b6 00b6 ramp entrance
-prefix: 0x00b8 00b8 trap door open
-prefix: 0x00ba 00ba various target hit
-prefix: 0x00bc 00bc steps award super dog
-prefix: 0x00bf 00bf hole exit at right 
-prefix: 0x00c0 00c0 bell ring
-prefix: 0x00c1 00c1 ramp hit enter
-prefix: 0x00c2 00c2 ramp made
-prefix: 0x00c3 00c3 orbit shot
-prefix: 0x00c4 00c4 gangway made
-prefix: 0x00c6 00c6 trap door closed
-prefix: 0x00c7 00c7 trap door closed
-prefix: 0x00c8 00c8 jackpot
-prefix: 0x00c9 00c9 before multiball rudy suffocate 
-prefix: 0x00ca 00ca win stars
-prefix: 0x00cb 00cb multiball restart hidden hallway
-prefix: 0x00cc 00cc quick multiball mirror award
-prefix: 0x00ce 00ce replay special
-prefix: 0x00d0 00d0 frenzy effect 1
-prefix: 0x00d1 00d1 frenzy effect 2
-prefix: 0x00d2 00d2 frenzy effect 3
-prefix: 0x00d3 00d3 frenzy effect 4
-prefix: 0x00d4 00d4 during match
-prefix: 0x00d5 00d5 during match
-prefix: 0x00d6 00d6 frenzy effect 7
-prefix: 0x00d7 00d7 frenzy effect 8
-prefix: 0x00d8 00d8 frenzy effect 9
-prefix: 0x00d9 00d9 frenzy effect 10
-prefix: 0x00db 00db frenzy effect 11
-prefix: 0x00df 00df during match
-prefix: 0x00e0 00e0 bonus 1
-prefix: 0x00e1 00e1 bonus 2
-prefix: 0x00e2 00e2 during bonus
-prefix: 0x00e3 00e3 bonus 4
-prefix: 0x00e4 00e4 bonus 5
-prefix: 0x00e5 00e5 during match
-prefix: 0x00e6 00e6 bonus 7
-prefix: 0x7a00 7a00 hey hey hey
-prefix: 0x7a01 7a01 haa ha ha ha ha ha ha ha
-prefix: 0x7a02 7a02 hey
-prefix: 0x7a03 7a03 you can t hide
-prefix: 0x7a04 7a04 i see you now
-prefix: 0x7a05 7a05 come back here
-prefix: 0x7a06 7a06 play again
-prefix: 0x7a07 7a07 it s getting late
-prefix: 0x7a08 7a08 get deal
-prefix: 0x7a09 7a09 you pig
-prefix: 0x7a0a 7a0a where did you go now 
-prefix: 0x7a0b 7a0b quit playing with the clock
-prefix: 0x7a0c 7a0c m sausage
-prefix: 0x7a0d 7a0d go ahead trying high
-prefix: 0x7a0e 7a0e ummmmhhh beeeehhh
-prefix: 0x7a0f 7a0f uhhhhh
-prefix: 0x7a10 7a10 no way
-prefix: 0x7a11 7a11 uwoooowooo
-prefix: 0x7a12 7a12 uhhhhuhhhh
-prefix: 0x7a13 7a13 stop running around
-prefix: 0x7a14 7a14 stop it
-prefix: 0x7a15 7a15 yerk
-prefix: 0x7a16 7a16 ouch
-prefix: 0x7a17 7a17 this is really starting to annoy me
-prefix: 0x7a18 7a18 aouch
-prefix: 0x7a19 7a19 that s not funny
-prefix: 0x7a1a 7a1a close the door
-prefix: 0x7a1b 7a1b you don t wanna go down there
-prefix: 0x7a1c 7a1c funhouse
-prefix: 0x7a1d 7a1d ya ain t seen the likes of me
-prefix: 0x7a1e 7a1e explosion
-prefix: 0x7a1f 7a1f beef biff 
-prefix: 0x7a20 7a20 bucko
-prefix: 0x7a21 7a21 buddy
-prefix: 0x7a22 7a22 you don t know what s in there
-prefix: 0x7a23 7a23 buster
-prefix: 0x7a24 7a24 chuckie
-prefix: 0x7a25 7a25 stay away from that door
-prefix: 0x7a26 7a26 c mon in
-prefix: 0x7a27 7a27 slick
-prefix: 0x7a28 7a28 don t go near the door
-prefix: 0x7a29 7a29 what did i ever do to you
-prefix: 0x7a2a 7a2a my funhouse is closed
-prefix: 0x7a2b 7a2b i thought we were pals
-prefix: 0x7a2c 7a2c this is the trapdoor
-prefix: 0x7a2d 7a2d go play on the steps
-prefix: 0x7a2e 7a2e where did it go 
-prefix: 0x7a2f 7a2f slick
-prefix: 0x7a30 7a30 yum yum
-prefix: 0x7a31 7a31 pitifoowi
-prefix: 0x7a32 7a32 chuckie
-prefix: 0x7a33 7a33 biff
-prefix: 0x7a34 7a34 spunky
-prefix: 0x7a35 7a35 there s an extra ball
-prefix: 0x7a36 7a36 shoot again
-prefix: 0x7a37 7a37 buddy
-prefix: 0x7a38 7a38 buster
-prefix: 0x7a39 7a39 frenzy
-prefix: 0x7a3a 7a3a bucko
-prefix: 0x7a3b 7a3b oh boy oh boy oh boy
-prefix: 0x7a3c 7a3c what was that 
-prefix: 0x7a3d 7a3d spunky
-prefix: 0x7a3e 7a3e nice doing
-prefix: 0x7a3f 7a3f howdy
-prefix: 0x7a40 7a40 hungry
-prefix: 0x7a41 7a41 you re up
-prefix: 0x7a42 7a42 the door is open
-prefix: 0x7a43 7a43 hand s up
-prefix: 0x7a44 7a44 look out
-prefix: 0x7a45 7a45 here it comes
-prefix: 0x7a46 7a46 you can have it back
-prefix: 0x7a47 7a47 right back at ya
-prefix: 0x7a48 7a48 i m watching you
-prefix: 0x7a49 7a49 good night
-prefix: 0x7a4a 7a4a great shot
-prefix: 0x7a4b 7a4b i feel like a million
-prefix: 0x7a4c 7a4c hey it s only pinball
-prefix: 0x7a4d 7a4d i m still hungry
-prefix: 0x7a4e 7a4e maybe next time
-prefix: 0x7a4f 7a4f i m not happy with you now
-prefix: 0x7a50 7a50 oh no
-prefix: 0x7a51 7a51 it s lunchtime
-prefix: 0x7a52 7a52 power fan
-prefix: 0x7a53 7a53 game way
-prefix: 0x7a54 7a54 that was no accident
-prefix: 0x7a55 7a55 now who s the dummy
-prefix: 0x7a56 7a56 look over there
-prefix: 0x7a57 7a57 you missed again
-prefix: 0x7a58 7a58 snoring
-prefix: 0x7a59 7a59 snoring 2
-prefix: 0x7a5a 7a5a shout
-prefix: 0x7a5b 7a5b let s play two
-prefix: 0x7a5c 7a5c zoom
-prefix: 0x7a5d 7a5d extra ball
-prefix: 0x7a5e 7a5e swallow
-prefix: 0x7a5f 7a5f million
-prefix: 0x7a60 7a60 i m so sleepy
-prefix: 0x7a61 7a61 yawn
-prefix: 0x7a62 7a62 yawn 2
-prefix: 0x7a63 7a63 big points
-prefix: 0x7a65 7a65 stay away from the clock
-prefix: 0x7a68 7a68 you re making me very unhappy
-prefix: 0x7a69 7a69 hey
-prefix: 0x7a6a 7a6a explosion 2
-prefix: 0x7a6b 7a6b explosion 3
+$: 0x0001 0001 main theme
+$: 0x0002 0002 funhouse theme
+$: 0x0004 0004 left launch ball
+$: 0x0005 0005 before launching ball
+$: 0x0006 0006 11h45
+$: 0x0007 0007 before multiball
+$: 0x0008 0008 multiball theme
+$: 0x0009 0009 jackpot high score theme
+$: 0x000a 000a midnight
+$: 0x000b 000b funhouse
+$: 0x000c 000c lock 11 45
+$: 0x000d 000d multiball restart
+$: 0x000e 000e frenzy
+$: 0x000f 000f superdog
+$: 0x0010 0010 multiball restart
+$: 0x0011 0011 quick multiball
+$: 0x0012 0012 end mode
+$: 0x0013 0013 quick multiball shooter
+$: 0x0040 0040 win 1
+$: 0x0041 0041 main theme
+$: 0x0042 0042 rudy sleeping
+$: 0x0043 0043 11 45h theme
+$: 0x0044 0044 rudy sleeping
+$: 0x0045 0045 super frenzy
+$: 0x0046 0046 champion music
+$: 0x0047 0047 multiball restart
+$: 0x0048 0048 frenzy
+$: 0x0049 0049 super dog
+$: 0x004a 004a multiball theme
+$: 0x0050 0050 bouton door sound
+$: 0x0051 0051 menu bouton
+$: 0x0052 0052 wrong way
+$: 0x0053 0053 adjustement ok
+$: 0x0054 0054 waiting adjustement
+$: 0x0055 0055 next menu
+$: 0x0056 0056 previous menu
+$: 0x0057 0057 back menu
+$: 0x0058 0058 back menu
+$: 0x0059 0059 error in the menu
+$: 0x0080 0080 extra ball
+$: 0x0081 0081 the park is closed
+$: 0x0082 0082 gangway lit inlane
+$: 0x0083 0083 windtunnel mystery mirror
+$: 0x0084 0084 outlane
+$: 0x0086 0086 windtunnel mystery mirror award
+$: 0x0087 0087 s t e p target hit
+$: 0x0088 0088 clock bell
+$: 0x0089 0089 shooter plunge
+$: 0x008a 008a bumper hit 1
+$: 0x008b 008b bumper hit 2
+$: 0x008c 008c bumper hit 3
+$: 0x008d 008d lit steps sinkhole
+$: 0x008e 008e left shooter plunge
+$: 0x0090 0090 tilt
+$: 0x0091 0091 s t e p complete
+$: 0x0092 0092 mystery lit inlane
+$: 0x0093 0093 tilt warning
+$: 0x0094 0094 money introduce
+$: 0x0095 0095 super dog hit
+$: 0x0096 0096 jet bumper hit
+$: 0x0097 0097 jet bumper hit
+$: 0x0098 0098 jet bumper hit
+$: 0x0099 0099 flashing jet bumper hit
+$: 0x009a 009a flashing jet bumper hit
+$: 0x009b 009b flashing jet bumper hit
+$: 0x009c 009c bonus rudy hole 
+$: 0x009d 009d step missed
+$: 0x009f 009f mystery lit inlane
+$: 0x00a0 00a0 extra ball lit
+$: 0x00a1 00a1 frenzy total end
+$: 0x00a2 00a2 step target hit when lit
+$: 0x00a3 00a3 loop 1
+$: 0x00a4 00a4 various target hit
+$: 0x00a5 00a5 loop 2
+$: 0x00a7 00a7 loop 3
+$: 0x00a9 00a9 million shot made
+$: 0x00aa 00aa 3 way combo
+$: 0x00ac 00ac multiball ramp
+$: 0x00ad 00ad 4 way combo
+$: 0x00ae 00ae trap door bonus
+$: 0x00b0 00b0 hidden hallway kickout
+$: 0x00b5 00b5 frenzy target hit
+$: 0x00b6 00b6 ramp entrance
+$: 0x00b8 00b8 trap door open
+$: 0x00ba 00ba various target hit
+$: 0x00bc 00bc steps award super dog
+$: 0x00bf 00bf hole exit at right 
+$: 0x00c0 00c0 bell ring
+$: 0x00c1 00c1 ramp hit enter
+$: 0x00c2 00c2 ramp made
+$: 0x00c3 00c3 orbit shot
+$: 0x00c4 00c4 gangway made
+$: 0x00c6 00c6 trap door closed
+$: 0x00c7 00c7 trap door closed
+$: 0x00c8 00c8 jackpot
+$: 0x00c9 00c9 before multiball rudy suffocate 
+$: 0x00ca 00ca win stars
+$: 0x00cb 00cb multiball restart hidden hallway
+$: 0x00cc 00cc quick multiball mirror award
+$: 0x00ce 00ce replay special
+$: 0x00d0 00d0 frenzy effect 1
+$: 0x00d1 00d1 frenzy effect 2
+$: 0x00d2 00d2 frenzy effect 3
+$: 0x00d3 00d3 frenzy effect 4
+$: 0x00d4 00d4 during match
+$: 0x00d5 00d5 during match
+$: 0x00d6 00d6 frenzy effect 7
+$: 0x00d7 00d7 frenzy effect 8
+$: 0x00d8 00d8 frenzy effect 9
+$: 0x00d9 00d9 frenzy effect 10
+$: 0x00db 00db frenzy effect 11
+$: 0x00df 00df during match
+$: 0x00e0 00e0 bonus 1
+$: 0x00e1 00e1 bonus 2
+$: 0x00e2 00e2 during bonus
+$: 0x00e3 00e3 bonus 4
+$: 0x00e4 00e4 bonus 5
+$: 0x00e5 00e5 during match
+$: 0x00e6 00e6 bonus 7
+$: 0x7a00 7a00 hey hey hey
+$: 0x7a01 7a01 haa ha ha ha ha ha ha ha
+$: 0x7a02 7a02 hey
+$: 0x7a03 7a03 you can t hide
+$: 0x7a04 7a04 i see you now
+$: 0x7a05 7a05 come back here
+$: 0x7a06 7a06 play again
+$: 0x7a07 7a07 it s getting late
+$: 0x7a08 7a08 get deal
+$: 0x7a09 7a09 you pig
+$: 0x7a0a 7a0a where did you go now 
+$: 0x7a0b 7a0b quit playing with the clock
+$: 0x7a0c 7a0c m sausage
+$: 0x7a0d 7a0d go ahead trying high
+$: 0x7a0e 7a0e ummmmhhh beeeehhh
+$: 0x7a0f 7a0f uhhhhh
+$: 0x7a10 7a10 no way
+$: 0x7a11 7a11 uwoooowooo
+$: 0x7a12 7a12 uhhhhuhhhh
+$: 0x7a13 7a13 stop running around
+$: 0x7a14 7a14 stop it
+$: 0x7a15 7a15 yerk
+$: 0x7a16 7a16 ouch
+$: 0x7a17 7a17 this is really starting to annoy me
+$: 0x7a18 7a18 aouch
+$: 0x7a19 7a19 that s not funny
+$: 0x7a1a 7a1a close the door
+$: 0x7a1b 7a1b you don t wanna go down there
+$: 0x7a1c 7a1c funhouse
+$: 0x7a1d 7a1d ya ain t seen the likes of me
+$: 0x7a1e 7a1e explosion
+$: 0x7a1f 7a1f beef biff 
+$: 0x7a20 7a20 bucko
+$: 0x7a21 7a21 buddy
+$: 0x7a22 7a22 you don t know what s in there
+$: 0x7a23 7a23 buster
+$: 0x7a24 7a24 chuckie
+$: 0x7a25 7a25 stay away from that door
+$: 0x7a26 7a26 c mon in
+$: 0x7a27 7a27 slick
+$: 0x7a28 7a28 don t go near the door
+$: 0x7a29 7a29 what did i ever do to you
+$: 0x7a2a 7a2a my funhouse is closed
+$: 0x7a2b 7a2b i thought we were pals
+$: 0x7a2c 7a2c this is the trapdoor
+$: 0x7a2d 7a2d go play on the steps
+$: 0x7a2e 7a2e where did it go 
+$: 0x7a2f 7a2f slick
+$: 0x7a30 7a30 yum yum
+$: 0x7a31 7a31 pitifoowi
+$: 0x7a32 7a32 chuckie
+$: 0x7a33 7a33 biff
+$: 0x7a34 7a34 spunky
+$: 0x7a35 7a35 there s an extra ball
+$: 0x7a36 7a36 shoot again
+$: 0x7a37 7a37 buddy
+$: 0x7a38 7a38 buster
+$: 0x7a39 7a39 frenzy
+$: 0x7a3a 7a3a bucko
+$: 0x7a3b 7a3b oh boy oh boy oh boy
+$: 0x7a3c 7a3c what was that 
+$: 0x7a3d 7a3d spunky
+$: 0x7a3e 7a3e nice doing
+$: 0x7a3f 7a3f howdy
+$: 0x7a40 7a40 hungry
+$: 0x7a41 7a41 you re up
+$: 0x7a42 7a42 the door is open
+$: 0x7a43 7a43 hand s up
+$: 0x7a44 7a44 look out
+$: 0x7a45 7a45 here it comes
+$: 0x7a46 7a46 you can have it back
+$: 0x7a47 7a47 right back at ya
+$: 0x7a48 7a48 i m watching you
+$: 0x7a49 7a49 good night
+$: 0x7a4a 7a4a great shot
+$: 0x7a4b 7a4b i feel like a million
+$: 0x7a4c 7a4c hey it s only pinball
+$: 0x7a4d 7a4d i m still hungry
+$: 0x7a4e 7a4e maybe next time
+$: 0x7a4f 7a4f i m not happy with you now
+$: 0x7a50 7a50 oh no
+$: 0x7a51 7a51 it s lunchtime
+$: 0x7a52 7a52 power fan
+$: 0x7a53 7a53 game way
+$: 0x7a54 7a54 that was no accident
+$: 0x7a55 7a55 now who s the dummy
+$: 0x7a56 7a56 look over there
+$: 0x7a57 7a57 you missed again
+$: 0x7a58 7a58 snoring
+$: 0x7a59 7a59 snoring 2
+$: 0x7a5a 7a5a shout
+$: 0x7a5b 7a5b let s play two
+$: 0x7a5c 7a5c zoom
+$: 0x7a5d 7a5d extra ball
+$: 0x7a5e 7a5e swallow
+$: 0x7a5f 7a5f million
+$: 0x7a60 7a60 i m so sleepy
+$: 0x7a61 7a61 yawn
+$: 0x7a62 7a62 yawn 2
+$: 0x7a63 7a63 big points
+$: 0x7a65 7a65 stay away from the clock
+$: 0x7a68 7a68 you re making me very unhappy
+$: 0x7a69 7a69 hey
+$: 0x7a6a 7a6a explosion 2
+$: 0x7a6b 7a6b explosion 3
