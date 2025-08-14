@@ -1,0 +1,558 @@
+$: 0x0002 0002 attract music
+$: 0x0003 0003 flash laser
+$: 0x0004 0004 end of play
+$: 0x0005 0005 super jets
+$: 0x0006 0006 arc multiball
+$: 0x0007 0007 good point
+$: 0x0008 0008 combo
+$: 0x0009 0009 rope multiball
+$: 0x000a 000a ball locked
+$: 0x000b 000b start rope 1
+$: 0x000c 000c start rope 2
+$: 0x000d 000d start rope 3
+$: 0x000e 000e good point
+$: 0x000f 000f match
+$: 0x0010 0010 goal
+$: 0x0011 0011 sparkling
+$: 0x0012 0012 attract mode
+$: 0x0013 0013 conclusion bell
+$: 0x0014 0014 judgment
+$: 0x0015 0015 main theme
+$: 0x0016 0016 ringmaster battle
+$: 0x0018 0018 attract
+$: 0x0019 0019 good point 2
+$: 0x001a 001a good point 3
+$: 0x001b 001b drum
+$: 0x001c 001c good target 2
+$: 0x001d 001d sameas 000028 good target 2
+$: 0x001e 001e end bonus
+$: 0x0020 0020 magic
+$: 0x0021 0021 victory
+$: 0x0023 0023 ronnie
+$: 0x0024 0024 good point 3
+$: 0x0025 0025 good target 3
+$: 0x0026 0026 mister loyal frenzy
+$: 0x0027 0027 mega combo
+$: 0x0029 0029 drums waiting
+$: 0x002a 002a magical theme
+$: 0x002c 002c too late
+$: 0x002d 002d mister loyal
+$: 0x002e 002e high score
+$: 0x002f 002f fun fair
+$: 0x0030 0030 jungler lock
+$: 0x0031 0031 mister loyal
+$: 0x0032 0032 cheat lock
+$: 0x0033 0033 wow
+$: 0x0034 0034 tagada tsaww
+$: 0x0035 0035 loose
+$: 0x0036 0036 points attribuate
+$: 0x0037 0037 sneaky ball lock
+$: 0x0038 0038 extra ba
+$: 0x0039 0039 mister loyal
+$: 0x003a 003a chord
+$: 0x003b 003b sameas 000058 chord
+$: 0x003e 003e popcorn 
+$: 0x003f 003f final th
+$: 0x0043 0043 final th
+$: 0x0045 0045 highwire
+$: 0x0046 0046 bonus
+$: 0x0047 0047 sameas 000070 bonus
+$: 0x0048 0048 hit
+$: 0x0049 0049 sameas 000072 hit
+$: 0x004a 004a hit 2
+$: 0x004b 004b sameas 000074 hit 2
+$: 0x004c 004c magical bell
+$: 0x004e 004e drum end bonus
+$: 0x0050 0050 bonus 2
+$: 0x0051 0051 sameas 000080 bonus 2
+$: 0x0052 0052 good point
+$: 0x0053 0053 sameas 000082 good point
+$: 0x0054 0054 goal
+$: 0x0055 0055 sameas 000084 goal
+$: 0x0057 0057 jackpot
+$: 0x005a 005a error
+$: 0x005b 005b sameas 000090 error
+$: 0x005c 005c organ 2
+$: 0x005d 005d sameas 000092 organ 2
+$: 0x005e 005e organ 3
+$: 0x005f 005f sameas 000094 organ 3
+$: 0x0061 0061 congratulation
+$: 0x0063 0063 bongo
+$: 0x0066 0066 space laser
+$: 0x0068 0068 electric shot
+$: 0x0069 0069 wow block
+$: 0x006a 006a laser clang
+$: 0x006b 006b crowd
+$: 0x006c 006c ohh crowd
+$: 0x006d 006d laser shot
+$: 0x006e 006e missed 2
+$: 0x006f 006f ah ah ah down
+$: 0x0070 0070 clinking
+$: 0x0071 0071 rope
+$: 0x0072 0072 space blast
+$: 0x0074 0074 loading gun
+$: 0x0075 0075 magical down
+$: 0x0078 0078 steel clinking
+$: 0x0079 0079 long boom
+$: 0x007a 007a whistle fx
+$: 0x007b 007b short txeet
+$: 0x007c 007c boom reverse
+$: 0x007d 007d splash
+$: 0x007e 007e electric
+$: 0x0080 0080 electric 2
+$: 0x0083 0083 criiiish
+$: 0x0086 0086 winning up
+$: 0x0087 0087 lion voice
+$: 0x008a 008a clic
+$: 0x008b 008b bing
+$: 0x008c 008c horn horn
+$: 0x008d 008d spring
+$: 0x008e 008e waf
+$: 0x008f 008f blast echo
+$: 0x0090 0090 water fall
+$: 0x0091 0091 up and down
+$: 0x0092 0092 sameas 000142 waf
+$: 0x0096 0096 bing
+$: 0x0098 0098 failed
+$: 0x0099 0099 ting
+$: 0x009a 009a bell ring
+$: 0x009b 009b missed 2
+$: 0x009c 009c laser shot
+$: 0x009d 009d crowd
+$: 0x009f 009f winning point
+$: 0x00a0 00a0 missed
+$: 0x00a1 00a1 laser bing
+$: 0x00a2 00a2 double hit
+$: 0x00a3 00a3 horn car
+$: 0x00a4 00a4 horn 2
+$: 0x00a5 00a5 roulette stop
+$: 0x00a7 00a7 sameas 000163 horn car
+$: 0x00aa 00aa elephant
+$: 0x00ad 00ad wizz 2
+$: 0x00ae 00ae electric long
+$: 0x00af 00af rocket up
+$: 0x00b2 00b2 cat
+$: 0x00b3 00b3 acrobats
+$: 0x00b4 00b4 ohhhhhhh
+$: 0x00b5 00b5 fanatic crowd
+$: 0x00b8 00b8 loading ramp
+$: 0x00ba 00ba clic blam
+$: 0x00bb 00bb cling high
+$: 0x00bc 00bc tling cling
+$: 0x00be 00be laser space
+$: 0x00bf 00bf monkey
+$: 0x00c0 00c0 bell ring high
+$: 0x00c1 00c1 bell ring down
+$: 0x00c2 00c2 bell ring middle
+$: 0x00c3 00c3 bell ring middle down
+$: 0x00c8 00c8 distant lion
+$: 0x00c9 00c9 bomb blast
+$: 0x00cc 00cc happy crowd
+$: 0x00ce 00ce spring cling
+$: 0x00d1 00d1 crash down
+$: 0x00d5 00d5 high electic down
+$: 0x00d6 00d6 blast sound
+$: 0x00d7 00d7 balloon animal
+$: 0x00da 00da stop it spring
+$: 0x00db 00db big bell
+$: 0x00dc 00dc breaking glass
+$: 0x00dd 00dd drum finish win
+$: 0x00e3 00e3 rope in
+$: 0x00e8 00e8 cow
+$: 0x00ea 00ea bird
+$: 0x00ec 00ec crash oh man
+$: 0x00f1 00f1 gun shot long
+$: 0x00f2 00f2 bomb massive explosion
+$: 0x00f3 00f3 massive bomb
+$: 0x00f4 00f4 winning shot
+$: 0x00f8 00f8 raising laser
+$: 0x00f9 00f9 electric strange alarm
+$: 0x00ff 00ff moo
+$: 0x0101 0101 take off rocket
+$: 0x0102 0102 clinking wood
+$: 0x0103 0103 clinking 2
+$: 0x0104 0104 clinking 3
+$: 0x0108 0108 heavy punch
+$: 0x0109 0109 hit
+$: 0x0110 0110 wow crowd
+$: 0x0112 0112 applause crowd
+$: 0x0113 0113 electric ring
+$: 0x0115 0115 heavy blast
+$: 0x0120 0120 burning blast
+$: 0x0128 0128 hit roll
+$: 0x012a 012a punch loud
+$: 0x012c 012c drum finish
+$: 0x012d 012d magical winner bell
+$: 0x0130 0130 high tone
+$: 0x0131 0131 trumpet
+$: 0x0132 0132 trumpet hit
+$: 0x0133 0133 trumpet hit 2
+$: 0x0134 0134 trumpet hit 3
+$: 0x0135 0135 raising laser
+$: 0x0136 0136 electric zoom
+$: 0x0137 0137 fire wave
+$: 0x01a0 01a0 electric shot
+$: 0x01f6 01f6 laser shot
+$: 0x01f8 01f8 cling bling
+$: 0x01f9 01f9 space cling
+$: 0x01fa 01fa hammer
+$: 0x01fb 01fb crowd
+$: 0x01fc 01fc ouhhh crowd
+$: 0x01fd 01fd buzz laser
+$: 0x01fe 01fe electric wave
+$: 0x01ff 01ff ah a hah down voice
+$: 0x0200 0200 clinking
+$: 0x0201 0201 rope slash
+$: 0x0202 0202 big hit
+$: 0x0203 0203 little ring
+$: 0x0204 0204 empowering
+$: 0x0205 0205 winner target
+$: 0x020a 020a rocket falling
+$: 0x020b 020b little tweet
+$: 0x020c 020c flash shot
+$: 0x020d 020d splash 2
+$: 0x020e 020e elec
+$: 0x0210 0210 electrical
+$: 0x0213 0213 clic
+$: 0x0216 0216 launch
+$: 0x0217 0217 roaring lion
+$: 0x021a 021a clic clic
+$: 0x021b 021b spring up
+$: 0x021c 021c horn down
+$: 0x021d 021d spring heavy
+$: 0x021e 021e kwak
+$: 0x021f 021f fire boom
+$: 0x0220 0220 bomb water
+$: 0x0221 0221 up and down
+$: 0x0222 0222 sameas 000542 kwak
+$: 0x0226 0226 haae
+$: 0x0228 0228 laser blast
+$: 0x0229 0229 hit
+$: 0x022a 022a hit long
+$: 0x022b 022b crowd
+$: 0x022c 022c bling
+$: 0x022d 022d applause crowd
+$: 0x022f 022f big it
+$: 0x0230 0230 loading laser
+$: 0x0231 0231 laser shot
+$: 0x0233 0233 horn
+$: 0x0234 0234 high horn
+$: 0x0235 0235 rolling
+$: 0x0237 0237 sameas 000563 horn
+$: 0x023a 023a elephant long
+$: 0x023d 023d failing
+$: 0x023e 023e boom electric
+$: 0x023f 023f firecracker launch
+$: 0x0242 0242 big cat
+$: 0x0243 0243 acrobats
+$: 0x0244 0244 ohhh people
+$: 0x0245 0245 applause
+$: 0x0248 0248 loading ramp
+$: 0x024a 024a clinking wood
+$: 0x024b 024b high cling
+$: 0x024c 024c organ
+$: 0x024e 024e take off laser
+$: 0x024f 024f monkey cry
+$: 0x0250 0250 ring bell
+$: 0x0251 0251 long bell
+$: 0x0252 0252 middle ring bell
+$: 0x0253 0253 middle bell
+$: 0x0258 0258 lion
+$: 0x0259 0259 electric blast
+$: 0x025c 025c crowd
+$: 0x025e 025e spring cling
+$: 0x0261 0261 crashing
+$: 0x0266 0266 hit down
+$: 0x0267 0267 man strangled
+$: 0x026a 026a stop spring
+$: 0x026b 026b heavy long bell
+$: 0x026c 026c break glass
+$: 0x0273 0273 rope
+$: 0x0278 0278 moo cow
+$: 0x027a 027a birdy
+$: 0x027c 027c hit crying man
+$: 0x0281 0281 heavy blast
+$: 0x0282 0282 big blast
+$: 0x0283 0283 fire laser
+$: 0x0284 0284 lightning
+$: 0x0288 0288 siren
+$: 0x0289 0289 bubble up
+$: 0x028c 028c fire wave 2
+$: 0x0291 0291 space vessel
+$: 0x0292 0292 clinking
+$: 0x0293 0293 clinking
+$: 0x0294 0294 clinking 2
+$: 0x0298 0298 little crash
+$: 0x0299 0299 boom
+$: 0x02a0 02a0 scared crowd
+$: 0x02a2 02a2 happy people
+$: 0x02a3 02a3 electric hit
+$: 0x02a5 02a5 lightnin
+$: 0x02b0 02b0 boom balloon 
+$: 0x02b8 02b8 hit
+$: 0x02ba 02ba bass boom
+$: 0x02bc 02bc drums win
+$: 0x02bd 02bd magic hit
+$: 0x02c0 02c0 happy hit
+$: 0x02c1 02c1 trumpet win
+$: 0x02c2 02c2 tsawwww
+$: 0x02c3 02c3 tsawwww 2
+$: 0x02c4 02c4 target
+$: 0x02c5 02c5 target bubble
+$: 0x02c6 02c6 electric wave
+$: 0x02c7 02c7 rocket
+$: 0x0327 0327 jackpot
+$: 0x0328 0328 lock bal
+$: 0x03d4 03d4 bip
+$: 0x03d5 03d5 sameas 000980 bip
+$: 0x03d6 03d6 bip 2
+$: 0x03d7 03d7 bip 3
+$: 0x03d8 03d8 error
+$: 0x03d9 03d9 bip 4
+$: 0x03da 03da sameas 000985 bip 4
+$: 0x03db 03db bip 5
+$: 0x03dc 03dc back menu
+$: 0x03dd 03dd error number
+$: 0x03de 03de clap
+$: 0x0450 0450 jugler multiball
+$: 0x0451 0451 i can juggle three of these
+$: 0x0452 0452 i can juggle one ball no problem
+$: 0x0453 0453 i can juggle two balls all day
+$: 0x0455 0455 waoow
+$: 0x0456 0456 jackpot
+$: 0x0457 0457 j
+$: 0x0458 0458 a
+$: 0x0459 0459 c
+$: 0x045a 045a k
+$: 0x045b 045b p
+$: 0x045c 045c o
+$: 0x045d 045d t
+$: 0x045e 045e super jackpot
+$: 0x045f 045f double jackpot
+$: 0x0460 0460 free game
+$: 0x0461 0461 alive
+$: 0x046a 046a here s menagerie marvel
+$: 0x046c 046c you ve trained animals well
+$: 0x046d 046d down simba
+$: 0x0470 0470 very nice
+$: 0x0471 0471 jackpot ah ah ah
+$: 0x047e 047e welcome to the side show
+$: 0x047f 047f this is sideshow sam
+$: 0x0480 0480 the sideshow marlmela
+$: 0x0483 0483 you have earned
+$: 0x0484 0484 fire the canon
+$: 0x0487 0487 jack p o t that spells jackpot
+$: 0x0488 0488 feast your eyes on the side show marvel
+$: 0x0489 0489 i now award you
+$: 0x0492 0492 holy smoke
+$: 0x0495 0495 jackpot
+$: 0x0496 0496 the boom marvel is yours
+$: 0x049c 049c bonzer mate now i m off to the footy 
+$: 0x049d 049d ouch
+$: 0x049f 049f ouh ah ouh ah
+$: 0x04a0 04a0 g day mate
+$: 0x04a1 04a1 waouhooo
+$: 0x04b1 04b1 i am the ringmaster
+$: 0x04b2 04b2 defeat me for the ringmaster marvel
+$: 0x04b3 04b3 i m in your face now
+$: 0x04b7 04b7 you re a disaster but i m still the ringmaster
+$: 0x04b8 04b8 go go but don t be slow
+$: 0x04b9 04b9 how dare you
+$: 0x04ba 04ba hey what did you call my mother
+$: 0x04bb 04bb do you wish to challenge me 
+$: 0x04bc 04bc you d be cranky too if you had a spring for a neck
+$: 0x04bd 04bd i ll be back
+$: 0x04be 04be au revoir arrivederci adios good bye
+$: 0x04bf 04bf do your worst
+$: 0x04c0 04c0 look your shoes are untied
+$: 0x04c1 04c1 c mon you mangy gint
+$: 0x04c3 04c3 you make me weep not really ahahah
+$: 0x04c4 04c4 you must challenge me
+$: 0x04c7 04c7 ahahaahahahah dark
+$: 0x04c8 04c8 ouhahahah dark
+$: 0x04ca 04ca oh ahahahha dark
+$: 0x04cb 04cb grr ahahahah
+$: 0x04cd 04cd ah ah ah high
+$: 0x04ce 04ce do you still want play i think you ve had enough for today 
+$: 0x04d0 04d0 you play well now watch this
+$: 0x04d1 04d1 to join the circus you must defeat me
+$: 0x04d2 04d2 here is the ringmaster marvel
+$: 0x04d3 04d3 go left now go right but get on with the fight
+$: 0x04d4 04d4 well done
+$: 0x04d5 04d5 mmmh well done i guess
+$: 0x04db 04db try and go beyond my ringmaster special
+$: 0x04dc 04dc hihi is that the best you ve got
+$: 0x04df 04df oh ouh echo
+$: 0x04e0 04e0 ah oh echo
+$: 0x04e2 04e2 ahahah down
+$: 0x04e3 04e3 watch it watch it
+$: 0x04e4 04e4 hey now i m really mad
+$: 0x04e5 04e5 you knocked out my contact
+$: 0x04e6 04e6 i m mad now
+$: 0x04e7 04e7 ok so your shooting isn t so bad
+$: 0x04e8 04e8 i m back jack
+$: 0x04ea 04ea i challenge you
+$: 0x04eb 04eb to the ringmaster s special
+$: 0x04ec 04ec to summon my ringmaster rise
+$: 0x04ed 04ed to a frenzy
+$: 0x04ee 04ee noooooo
+$: 0x04ef 04ef oh noooooo
+$: 0x04f1 04f1 uh oh
+$: 0x04f2 04f2 stop that
+$: 0x04f3 04f3 no more not again
+$: 0x04f5 04f5 gulp
+$: 0x04f6 04f6 you are now the ringmaster
+$: 0x04f7 04f7 oh that hurts
+$: 0x04f8 04f8 hey what are you doing 
+$: 0x04f9 04f9 ohhh ahhhh down
+$: 0x04fb 04fb i will never back down
+$: 0x04fd 04fd monsieur i challenge you to a duel
+$: 0x04fe 04fe miss
+$: 0x0501 0501 you re nothing but a fish
+$: 0x0502 0502 ah ah granny ringmaster shoots better than you
+$: 0x0503 0503 aaah your mother drives a dump truck
+$: 0x0506 0506 i am holding the last marvel you need
+$: 0x0507 0507 battle me for immortality
+$: 0x050a 050a the rings of the circus are yours
+$: 0x050b 050b you may join the cirqus voltaire
+$: 0x050c 050c and now
+$: 0x050d 050d what s going on 
+$: 0x050e 050e oh no
+$: 0x050f 050f ringmaster battle
+$: 0x0510 0510 to the ringmaster battle
+$: 0x0511 0511 here now try
+$: 0x0512 0512 now attempt this
+$: 0x05dc 05dc join the circus
+$: 0x05df 05df welcome to cirqus voltaire
+$: 0x05e3 05e3 are you ready for a shocking experience 
+$: 0x05e5 05e5 get ready for the greatest pinball on earth
+$: 0x05e6 05e6 come with us and join the cirqus voltaire
+$: 0x05e7 05e7 highwire multiball
+$: 0x05e8 05e8 striking arc multiball
+$: 0x05ec 05ec arcs struck
+$: 0x05f3 05f3 i love the volts
+$: 0x05f5 05f5 lets have a little ballyhoo
+$: 0x05f8 05f8 that was pure skill
+$: 0x05f9 05f9 wow
+$: 0x05fa 05fa oh wow
+$: 0x05fb 05fb extra ball
+$: 0x05fc 05fc extra ball is lit
+$: 0x05fd 05fd look
+$: 0x05fe 05fe it s party time
+$: 0x05ff 05ff welcome to the cirqus
+$: 0x0601 0601 you re a pinball wizard
+$: 0x0605 0605 again
+$: 0x060a 060a same player shoots again
+$: 0x060e 060e yes
+$: 0x0611 0611 oh yes yes
+$: 0x0612 0612 oh yeah
+$: 0x0615 0615 that was serious pinball action
+$: 0x0616 0616 now watch this
+$: 0x0619 0619 is that a megabyte 
+$: 0x061a 061a cast your eyes on
+$: 0x061d 061d head on up to
+$: 0x061e 061e now look
+$: 0x0622 0622 your attention to
+$: 0x0625 0625 the juggler
+$: 0x0627 0627 the side show
+$: 0x0629 0629 the acrobats
+$: 0x0630 0630 the boom balloon
+$: 0x0633 0633 fire the canon
+$: 0x0635 0635 the ringmaster
+$: 0x063f 063f excellent
+$: 0x0642 0642 outstanding
+$: 0x0647 0647 amazing
+$: 0x0649 0649 unreal
+$: 0x064b 064b that was unreal
+$: 0x064d 064d that was
+$: 0x064e 064e you are
+$: 0x0651 0651 incredible
+$: 0x0654 0654 astounding
+$: 0x0660 0660 unbelievable
+$: 0x0661 0661 that was great cirqus fun
+$: 0x0664 0664 super jackpot
+$: 0x0666 0666 super duper jackpot
+$: 0x0667 0667 jackpot
+$: 0x0668 0668 jackpot
+$: 0x066d 066d spell wow
+$: 0x066f 066f all eyes on
+$: 0x0672 0672 spell wow to summon the ringmaster
+$: 0x0673 0673 your attention the jackpot is lit
+$: 0x0676 0676 all eyes left
+$: 0x0678 0678 all eyes right
+$: 0x067a 067a all eyes to the center of the cirqus
+$: 0x067d 067d skillfully done
+$: 0x0682 0682 don t move stay in the ring
+$: 0x0683 0683 great shot
+$: 0x0686 0686 skillshot
+$: 0x068a 068a nice shot
+$: 0x068f 068f player one
+$: 0x0692 0692 player two
+$: 0x0695 0695 player three
+$: 0x0698 0698 player four
+$: 0x069d 069d join the cirqus
+$: 0x069e 069e enter the cirqus
+$: 0x06a1 06a1 step right in
+$: 0x06a6 06a6 and the judges score
+$: 0x06a8 06a8 let s see the scores
+$: 0x06a9 06a9 let s review your cirqus ability
+$: 0x06aa 06aa yeah
+$: 0x06ab 06ab yeah 2
+$: 0x06ac 06ac that was fantastic
+$: 0x06ae 06ae you have what it takes
+$: 0x06af 06af come join the cirqus
+$: 0x06b0 06b0 you have what it takes come join the cirqus
+$: 0x06b3 06b3 venture up the left
+$: 0x06b4 06b4 venture up the right
+$: 0x06b9 06b9 to the juggler
+$: 0x06bb 06bb to the side show
+$: 0x06bc 06bc to the acrobats
+$: 0x0708 0708 marvels complete
+$: 0x070d 070d five
+$: 0x070e 070e four
+$: 0x070f 070f three
+$: 0x0710 0710 two
+$: 0x0711 0711 one
+$: 0x0715 0715 it s pop corn time
+$: 0x0716 0716 pop corn jackpot
+$: 0x0718 0718 do it again
+$: 0x071a 071a if you can t play nicely don t play at all
+$: 0x071d 071d c
+$: 0x071e 071e i
+$: 0x071f 071f r
+$: 0x0720 0720 q
+$: 0x0721 0721 you
+$: 0x0722 0722 s
+$: 0x0723 0723 spell cirqus
+$: 0x0727 0727 join us
+$: 0x0728 0728 announcing
+$: 0x0729 0729 presenting
+$: 0x072a 072a one more marvel to get
+$: 0x072b 072b marvel complete
+$: 0x072c 072c cirqus complete
+$: 0x0733 0733 here comes the ball
+$: 0x0736 0736 show off
+$: 0x0738 0738 here comes trouble
+$: 0x0741 0741 ring one
+$: 0x0742 0742 ring two
+$: 0x0743 0743 ring three
+$: 0x0745 0745 now shoot the left ramp
+$: 0x0746 0746 ball one is locked
+$: 0x0747 0747 ball two is locked
+$: 0x0749 0749 one more for multiball
+$: 0x074a 074a head up the highwire to start multiball
+$: 0x074b 074b lock is lit
+$: 0x074c 074c take a bow
+$: 0x074d 074d i love you
+$: 0x074e 074e we re going to the side show
+$: 0x074f 074f and now
+$: 0x0750 0750 the acrobats are about to amaze you
+$: 0x0751 0751 kaboom
+$: 0x0759 0759 boom
+$: 0x075e 075e we need your skills
+$: 0x0760 0760 that was a great performance
+$: 0x0761 0761 be one of us in the cirqus
+$: 0x0765 0765 you must challenge voltaire
+$: 0x0766 0766 hey that s me
+$: 0x0767 0767 i am voltaire
+$: 0x077c 077c this game requires service

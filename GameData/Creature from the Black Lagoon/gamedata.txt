@@ -1,0 +1,257 @@
+$: 0x0001 0001 main theme
+$: 0x0002 0002 rock around the clock
+$: 0x0003 0003 main theme
+$: 0x0004 0004 snack bar
+$: 0x0005 0005 movie
+$: 0x0006 0006 music launch multiball
+$: 0x0007 0007 letter complete
+$: 0x0008 0008 hit the snackbar
+$: 0x0009 0009 end of game
+$: 0x000a 000a fighting
+$: 0x000b 000b main theme
+$: 0x000c 000c main theme
+$: 0x000d 000d move your car theme
+$: 0x000e 000e restart multiball
+$: 0x0010 0010 main theme
+$: 0x0011 0011 main theme
+$: 0x0012 0012 main theme
+$: 0x0013 0013 main theme
+$: 0x0014 0014 main theme
+$: 0x0015 0015 ambiance
+$: 0x0016 0016 shoot the jackpot
+$: 0x0017 0017 running game
+$: 0x0018 0018 action
+$: 0x0019 0019 main theme
+$: 0x001a 001a end bonus count
+$: 0x0030 0030 truck stoping
+$: 0x0031 0031 kiss
+$: 0x0032 0032 projector rolling
+$: 0x0033 0033 play
+$: 0x0034 0034 hey slide over baby
+$: 0x0035 0035 i d like to help you son but you re to young to vote
+$: 0x0036 0036 startup
+$: 0x0037 0037 cash register
+$: 0x0038 0038 thank you enjoy the film
+$: 0x0039 0039 thank you enjoy the film cash register 
+$: 0x003a 003a i m sorry jeff only five percent of ram can be accessed at this time
+$: 0x003b 003b you are a whiny
+$: 0x003c 003c my hero
+$: 0x003d 003d thank you
+$: 0x003e 003e you saved my life
+$: 0x003f 003f screeming female voice 
+$: 0x0040 0040 accident
+$: 0x0041 0041 focus
+$: 0x0042 0042 move your car
+$: 0x0043 0043 hey slide over baby
+$: 0x0044 0044 mmmh ok
+$: 0x0045 0045 ok
+$: 0x0046 0046 how about a kiss 
+$: 0x0047 0047 geee i don t know
+$: 0x0048 0048 oow come on 
+$: 0x0049 0049 well maybe
+$: 0x004a 004a old car horn
+$: 0x004b 004b shoot the left ramp
+$: 0x004c 004c jackpot
+$: 0x004d 004d super jackpot
+$: 0x004e 004e let s try the next tunnel
+$: 0x004f 004f watch
+$: 0x0050 0050 blip
+$: 0x0051 0051 blip
+$: 0x0052 0052 klaxon
+$: 0x0053 0053 return
+$: 0x0054 0054 insert coin
+$: 0x0055 0055 test
+$: 0x0056 0056 option
+$: 0x0057 0057 back
+$: 0x0058 0058 return
+$: 0x0059 0059 update
+$: 0x005a 005a wah
+$: 0x005b 005b wah
+$: 0x005c 005c wah
+$: 0x005d 005d ahha
+$: 0x0080 0080 target
+$: 0x0081 0081 target 2
+$: 0x0082 0082 failed
+$: 0x0083 0083 bonus
+$: 0x0084 0084 beginning
+$: 0x0085 0085 slam
+$: 0x0086 0086 slam 2
+$: 0x0087 0087 clash
+$: 0x0088 0088 clash 2
+$: 0x0089 0089 clash 3
+$: 0x008a 008a snack bar
+$: 0x008b 008b snack bar
+$: 0x008c 008c missed
+$: 0x008d 008d klakson
+$: 0x008e 008e feature start
+$: 0x008f 008f klaxon
+$: 0x0090 0090 ramp
+$: 0x0091 0091 spring up
+$: 0x0092 0092 spring up 2
+$: 0x0096 0096 good goal
+$: 0x0097 0097 kiss
+$: 0x0098 0098 end tune
+$: 0x0099 0099 multiball start
+$: 0x009a 009a my hero sound
+$: 0x009b 009b good combo
+$: 0x009c 009c jackpot
+$: 0x009d 009d tsawww
+$: 0x009e 009e lotery
+$: 0x009f 009f bouncy cymbal
+$: 0x00a0 00a0 fall crash
+$: 0x00a1 00a1 laser crash
+$: 0x00a2 00a2 laser crash 2
+$: 0x00a3 00a3 laser crash 3
+$: 0x00a4 00a4 missed
+$: 0x00a5 00a5 high score entry
+$: 0x00a6 00a6 crash down
+$: 0x00a7 00a7 loaded
+$: 0x00a8 00a8 loaded 2
+$: 0x00a9 00a9 loaded 3
+$: 0x00aa 00aa loaded 4
+$: 0x00ab 00ab loaded 5
+$: 0x00ac 00ac f i l m lanes lit
+$: 0x00ad 00ad extraball
+$: 0x00ae 00ae slide
+$: 0x00af 00af bubble space
+$: 0x00b0 00b0 bell
+$: 0x00b1 00b1 missed bell
+$: 0x00b2 00b2 extraball
+$: 0x00b3 00b3 snack bar is open
+$: 0x00b4 00b4 attraction theme
+$: 0x00b5 00b5 shoot again
+$: 0x00b6 00b6 next mission
+$: 0x00b7 00b7 super jackpot ready
+$: 0x00b8 00b8 engine loaded
+$: 0x00b9 00b9 engine loaded 2
+$: 0x00ba 00ba target
+$: 0x00bb 00bb failed
+$: 0x00bc 00bc good target
+$: 0x00bd 00bd mini bounce
+$: 0x00be 00be clac
+$: 0x00bf 00bf heroe good
+$: 0x00c2 00c2 bingo
+$: 0x00c3 00c3 bingo 2
+$: 0x00c4 00c4 snack bar
+$: 0x00c5 00c5 tadada tsaww
+$: 0x00c6 00c6 electric gong
+$: 0x00c7 00c7 weird
+$: 0x00c8 00c8 weird 2
+$: 0x00c9 00c9 weird 3
+$: 0x00ca 00ca weird 4
+$: 0x00cb 00cb weird 5
+$: 0x00cc 00cc weird 6
+$: 0x00cd 00cd weird 7
+$: 0x00ce 00ce weird 8
+$: 0x00cf 00cf cliclic
+$: 0x00d0 00d0 ah baby hop 1
+$: 0x00d1 00d1 ah baby hop 2
+$: 0x00d2 00d2 ah baby hop 3
+$: 0x00d3 00d3 ah ah
+$: 0x00d4 00d4 ho baby
+$: 0x00d5 00d5 oh baby high 
+$: 0x00d6 00d6 ahh chorus
+$: 0x00d7 00d7 ahh chorus 2
+$: 0x00d8 00d8 ahh chorus 3
+$: 0x00d9 00d9 to the hop 1
+$: 0x00da 00da to the hop 2
+$: 0x00db 00db to the hop 3
+$: 0x00dc 00dc let s go to the hop
+$: 0x00dd 00dd let s go to the hop 2
+$: 0x00de 00de let s go to the hop 3
+$: 0x00df 00df dring
+$: 0x00e0 00e0 mystery up
+$: 0x00e1 00e1 snackbar score
+$: 0x7a00 7a00 jeff you are a whiny
+$: 0x7a01 7a01 10 million
+$: 0x7a02 7a02 20 million
+$: 0x7a03 7a03 30 million
+$: 0x7a04 7a04 here s your popcorn
+$: 0x7a05 7a05 here s your hot butter popcorn
+$: 0x7a06 7a06 here s your hotdog
+$: 0x7a07 7a07 excuse your plump juicy hot dogs
+$: 0x7a08 7a08 here s your pop
+$: 0x7a09 7a09 here s your ice cold pop
+$: 0x7a0a 7a0a here s your burger
+$: 0x7a0b 7a0b here s your tar boiled burger
+$: 0x7a0c 7a0c it s a peeping tom
+$: 0x7a0d 7a0d i ll take care of him
+$: 0x7a0e 7a0e come here punk 
+$: 0x7a0f 7a0f hold still
+$: 0x7a10 7a10 oh it s moving
+$: 0x7a11 7a11 stand up and take your medicine
+$: 0x7a12 7a12 there s more where that came from
+$: 0x7a13 7a13 now where were we 
+$: 0x7a14 7a14 she s in one of these tunnels
+$: 0x7a15 7a15 we got to find her
+$: 0x7a16 7a16 hold on
+$: 0x7a17 7a17 we re coming
+$: 0x7a18 7a18 there she is 
+$: 0x7a19 7a19 shoot the snack bar
+$: 0x7a1a 7a1a someone s watching us
+$: 0x7a1b 7a1b yawn
+$: 0x7a1c 7a1c heeeelp 
+$: 0x7a1d 7a1d help meeee 
+$: 0x7a1e 7a1e ooooh
+$: 0x7a1f 7a1f ooooh 2
+$: 0x7a20 7a20 oooooh 3
+$: 0x7a21 7a21 punch
+$: 0x7a22 7a22 ouch 
+$: 0x7a23 7a23 arf 
+$: 0x7a24 7a24 swing punch
+$: 0x7a25 7a25 ko 
+$: 0x7a26 7a26 the snack bar is now opened for your convenience
+$: 0x7a27 7a27 here s your hot pretzels
+$: 0x7a28 7a28 40 million
+$: 0x7a29 7a29 50 million
+$: 0x7a2a 7a2a 60 million
+$: 0x7a2b 7a2b fatality
+$: 0x7a2c 7a2c shoot the right ramp
+$: 0x7a2d 7a2d car passing
+$: 0x7a2e 7a2e truck start and go
+$: 0x7a2f 7a2f munch
+$: 0x7a30 7a30 stay cool daddy o
+$: 0x7a31 7a31 shocking
+$: 0x7a32 7a32 startling
+$: 0x7a33 7a33 amazing
+$: 0x7a34 7a34 now playing at a location near you
+$: 0x7a35 7a35 see the amazing creature in 3d
+$: 0x7a36 7a36 the movie starts in two minutes
+$: 0x7a37 7a37 the movie starts in one minute
+$: 0x7a38 7a38 and now on with the show
+$: 0x7a39 7a39 boing
+$: 0x7a3a 7a3a missile
+$: 0x7a3b 7a3b explosion
+$: 0x7a3c 7a3c haaa
+$: 0x7a3d 7a3d huuu
+$: 0x7a3e 7a3e bubbles
+$: 0x7a3f 7a3f hey
+$: 0x7a40 7a40 watch those hands buster
+$: 0x7a41 7a41 ah you re no gentleman
+$: 0x7a42 7a42 that does it 
+$: 0x7a43 7a43 get me home right now
+$: 0x7a44 7a44 flamethrower
+$: 0x7a45 7a45 fire
+$: 0x7a46 7a46 bally
+$: 0x7a47 7a47 the creature from the black lagoon
+$: 0x7a48 7a48 no sign of them here
+$: 0x7a49 7a49 hey in trunk 
+$: 0x7a4a 7a4a heey in trunk 
+$: 0x7a4b 7a4b let me out
+$: 0x7a4c 7a4c i m suffocating
+$: 0x7a4d 7a4d it s dark in here
+$: 0x7a4e 7a4e strangled man
+$: 0x7a4f 7a4f truck passing
+$: 0x7a50 7a50 truck passing long
+$: 0x7a51 7a51 and
+$: 0x7a52 7a52 universal
+$: 0x7a53 7a53 present
+$: 0x7a54 7a54 plane sound
+$: 0x7a55 7a55 nuclear bomb
+$: 0x7a56 7a56 oooooooooooh
+$: 0x7a57 7a57 film reel ending
+$: 0x7a58 7a58 5 million
+$: 0x7a59 7a59 15 million
+$: 0x7a5a 7a5a 25 million
+$: 0x7a5b 7a5b 35 million
+$: 0x7a5c 7a5c 45 million
