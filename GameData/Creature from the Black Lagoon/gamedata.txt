@@ -255,3 +255,102 @@ $: 0x7a59 7a59 15 Million
 $: 0x7a5a 7a5a 25 Million
 $: 0x7a5b 7a5b 35 Million
 $: 0x7a5c 7a5c 45 Million
+s: 13 Start Button
+s: 14 Plumb Bob Tilt
+s: 15 Top Left Rollover
+s: 16 Left Subway
+s: 17 Center Subway
+s: 18 Center Shot
+s: 21 Slam Tilt
+s: 22 Coin Door Closed
+s: 23 Bottom Jet
+s: 24 Right Popper
+s: 25 P of P-A-I-D
+s: 26 A of P-A-I-D
+s: 27 I of P-A-I-D
+s: 28 D of P-A-I-D
+s: 33 Popcorn
+s: 34 Ice Cream
+s: 35 Left Jet
+s: 36 Right Jet
+s: 37 Lower Right Popper
+s: 38 Right Slingshot
+s: 41 Cola
+s: 42 Left Return Lane
+s: 43 Start Combo
+s: 44 Right Outlane
+s: 45 Outhole
+s: 46 Right Trough
+s: 47 Center Trough
+s: 48 Left Trough
+s: 51 Left Outlane
+s: 52 Left Ramp Exit
+s: 53 Center Lane Exit
+s: 54 Upper Ramp
+s: 55 Bowl
+s: 56 Shooter
+s: 61 Right Ramp Exit
+l: 11 (P)-A-I-D
+l: 12 P-(A)-I-D
+l: 13 P-A-(I)-D
+l: 14 P-A-I-(D)
+l: 15 Left Jet
+l: 16 Right Jet
+l: 17 Bottom Jet
+l: 18 Admit One
+l: 21 (K)-I-S-S
+l: 22 K-(I)-S-S
+l: 23 K-I-(S)-S
+l: 24 K-I-S-(S)
+l: 25 10 Million
+l: 26 20 Million
+l: 27 30 Million
+l: 28 Specials
+l: 31 Start Mega Menu
+l: 32 Playground Award
+l: 33 Lite Big Millions
+l: 34 Slide
+l: 35 Right Search
+l: 36 Right Video
+l: 37 Right Start Movie
+l: 38 Mega Menu
+l: 41 Lips
+l: 42 Left Search
+l: 43 Left Video
+l: 44 Left Start Movie
+l: 45 Combo Award
+l: 46 Parking O.K.
+l: 47 Move Your Car
+l: 48 Extra Ball
+l: 51 Snack Bar
+l: 52 Center Search
+l: 53 Cola
+l: 54 Hotdog
+l: 55 Super Jackpot
+l: 56 Jackpot
+l: 57 Rescue
+l: 58 Multiball Restart
+l: 61 Free Pass
+l: 62 Build Combo
+l: 63 Unlimited Millions
+l: 64 Creature Feature
+l: 65 Extra Ball Countdown
+l: 66 Big Millions
+l: 67 Movie Madness
+l: 68 Snack Attack
+l: 71 C
+l: 72 R
+l: 73 E
+l: 74 A
+l: 75 T
+l: 76 U
+l: 77 R
+l: 78 E
+l: 81 (F)-I-L-M
+l: 82 F-(I)-L-M
+l: 83 F-I-(L)-M
+l: 84 F-I-L-(M)
+l: 85 Start Combo
+l: 86 Popcorn
+l: 87 Ice Cream
+l: 88 Start Button
