@@ -1,0 +1,578 @@
+$: 0x0001 0001 Pre Launch
+$: 0x0002 0002 Pre Launch
+$: 0x0003 0003 Main Play
+$: 0x0004 0004 Hurry Up
+$: 0x0005 0005 Martian Attack
+$: 0x0006 0006 Main Theme
+$: 0x0007 0007 Main Theme
+$: 0x0008 0008 Attract Mode
+$: 0x0009 0009 Martian Attack
+$: 0x000a 000a Martian Attack
+$: 0x000b 000b Multiball
+$: 0x000c 000c Strobe Multiball
+$: 0x000d 000d Waiting
+$: 0x000e 000e Stroke Of Luck
+$: 0x000f 000f Freaky
+$: 0x0010 0010 Strobe Multiball
+$: 0x0011 0011 Never Heard This
+$: 0x0012 0012 Attack Mars
+$: 0x0013 0013 Bip
+$: 0x0014 0014 Big Drums
+$: 0x0050 0050 80
+$: 0x0051 0051 81
+$: 0x0064 0064 Detonation Sound
+$: 0x0065 0065 Sameas 000100 Detonation Sound
+$: 0x0068 0068 Detonation Sound 2
+$: 0x0069 0069 Sameas 000104 Detonation Sound 2
+$: 0x006a 006a Laser Shot
+$: 0x006b 006b Sameas 000106 Laser Shot
+$: 0x006c 006c Laser Shot 2
+$: 0x006d 006d Sameas 000108 Laser Shot 2
+$: 0x006e 006e Laser Shot Bass
+$: 0x006f 006f Sameas 000110 Laser Shot Bass
+$: 0x0070 0070 Bomb Effect
+$: 0x0071 0071 Sameas 000112 Bomb Effect
+$: 0x0072 0072 Short Gun Detonation
+$: 0x0073 0073 Sameas 000114 Short Gun Detonation
+$: 0x0074 0074 Medium Bomb
+$: 0x0075 0075 Sameas 000116 Medium Bomb
+$: 0x0076 0076 Tommy Gun
+$: 0x0077 0077 Sameas 000118 Tommy Gun
+$: 0x0078 0078 Flying Sound Effect
+$: 0x0079 0079 Sameas 000120 Flying Sound Effect
+$: 0x007a 007a Flying Saucer Take Off
+$: 0x007b 007b Sameas 000122 Flying Saucer Take Off
+$: 0x007c 007c Gun Detonation
+$: 0x007d 007d Sameas 000124 Gun Detonation
+$: 0x007e 007e Sameas 000124 Gun Detonation
+$: 0x007f 007f Sameas 000124 Gun Detonation
+$: 0x0080 0080 Sameas 000124 Gun Detonation
+$: 0x0081 0081 Missile Detonation
+$: 0x0082 0082 Martian Language
+$: 0x0083 0083 Sameas 000130 Martian Language
+$: 0x0084 0084 Boom
+$: 0x0085 0085 Sameas 000132 Boom
+$: 0x0088 0088 Big O Beam
+$: 0x0089 0089 Sameas 000136 Big O Beam
+$: 0x008a 008a Martian Are Coming
+$: 0x008b 008b Sameas 000138 Martian Are Coming
+$: 0x008c 008c Bomb Delay Effect
+$: 0x008d 008d Sameas 000140 Bomb Delay Effect
+$: 0x008e 008e High Flyer Saucer Sound
+$: 0x008f 008f Sameas 000142 High Flyer Saucer Sound
+$: 0x0090 0090 Nuclear Bombing
+$: 0x0091 0091 Sameas 000144 Nuclear Bombing
+$: 0x0092 0092 Big Bomb Attack
+$: 0x0093 0093 Sameas 000146 Big Bomb Attack
+$: 0x0094 0094 Success In Mission
+$: 0x0095 0095 Sameas 000148 Success In Mission
+$: 0x0098 0098 Aeronautic Sound
+$: 0x0099 0099 Sameas 000152 Aeronautic Sound
+$: 0x009a 009a Flying Bubble
+$: 0x009b 009b Sameas 000154 Flying Bubble
+$: 0x009c 009c Rifle Shot
+$: 0x009d 009d Sameas 000156 Rifle Shot
+$: 0x009e 009e Laser Shot
+$: 0x009f 009f Sameas 000158 Laser Shot
+$: 0x00a0 00a0 Impact On The Ground
+$: 0x00a1 00a1 Sameas 000160 Impact On The Ground
+$: 0x00a2 00a2 Shipeld Impact
+$: 0x00a3 00a3 Sameas 000162 Shipeld Impact
+$: 0x00a4 00a4 Bomb Small Impact
+$: 0x00a5 00a5 Sameas 000164 Bomb Small Impact
+$: 0x00ae 00ae Martian Upset
+$: 0x00af 00af Sameas 000174 Martian Upset
+$: 0x00b2 00b2 Martian Unhappy
+$: 0x00b3 00b3 Sameas 000178 Martian Unhappy
+$: 0x00b4 00b4 Martian Trying To Be Scary
+$: 0x00b5 00b5 Sameas 000180 Martian Trying To Be Scary
+$: 0x00b8 00b8 Closing Door
+$: 0x00b9 00b9 Sameas 000184 Closing Door
+$: 0x00ba 00ba Martian Take Off
+$: 0x00bb 00bb Sameas 000186 Martian Take Off
+$: 0x00c0 00c0 Non Human Big Take Off
+$: 0x00c1 00c1 Sameas 000192 Non Human Big Take Off
+$: 0x00c4 00c4 Dizzy Take Off
+$: 0x00c5 00c5 Sameas 000196 Dizzy Take Off
+$: 0x00c8 00c8 Hiting Something That Create Echo
+$: 0x00c9 00c9 Sameas 000200 Hiting Something That Create Echo
+$: 0x00cc 00cc Bubble Ramble
+$: 0x00cd 00cd Sameas 000204 Bubble Ramble
+$: 0x00d0 00d0 Nice Explosion
+$: 0x00d1 00d1 Sameas 000208 Nice Explosion
+$: 0x00d2 00d2 Less Martian On Earth
+$: 0x00d3 00d3 Sameas 000210 Less Martian On Earth
+$: 0x00d4 00d4 Funny Sound
+$: 0x00d5 00d5 Sameas 000212 Funny Sound
+$: 0x00d6 00d6 Rifle Long Shot
+$: 0x00d7 00d7 Sameas 000214 Rifle Long Shot
+$: 0x00e4 00e4 Martian Talking To Us
+$: 0x00e5 00e5 Sameas 000228 Martian Talking To Us
+$: 0x00e6 00e6 Martian Freaky Screaming
+$: 0x00e7 00e7 Sameas 000230 Martian Freaky Screaming
+$: 0x00e8 00e8 Sounds A Good News
+$: 0x00e9 00e9 Sameas 000232 Sounds A Good News
+$: 0x00ea 00ea Tadam With Suspense
+$: 0x00eb 00eb Sameas 000234 Tadam With Suspense
+$: 0x00ec 00ec Bell Knocked
+$: 0x00ed 00ed Sameas 000236 Bell Knocked
+$: 0x00f0 00f0 Opening Doors
+$: 0x00f1 00f1 Sameas 000240 Opening Doors
+$: 0x00f2 00f2 Flying Saucer Using Its Sonar
+$: 0x00f3 00f3 Sameas 000242 Flying Saucer Using Its Sonar
+$: 0x00f4 00f4 Martian Are Going Away
+$: 0x00f5 00f5 Sameas 000244 Martian Are Going Away
+$: 0x00f6 00f6 Little Bombing
+$: 0x00f7 00f7 Sameas 000246 Little Bombing
+$: 0x00fc 00fc Duck Sound
+$: 0x00fd 00fd Sameas 000252 Duck Sound
+$: 0x00fe 00fe Male Duck
+$: 0x00ff 00ff Sameas 000254 Male Duck
+$: 0x0100 0100 Big Frog
+$: 0x0101 0101 Sameas 000256 Big Frog
+$: 0x0102 0102 Disjuncture
+$: 0x0103 0103 Disjuncture 2
+$: 0x0104 0104 Big Nice Explosion
+$: 0x0105 0105 Sameas 000260 Big Nice Explosion
+$: 0x010c 010c Parrot Screaming
+$: 0x010d 010d Sameas 000268 Parrot Screaming
+$: 0x010e 010e Parrot Screaming 2
+$: 0x010f 010f Sameas 000270 Parrot Screaming 2
+$: 0x0110 0110 Parrot In Panic
+$: 0x0111 0111 Sameas 000272 Parrot In Panic
+$: 0x0112 0112 Laser Shot Sound
+$: 0x0113 0113 Sameas 000274 Laser Shot Sound
+$: 0x0114 0114 Detonation From Laser Gun
+$: 0x0115 0115 Sameas 000276 Detonation From Laser Gun
+$: 0x0116 0116 Smashipng Something
+$: 0x0117 0117 Sameas 000278 Smashipng Something
+$: 0x0118 0118 Car Breaking
+$: 0x0119 0119 Sameas 000280 Car Breaking
+$: 0x011c 011c Flying Saucer Fast Take Off
+$: 0x011d 011d Sameas 000284 Flying Saucer Fast Take Off
+$: 0x011e 011e Unlocking Door
+$: 0x011f 011f Sameas 000286 Unlocking Door
+$: 0x0120 0120 Shooting Again
+$: 0x0121 0121 Sameas 000288 Shooting Again
+$: 0x0122 0122 Extra Ball
+$: 0x0123 0123 Sameas 000290 Extra Ball
+$: 0x0124 0124 Martian Scary Yelling
+$: 0x0125 0125 Sameas 000292 Martian Scary Yelling
+$: 0x0126 0126 Laser Shot
+$: 0x0127 0127 Sameas 000294 Laser Shot
+$: 0x0128 0128 Flying Saucer Doesn't Succeed To Take Off
+$: 0x0129 0129 Sameas 000296 Flying Saucer Doesn't Succeed To Take Off
+$: 0x012a 012a Closing Door Strongly
+$: 0x012b 012b Sameas 000298 Closing Door Strongly
+$: 0x012c 012c Dreamy Sound
+$: 0x012d 012d Sameas 000300 Dreamy Sound
+$: 0x012e 012e Burp
+$: 0x012f 012f Sameas 000302 Burp
+$: 0x0130 0130 Burp 2
+$: 0x0131 0131 Sameas 000304 Burp 2
+$: 0x0132 0132 Burp 3
+$: 0x0133 0133 Sameas 000306 Burp 3
+$: 0x0134 0134 Burp 4
+$: 0x0135 0135 Sameas 000308 Burp 4
+$: 0x0136 0136 Burp 5
+$: 0x0137 0137 Sameas 000310 Burp 5
+$: 0x0138 0138 Egg Smashed On The Ground
+$: 0x0139 0139 Sameas 000312 Egg Smashed On The Ground
+$: 0x013a 013a Gunfire Burst
+$: 0x013b 013b Gun Fire Burst 2
+$: 0x013c 013c High Sonar Sound
+$: 0x013d 013d High Sonar Sound 2
+$: 0x013e 013e Explosion
+$: 0x013f 013f Sameas 000318 Explosion
+$: 0x0142 0142 Explosion 2
+$: 0x0143 0143 Sameas 000322 Explosion 2
+$: 0x0146 0146 Open A Bottle Of Beer
+$: 0x0147 0147 Open A Bottle Of Beer 2
+$: 0x0148 0148 Tadam Success
+$: 0x0149 0149 Sameas 000328 Tadam Success
+$: 0x014a 014a Something Is Going Wrong
+$: 0x014b 014b Sameas 000330 Something Is Going Wrong
+$: 0x014e 014e Boing
+$: 0x014f 014f Sameas 000334 Boing
+$: 0x0150 0150 Sonar
+$: 0x0151 0151 Sameas 000336 Sonar
+$: 0x0152 0152 Boinggg
+$: 0x0153 0153 Sameas 000338 Boinggg
+$: 0x0154 0154 Tilt
+$: 0x0155 0155 Sameas 000340 Tilt
+$: 0x0156 0156 Crowds Clapping
+$: 0x0157 0157 Sameas 000342 Crowds Clapping
+$: 0x0158 0158 Rule The Universe Applause
+$: 0x0159 0159 Sameas 000344 Rule The Universe Applause
+$: 0x015a 015a Waaah
+$: 0x015b 015b Sameas 000346 Waaah
+$: 0x015c 015c Beam
+$: 0x015d 015d Sameas 000348 Beam
+$: 0x015e 015e Tilt Warning
+$: 0x015f 015f Sameas 000350 Tilt Warning
+$: 0x0160 0160 Boing
+$: 0x0161 0161 Sameas 000352 Boing
+$: 0x0162 0162 Beam Up
+$: 0x0163 0163 Sameas 000354 Beam Up
+$: 0x0164 0164 Start Of Attack Mars
+$: 0x0165 0165 Sameas 000356 Start Of Attack Mars
+$: 0x0166 0166 Replay
+$: 0x0167 0167 Sameas 000358 Replay
+$: 0x0168 0168 Slap
+$: 0x0169 0169 Sameas 000360 Slap
+$: 0x0176 0176 Rifle Shot
+$: 0x0177 0177 Sameas 000374 Rifle Shot
+$: 0x0178 0178 Applause When Defeating Mars
+$: 0x0179 0179 Sameas 000376 Applause When Defeating Mars
+$: 0x017a 017a Applause When Defeating Mars
+$: 0x017b 017b Sameas 000378 Applause When Defeating Mars
+$: 0x017c 017c Applause When Ruling Universe
+$: 0x017d 017d Sameas 000380 Applause When Ruling Universe
+$: 0x017e 017e Applause When Ruling Universe
+$: 0x017f 017f Sameas 000382 Applause When Ruling Universe
+$: 0x0180 0180 Boing
+$: 0x0181 0181 Sameas 000384 Boing
+$: 0x0186 0186 Boom Boom Boom
+$: 0x0192 0192 Watch Out Man They've Got A Big O Beam
+$: 0x0193 0193 Use The Atomic Blaster Now
+$: 0x0194 0194 The Fate Of The World Is In Your Hands
+$: 0x0196 0196 Get Every Available Man
+$: 0x0197 0197 Get The Troops Ready
+$: 0x019b 019b I Hate Martians
+$: 0x019c 019c Look Out Martians
+$: 0x019d 019d Look Out More Martians
+$: 0x019e 019e Missile Locked On Target
+$: 0x019f 019f Missiles On Standby
+$: 0x01a0 01a0 Take That Muffin Head
+$: 0x01a1 01a1 Take That Ripple Head
+$: 0x01a5 01a5 Return To Battle Soldier
+$: 0x01a6 01a6 Don't Shoot Until You Seem Them Jump
+$: 0x01a7 01a7 Somebody Shoot One Of These Things
+$: 0x01a8 01a8 Stop Them
+$: 0x01a9 01a9 Total Annihilation Uh Uh
+$: 0x01ab 01ab Excellent
+$: 0x01ae 01ae Great Shot
+$: 0x01b1 01b1 Well Done Soldier
+$: 0x01b2 01b2 Wohoo
+$: 0x01b3 01b3 Oh Darn You're Some Ugly Martians
+$: 0x01b4 01b4 You're Some Ugly Martians
+$: 0x01b5 01b5 Extra Ball
+$: 0x01b6 01b6 Jackpot
+$: 0x01b8 01b8 Multiball
+$: 0x01ba 01ba Let's Take Their Shipp And Attack Mars
+$: 0x01bc 01bc We Must Build An Atomic Blaster
+$: 0x01bd 01bd We Must Finish Them Off
+$: 0x01be 01be Shoot Again
+$: 0x01bf 01bf Shoot For Jets
+$: 0x01c0 01c0 Five Billion
+$: 0x01f9 01f9 Ah Ah Ah Ah Ah
+$: 0x01fa 01fa Martian Hit
+$: 0x01fb 01fb Oh No
+$: 0x01fd 01fd Martian Hit
+$: 0x01fe 01fe Martian Hit
+$: 0x0214 0214 Attack
+$: 0x0215 0215 Run Away
+$: 0x0216 0216 Greetings Earthlings Ah Ah
+$: 0x0217 0217 Aaaah Women
+$: 0x0219 0219 Your City Will Be Destroyed
+$: 0x021a 021a Earth Will Be Ours
+$: 0x021c 021c You Cannot Defeat Our Force Field
+$: 0x021d 021d Can't We Just Be Friends
+$: 0x021e 021e Got Enough
+$: 0x021f 021f We Are Invincible
+$: 0x0220 0220 Ah Ah Ah Aaaah
+$: 0x0222 0222 Nothing Can Defeat Us
+$: 0x0223 0223 It Will Never Work
+$: 0x0224 0224 Ouch
+$: 0x0225 0225 Ouch
+$: 0x0226 0226 Hey Look Your Shoe In Untied Ah Ah Ah
+$: 0x0227 0227 Come Here Tasty Human
+$: 0x0228 0228 No No Nooo
+$: 0x0229 0229 Jackpot
+$: 0x022a 022a Super Jackpot
+$: 0x022b 022b Greetings Earthling
+$: 0x022d 022d Ah Ah Ah
+$: 0x022f 022f Martian Start Of Multiball
+$: 0x0230 0230 Ha Ha Ha By Martian
+$: 0x0231 0231 More Women
+$: 0x0232 0232 Oh Yes
+$: 0x0233 0233 You Again
+$: 0x0234 0234 Not You Again
+$: 0x0237 0237 Ugh I'm So Scared
+$: 0x0238 0238 Miss Me Ahah
+$: 0x0239 0239 Nanana Pfrrrr
+$: 0x023a 023a Puny Humans We Have Four Arms
+$: 0x023b 023b Again
+$: 0x023c 023c Oh Baby
+$: 0x0242 0242 Aaah
+$: 0x0243 0243 Martians Superior Humans Pathetic Aaah
+$: 0x0244 0244 I Hate Humans
+$: 0x0245 0245 Oh No
+$: 0x0246 0246 Oh No Multiball
+$: 0x0247 0247 Ah We Won't Be Defeated So Easily
+$: 0x0248 0248 Multiball
+$: 0x0249 0249 You Rule The Universe
+$: 0x024a 024a But We'll Be Back
+$: 0x024b 024b It Won't Be That Easy
+$: 0x024c 024c Not So Fast
+$: 0x024d 024d Not So Fast Human
+$: 0x024e 024e Replay
+$: 0x024f 024f So You Want To Rule The Universe
+$: 0x0250 0250 You Don't Stand A Chance
+$: 0x0251 0251 Surprise
+$: 0x0258 0258 Get Your Hands Off Me
+$: 0x0259 0259 Get Your Hands Off Me All Four Of Them
+$: 0x025a 025a Help Oh No Aaah
+$: 0x025b 025b Aaah
+$: 0x025c 025c Put Me Down
+$: 0x025d 025d Aaah
+$: 0x025e 025e You're My Hero
+$: 0x025f 025f Oh Thank You Thank You
+$: 0x0260 0260 You're The Best
+$: 0x0261 0261 Look Out Martians
+$: 0x0262 0262 Get Them
+$: 0x0263 0263 You Know I Enjoy Killing These Martians
+$: 0x0269 0269 Oh They've Got Our Life Stock And Treasured Historical Monuments
+$: 0x026a 026a Would You Look At The Size Of That Cow
+$: 0x026b 026b It's Hideous
+$: 0x026d 026d It's It's So Big
+$: 0x0271 0271 Aaah
+$: 0x0272 0272 Go For The Extra Ball
+$: 0x0273 0273 Shoot For The Super Jackpot
+$: 0x0274 0274 Save Me Save Me
+$: 0x0276 0276 Get Them
+$: 0x0277 0277 Hey They've Got Our Stuff
+$: 0x0278 0278 Stop Them
+$: 0x0279 0279 Hey That's My Car
+$: 0x027a 027a No Not Our Hotdogs
+$: 0x02bc 02bc We Must Destroy The Stinking Martians
+$: 0x02bd 02bd You Martians Will Never Take France
+$: 0x02be 02be You Will Remove That'saucer From The Sky
+$: 0x02bf 02bf Sacre Bleu The Martians Are Destroying The Eiffel Tower
+$: 0x02c0 02c0 Destroy The Saucer
+$: 0x02c1 02c1 Blow The Saucer Out Of The Sky
+$: 0x02c2 02c2 Go Away From France You Martians From Another Planet
+$: 0x02c3 02c3 Vive La France
+$: 0x02c6 02c6 Mamamia Save The Tower Of Pisa
+$: 0x02c7 02c7 You Martians Are No Good
+$: 0x02ca 02ca Take That You Pasta Head
+$: 0x02cb 02cb What's The Matter You You Ugly Martian
+$: 0x02cc 02cc I Bust You Face You Ugly Martian
+$: 0x02cd 02cd Italia Italia
+$: 0x02ce 02ce Excellent
+$: 0x02cf 02cf Well Done
+$: 0x02d0 02d0 Achtung Martians
+$: 0x02d1 02d1 We Will Fight For Germany
+$: 0x02d2 02d2 Take That You Ugly Green Martian
+$: 0x02d3 02d3 Germany Will Kick Your Martian Butt To The Moon
+$: 0x02d4 02d4 The Brandenburg Tour Is In Danger
+$: 0x02d5 02d5 Destroy The Martians
+$: 0x02d6 02d6 Look Out Martians Germany Coming Through
+$: 0x02d7 02d7 Destroy The Saucer
+$: 0x02d8 02d8 Germany Is Victorious
+$: 0x02d9 02d9 The Martians They Ll Never Take Germany
+$: 0x02da 02da We Must Save The Brandenburg Tour
+$: 0x02db 02db No Time For Tea Blast These Martians
+$: 0x02dc 02dc Blimey London Bridge Is Falling Down Isn't It
+$: 0x02dd 02dd Blow The Saucer Out Of The Sky
+$: 0x02de 02de Destroy Bleeding Saucer
+$: 0x02df 02df Destroy The Lily Livered Martians Star Of London England Mode
+$: 0x02e5 02e5 Take That You Horrible Green Martian
+$: 0x02e6 02e6 That's All For Now
+$: 0x02ea 02ea I Say Good Shot
+$: 0x02eb 02eb Super Shot
+$: 0x02ed 02ed Well Done
+$: 0x02f9 02f9 Hide Your Lobsters Lobster Ramp
+$: 0x02fa 02fa This Just In Reports Are Coming In From All Over The World The Earth Is Under Attack An Attack From Mars
+$: 0x02fb 02fb This Is An Emergency Broadcast The Earth Is Being Invaded By Flying Saucers From Mars
+$: 0x02fc 02fc Oh No Sparky
+$: 0x02ff 02ff Dog Bark
+$: 0x0304 0304 Take That You Ugly Green Stinking Disgusting Martian
+$: 0x0307 0307 You Are Very Skillful Wow
+$: 0x0308 0308 Oulala
+$: 0x0309 0309 Outrageous
+$: 0x030d 030d Blow The Saucer Out Of The Sky
+$: 0x030f 030f Mamamia The Martians Are Straightening The Tower Of Pisa
+$: 0x0311 0311 Take That Martian
+$: 0x0312 0312 And That
+$: 0x0313 0313 Blast The Saucers
+$: 0x0314 0314 Blow The Saucer Out Of The Sky
+$: 0x0315 0315 Will Blow The Snot Out Of You Martians
+$: 0x0316 0316 Destroy The Saucer
+$: 0x0317 0317 We'll Fight For Our Freedom
+$: 0x0318 0318 Get Em
+$: 0x0319 0319 Look Out Martians
+$: 0x031a 031a Nobody Messes With The Usa
+$: 0x031b 031b We Gotta Save The Statue Of Liberty
+$: 0x0320 0320 Ball Lock
+$: 0x0321 0321 Sameas 000800 Ball Lock
+$: 0x0322 0322 Wouiii
+$: 0x0323 0323 Wouiii
+$: 0x0328 0328 Ramp
+$: 0x0329 0329 Sameas 000808 Ramp
+$: 0x032a 032a Cow Ramp
+$: 0x032b 032b Sameas 000810 Cow Ramp
+$: 0x0330 0330 Opening Door
+$: 0x0331 0331 Sameas 000816 Opening Door
+$: 0x0332 0332 Ramp
+$: 0x0333 0333 Sameas 000818 Ramp
+$: 0x0334 0334 Ramp While Pressing Launch Button
+$: 0x0335 0335 Sameas 000820 Ramp While Pressing Launch Button
+$: 0x0336 0336 Burp
+$: 0x0337 0337 Sameas 000822 Burp
+$: 0x0338 0338 Bip
+$: 0x0339 0339 Sameas 000824 Bip
+$: 0x033a 033a Boom
+$: 0x033b 033b Sameas 000826 Boom
+$: 0x033c 033c Video Mode
+$: 0x033d 033d Sameas 000828 Video Mode
+$: 0x033e 033e Smash
+$: 0x033f 033f Sameas 000830 Smash
+$: 0x0340 0340 Rooster
+$: 0x0341 0341 Sameas 000832 Rooster
+$: 0x0342 0342 Rooster 2
+$: 0x0343 0343 Sameas 000834 Rooster 2
+$: 0x0344 0344 Big Rooster
+$: 0x0345 0345 Sameas 000836 Big Rooster
+$: 0x0346 0346 Explosion
+$: 0x0347 0347 Sameas 000838 Explosion
+$: 0x0348 0348 Martian Ship
+$: 0x0349 0349 Sameas 000840 Martian Ship
+$: 0x034a 034a Martian Shipp
+$: 0x034b 034b Sameas 000842 Martian Shipp
+$: 0x0352 0352 Martian Bank Hit
+$: 0x0353 0353 Sameas 000850 Martian Bank Hit
+$: 0x0354 0354 Replay
+$: 0x0355 0355 Sameas 000852 Replay
+$: 0x0356 0356 Big O Beam Loading
+$: 0x0357 0357 Sameas 000854 Big O Beam Loading
+$: 0x0358 0358 Boom Electronic
+$: 0x0359 0359 Sameas 000856 Boom Electronic
+$: 0x035a 035a Flying Saucer Take Off
+$: 0x035b 035b Flying Saucer Take Off 2
+$: 0x035c 035c Splash
+$: 0x035d 035d Sameas 000860 Splash
+$: 0x0362 0362 Ha Ha Ha Martian Voice
+$: 0x0363 0363 Sameas 000866 Ha Ha Ha Martian Voice
+$: 0x0364 0364 Martian Hit During Martian Multiball
+$: 0x0365 0365 Sameas 000868 Martian Hit During Martian Multiball
+$: 0x0366 0366 Oh No Martian When Martian Multiball Starts
+$: 0x0367 0367 Sameas 000870 Oh No Martian When Martian Multiball Starts
+$: 0x0368 0368 Ow Martian Hit During Martian Multiball
+$: 0x0369 0369 Sameas 000872 Ow Martian Hit During Martian Multiball
+$: 0x036a 036a Ow Hit During Martian Multiballl
+$: 0x036b 036b Sameas 000874 Ow Hit During Martian Multiballl
+$: 0x036e 036e Attack Martian Multiball
+$: 0x036f 036f Attack
+$: 0x0370 0370 Run Away
+$: 0x0371 0371 Sameas 000880 Run Away
+$: 0x0372 0372 Greetings Earthling Ah Ah Ah Urgh
+$: 0x0373 0373 Sameas 000882 Greetings Earthling Ah Ah Ah Urgh
+$: 0x0374 0374 Aaaah Women
+$: 0x0375 0375 Sameas 000884 Aaaah Women
+$: 0x0378 0378 Your Cities Will Be Destroyed
+$: 0x0379 0379 Sameas 000888 Your Cities Will Be Destroyed
+$: 0x037a 037a Earth Will Be Ours
+$: 0x037b 037b Sameas 000890 Earth Will Be Ours
+$: 0x037e 037e You Cannot Defeat Our Force Field
+$: 0x037f 037f Sameas 000894 You Cannot Defeat Our Force Field
+$: 0x0380 0380 Can't We Just Be Friends
+$: 0x0381 0381 Sameas 000896 Can't We Just Be Friends
+$: 0x0382 0382 Got Enough
+$: 0x0383 0383 Sameas 000898 Got Enough
+$: 0x0384 0384 We Are Invincible
+$: 0x0385 0385 Sameas 000900 We Are Invincible
+$: 0x0386 0386 Ha Ha Ha Martian Voice
+$: 0x0387 0387 Sameas 000902 Ha Ha Ha Martian Voice
+$: 0x038a 038a Nothing Can Defeat Us
+$: 0x038b 038b Sameas 000906 Nothing Can Defeat Us
+$: 0x038c 038c It Will Never Work
+$: 0x038d 038d Sameas 000908 It Will Never Work
+$: 0x038e 038e Ouch
+$: 0x038f 038f Sameas 000910 Ouch
+$: 0x0390 0390 Ouch 2
+$: 0x0391 0391 Sameas 000912 Ouch 2
+$: 0x0392 0392 Hey Look Your Shoe Is Untied
+$: 0x0393 0393 Sameas 000914 Hey Look Your Shoe Is Untied
+$: 0x0394 0394 Come Here Tasty Human
+$: 0x0395 0395 Sameas 000916 Come Here Tasty Human
+$: 0x0396 0396 No No Nooo
+$: 0x0397 0397 Sameas 000918 No No Nooo
+$: 0x0398 0398 Laser
+$: 0x0399 0399 Sameas 000920 Laser
+$: 0x039a 039a Laser
+$: 0x039b 039b Sameas 000922 Laser
+$: 0x039c 039c Greetings Earthling
+$: 0x039d 039d Sameas 000924 Greetings Earthling
+$: 0x03a0 03a0 Martian Laugh
+$: 0x03a1 03a1 Sameas 000928 Martian Laugh
+$: 0x03a4 03a4 Martian Growl
+$: 0x03a5 03a5 Sameas 000932 Martian Growl
+$: 0x03a6 03a6 Martian Laugh
+$: 0x03a7 03a7 Sameas 000934 Martian Laugh
+$: 0x03a8 03a8 More Women
+$: 0x03a9 03a9 Sameas 000936 More Women
+$: 0x03aa 03aa Oooh Yes
+$: 0x03ab 03ab Sameas 000938 Oooh Yes
+$: 0x03ac 03ac You Again
+$: 0x03ad 03ad Sameas 000940 You Again
+$: 0x03ae 03ae Not You Again
+$: 0x03af 03af Sameas 000942 Not You Again
+$: 0x03b4 03b4 Ugh I'm So Scared
+$: 0x03b5 03b5 Sameas 000948 Ugh I'm So Scared
+$: 0x03b6 03b6 Missed Me Ahah
+$: 0x03b7 03b7 Sameas 000950 Missed Me Ahah
+$: 0x03b8 03b8 Nananana Pffff
+$: 0x03b9 03b9 Sameas 000952 Nananana Pffff
+$: 0x03ba 03ba Applause For Ruling Universe
+$: 0x03bb 03bb Sameas 000954 Applause For Ruling Universe
+$: 0x03bc 03bc Boing
+$: 0x03bd 03bd Sameas 000956 Boing
+$: 0x03be 03be Martian Scream
+$: 0x03bf 03bf Sameas 000958 Martian Scream
+$: 0x03c0 03c0 Martian Scream 2
+$: 0x03c1 03c1 Sameas 000960 Martian Scream 2
+$: 0x03c2 03c2 Surprise
+$: 0x03c3 03c3 Sameas 000962 Surprise
+$: 0x03c4 03c4 Replay
+$: 0x03c5 03c5 Sameas 000964 Replay
+$: 0x03d4 03d4 Menu Sound
+$: 0x03d5 03d5 Sameas 000980 Menu Sound
+$: 0x03d6 03d6 Menu Back
+$: 0x03d7 03d7 Menu Sound Enter
+$: 0x03d8 03d8 Coin Door Open
+$: 0x03d9 03d9 Menu Sound
+$: 0x03da 03da Sameas 000985 Menu Sound
+$: 0x03db 03db Menu Reverse
+$: 0x03dc 03dc Menu Enter
+$: 0x03dd 03dd Menu
+$: 0x044c 044c Puny Humans We Have Four Arms
+$: 0x044d 044d Sameas 001100 Puny Humans We Have Four Arms
+$: 0x044e 044e Again
+$: 0x044f 044f Sameas 001102 Again
+$: 0x0450 0450 Oh Baby
+$: 0x0451 0451 Sameas 001104 Oh Baby
+$: 0x0452 0452 Ha Martian
+$: 0x0453 0453 Sameas 001106 Ha Martian
+$: 0x0454 0454 Martians Superior Humans Pathetic Aaah
+$: 0x0455 0455 Sameas 001108 Martians Superior Humans Pathetic Aaah
+$: 0x0456 0456 I Hate Humans
+$: 0x0457 0457 Sameas 001110 I Hate Humans
+$: 0x0458 0458 Oh No
+$: 0x0459 0459 Sameas 001112 Oh No
+$: 0x045a 045a Ah We Won't Be Defeated So Easily
+$: 0x045b 045b Sameas 001114 Ah We Won't Be Defeated So Easily
+$: 0x045c 045c Multiball
+$: 0x045d 045d Sameas 001116 Multiball
+$: 0x045e 045e You Rule The Universe
+$: 0x045f 045f Sameas 001118 You Rule The Universe
+$: 0x0460 0460 But We'll Be Back
+$: 0x0461 0461 Sameas 001120 But We'll Be Back
+$: 0x0462 0462 It Won't That Easy
+$: 0x0463 0463 Sameas 001122 It Won't That Easy
+$: 0x0464 0464 Not So Fast
+$: 0x0465 0465 Sameas 001124 Not So Fast
+$: 0x0466 0466 Not So Fast Human
+$: 0x0467 0467 Sameas 001126 Not So Fast Human
+$: 0x0468 0468 Replay
+$: 0x0469 0469 Sameas 001128 Replay

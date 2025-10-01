@@ -1,1 +1,6 @@
 ls | grep '^0x' | sed -E 's/^(0x)([0-9a-fA-F]+)[-_]*/$: \1\2 \2 /' | sed -e 's/\.ogg$//' -e 's/[-_]/ /g' > gamedata.txt
+
+
+Chatgpt:
+
+Clean this file up so that all the text is in title case, apostrophes are placed where they are missing (example: 'won t' be there will be others) and spelling mistakes fixed. Make sure you do the title case action last, to avoid issues like this: "Can'T"
