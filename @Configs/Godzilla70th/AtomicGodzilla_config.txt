@@ -1,0 +1,147 @@
+c: Tabs Godzilla
+c: Version Atomic Godzilla
+c: FirmwareName AtomicGodzilla
+c: FirmwareVersion v2.2.54
+c: WifiName stumblor-AtomicGodzilla-7a1u
+c: Board ESP8266
+c: Gifs 
+c: GifsFiles 
+c: NumPatterns 4
+c: SerialSpeed 230400
+c: Brightness1 255
+c: WifiTimeout 0
+c: NumOuts 4
+c: NumRings 1
+c: NumSensors 1
+c: NumLEDs 30
+c: GISensor 254
+c: BrightnessMax 255
+c: SwitchGap 100
+c: NumTriggers 1
+c: GIDimOffDelay 800
+c: GIDimOnDelay 500
+c: HideAdvConfig 255
+c: GISensorInverted 4294967295
+c: ColourSensor 0
+c: ColourSensorMap 0
+l: 0 RingRestColour 255068075
+l: 0 RingRestColourSet 1000000000
+l: 0 AtRestAction 2
+l: 0 DeviceType 0
+l: 0 SingleLED 0
+l: 0 RestColourSaturation 255
+l: 0 RestColourRandom 255
+l: 0 RestBrightness 255
+l: 0 OutTargets 1
+l: 0 RestColourReverse 255
+l: 0 FadesWithGI 1
+l: 0 ColourOrder 0
+l: 0 GifWidth 10
+l: 0 GifHeight 10
+l: 0 MaxValue 255
+l: 0 MinValue 0
+l: 0 AtRestText 
+l: 0 IsScreen 255
+l: 0 DebounceTriggers 255
+l: 0 AtRestActionValue 255
+t: 0 RingColour 000033255
+t: 0 RingColourSet 0000001000
+t: 0 RingColourRandom 0
+t: 0 TriggerAction 3
+t: 0 TriggerTime 1
+t: 0 RingTarget 0
+t: 0 SensorTarget 0
+t: 0 ColourSaturation 253
+t: 0 RingColourReverse 255
+t: 0 Command 0
+t: 0 CommandData1 0
+t: 0 CommandData2 0
+t: 0 TriggerBrightness 255
+t: 0 FadeInto 0
+t: 0 TriggerActionValue 255
+t: 0 TriggerText 
+s: 0 Targets 1
+s: 0 InvertedState 1
+s: 0 Retriggers 0
+s: 0 FlashDetect 255
+s: 0 SensorName 
+p: 0 Name 
+p: 0 CycleTime 200
+p: 0 SpinSpeed 85
+p: 0 Brightness 2
+p: 0 Spin 5
+p: 0 Offset1 255
+p: 0 Brightness2 255
+p: 0 Spin2 255
+p: 0 Offset2 255
+p: 0 RGB 1
+p: 0 RGBSpin 255
+p: 0 OffsetRGB 255
+p: 0 Mirror 255
+p: 0 Reverse 180
+p: 0 IncludeInRandom 0
+p: 0 Intensity 255
+p: 1 Name 
+p: 1 CycleTime 180
+p: 1 SpinSpeed 40
+p: 1 Brightness 10
+p: 1 Spin 8
+p: 1 Offset1 255
+p: 1 Brightness2 255
+p: 1 Spin2 255
+p: 1 Offset2 255
+p: 1 RGB 10
+p: 1 RGBSpin 8
+p: 1 OffsetRGB 255
+p: 1 Mirror 255
+p: 1 Reverse 100
+p: 1 IncludeInRandom 1
+p: 1 Intensity 255
+p: 2 Name 
+p: 2 CycleTime 100
+p: 2 SpinSpeed 10
+p: 2 Brightness 3
+p: 2 Spin 2
+p: 2 Offset1 255
+p: 2 Brightness2 3
+p: 2 Spin2 1
+p: 2 Offset2 255
+p: 2 RGB 6
+p: 2 RGBSpin 1
+p: 2 OffsetRGB 255
+p: 2 Mirror 255
+p: 2 Reverse 100
+p: 2 IncludeInRandom 1
+p: 2 Intensity 255
+p: 3 Name 
+p: 3 CycleTime 100
+p: 3 SpinSpeed 255
+p: 3 Brightness 9
+p: 3 Spin 1
+p: 3 Offset1 255
+p: 3 Brightness2 255
+p: 3 Spin2 255
+p: 3 Offset2 255
+p: 3 RGB 9
+p: 3 RGBSpin 2
+p: 3 OffsetRGB 255
+p: 3 Mirror 255
+p: 3 Reverse 100
+p: 3 IncludeInRandom 1
+p: 3 Intensity 255
+p: 4 Name 
+p: 4 CycleTime 100
+p: 4 SpinSpeed 150
+p: 4 Brightness 8
+p: 4 Spin 2
+p: 4 Offset1 255
+p: 4 Brightness2 255
+p: 4 Spin2 255
+p: 4 Offset2 255
+p: 4 RGB 8
+p: 4 RGBSpin 2
+p: 4 OffsetRGB 255
+p: 4 Mirror 255
+p: 4 Reverse 36
+p: 4 IncludeInRandom 1
+p: 4 Intensity 255

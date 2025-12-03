@@ -1,0 +1,463 @@
+c: Tabs Battle Power Ally Neon Sign-Battle Sign-Power Sign-Ally
+c: FirmwareName TokyoNeon1
+c: FirmwareVersion v2.2.15
+c: WifiName stumblor-TokyoNeon1-DKhg
+c: Version Tokyo Neon
+c: Board ESP8266
+c: Gifs 
+c: GifsFiles 
+c: NumPatterns 8
+c: SerialSpeed 230400
+c: Brightness1 255
+c: Brightness2 255
+c: Brightness3 255
+c: Brightness4 255
+c: WifiTimeout 0
+c: NumOuts 5
+c: NumRings 7
+c: NumSensors 5
+c: NumLEDs 20
+c: GISensor 3
+c: BrightnessMax 255
+c: SwitchGap 100
+c: NumTriggers 9
+c: GIDimOffDelay 800
+c: GIDimOnDelay 500
+c: HideAdvConfig 255
+l: 0 RingRestColour 249083000
+l: 0 RingRestColourSet 0000000000
+l: 0 AtRestAction 6
+l: 0 DeviceType 0
+l: 0 SingleLED 255
+l: 0 RestColourSaturation 255
+l: 0 RestColourRandom 255
+l: 0 RestBrightness 255
+l: 0 OutTargets 1
+l: 0 RestColourReverse 255
+l: 0 FadesWithGI 1
+l: 0 ColourOrder 0
+l: 0 GifWidth 255
+l: 0 GifHeight 255
+l: 0 MaxValue 255
+l: 0 MinValue 255
+l: 0 AtRestText 
+l: 0 IsScreen 0
+l: 0 DebounceTriggers 255
+l: 1 RingRestColour 249066000
+l: 1 RingRestColourSet 0000000000
+l: 1 AtRestAction 6
+l: 1 DeviceType 0
+l: 1 SingleLED 255
+l: 1 RestColourSaturation 255
+l: 1 RestColourRandom 255
+l: 1 RestBrightness 255
+l: 1 OutTargets 2
+l: 1 RestColourReverse 255
+l: 1 FadesWithGI 1
+l: 1 ColourOrder 0
+l: 1 GifWidth 255
+l: 1 GifHeight 255
+l: 1 MaxValue 255
+l: 1 MinValue 255
+l: 1 AtRestText 
+l: 1 IsScreen 0
+l: 1 DebounceTriggers 255
+l: 2 RingRestColour 249066000
+l: 2 RingRestColourSet 0000000000
+l: 2 AtRestAction 6
+l: 2 DeviceType 0
+l: 2 SingleLED 255
+l: 2 RestColourSaturation 255
+l: 2 RestColourRandom 255
+l: 2 RestBrightness 255
+l: 2 OutTargets 4
+l: 2 RestColourReverse 255
+l: 2 FadesWithGI 1
+l: 2 ColourOrder 0
+l: 2 GifWidth 255
+l: 2 GifHeight 255
+l: 2 MaxValue 255
+l: 2 MinValue 255
+l: 2 AtRestText 
+l: 2 IsScreen 0
+l: 2 DebounceTriggers 255
+l: 3 RingRestColour 255000003
+l: 3 RingRestColourSet 1100000000
+l: 3 AtRestAction 0
+l: 3 DeviceType 0
+l: 3 SingleLED 255
+l: 3 RestColourSaturation 255
+l: 3 RestColourRandom 255
+l: 3 RestBrightness 255
+l: 3 OutTargets 8
+l: 3 RestColourReverse 255
+l: 3 FadesWithGI 1
+l: 3 ColourOrder 0
+l: 3 GifWidth 255
+l: 3 GifHeight 255
+l: 3 MaxValue 255
+l: 3 MinValue 255
+l: 3 AtRestText 
+l: 3 IsScreen 0
+l: 3 DebounceTriggers 1
+l: 4 RingRestColour 255133222
+l: 4 RingRestColourSet 0000001000
+l: 4 AtRestAction 7
+l: 4 DeviceType 0
+l: 4 SingleLED 255
+l: 4 RestColourSaturation 255
+l: 4 RestColourRandom 255
+l: 4 RestBrightness 255
+l: 4 OutTargets 16
+l: 4 RestColourReverse 255
+l: 4 FadesWithGI 1
+l: 4 ColourOrder 0
+l: 4 GifWidth 255
+l: 4 GifHeight 255
+l: 4 MaxValue 255
+l: 4 MinValue 255
+l: 4 AtRestText 
+l: 4 IsScreen 0
+l: 4 DebounceTriggers 255
+l: 5 RingRestColour 255133222
+l: 5 RingRestColourSet 0000001000
+l: 5 AtRestAction 7
+l: 5 DeviceType 0
+l: 5 SingleLED 255
+l: 5 RestColourSaturation 255
+l: 5 RestColourRandom 255
+l: 5 RestBrightness 255
+l: 5 OutTargets 16
+l: 5 RestColourReverse 255
+l: 5 FadesWithGI 1
+l: 5 ColourOrder 0
+l: 5 GifWidth 255
+l: 5 GifHeight 255
+l: 5 MaxValue 255
+l: 5 MinValue 255
+l: 5 AtRestText 
+l: 5 IsScreen 0
+l: 5 DebounceTriggers 255
+l: 6 RingRestColour 255133222
+l: 6 RingRestColourSet 0000001000
+l: 6 AtRestAction 7
+l: 6 DeviceType 0
+l: 6 SingleLED 255
+l: 6 RestColourSaturation 255
+l: 6 RestColourRandom 255
+l: 6 RestBrightness 255
+l: 6 OutTargets 16
+l: 6 RestColourReverse 255
+l: 6 FadesWithGI 1
+l: 6 ColourOrder 0
+l: 6 GifWidth 255
+l: 6 GifHeight 255
+l: 6 MaxValue 255
+l: 6 MinValue 255
+l: 6 AtRestText 
+l: 6 IsScreen 0
+l: 6 DebounceTriggers 255
+t: 0 RingColour 255000000
+t: 0 RingColourSet 1000001000
+t: 0 RingColourRandom 0
+t: 0 TriggerAction 1
+t: 0 TriggerTime 5
+t: 0 RingTarget 0
+t: 0 SensorTarget 0
+t: 0 ColourSaturation 255
+t: 0 RingColourReverse 0
+t: 0 Command 0
+t: 0 CommandData1 255
+t: 0 CommandData2 255
+t: 0 TriggerBrightness 255
+t: 0 FadeInto 255
+t: 0 TriggerText 
+t: 1 RingColour 255000000
+t: 1 RingColourSet 1000001000
+t: 1 RingColourRandom 0
+t: 1 TriggerAction 1
+t: 1 TriggerTime 5
+t: 1 RingTarget 1
+t: 1 SensorTarget 1
+t: 1 ColourSaturation 255
+t: 1 RingColourReverse 0
+t: 1 Command 0
+t: 1 CommandData1 255
+t: 1 CommandData2 255
+t: 1 TriggerBrightness 255
+t: 1 FadeInto 255
+t: 1 TriggerText 
+t: 2 RingColour 255000000
+t: 2 RingColourSet 1000001000
+t: 2 RingColourRandom 0
+t: 2 TriggerAction 1
+t: 2 TriggerTime 5
+t: 2 RingTarget 2
+t: 2 SensorTarget 2
+t: 2 ColourSaturation 255
+t: 2 RingColourReverse 0
+t: 2 Command 0
+t: 2 CommandData1 255
+t: 2 CommandData2 255
+t: 2 TriggerBrightness 255
+t: 2 FadeInto 255
+t: 2 TriggerText 
+t: 3 RingColour 255000000
+t: 3 RingColourSet 4294967295
+t: 3 RingColourRandom 0
+t: 3 TriggerAction 5
+t: 3 TriggerTime 0
+t: 3 RingTarget 3
+t: 3 SensorTarget 0
+t: 3 ColourSaturation 255
+t: 3 RingColourReverse 0
+t: 3 Command 0
+t: 3 CommandData1 255
+t: 3 CommandData2 255
+t: 3 TriggerBrightness 255
+t: 3 FadeInto 255
+t: 3 TriggerText 
+t: 4 RingColour 255000000
+t: 4 RingColourSet 4294967295
+t: 4 RingColourRandom 0
+t: 4 TriggerAction 5
+t: 4 TriggerTime 0
+t: 4 RingTarget 3
+t: 4 SensorTarget 1
+t: 4 ColourSaturation 255
+t: 4 RingColourReverse 0
+t: 4 Command 0
+t: 4 CommandData1 255
+t: 4 CommandData2 255
+t: 4 TriggerBrightness 255
+t: 4 FadeInto 255
+t: 4 TriggerText 
+t: 5 RingColour 255000000
+t: 5 RingColourSet 4294967295
+t: 5 RingColourRandom 0
+t: 5 TriggerAction 5
+t: 5 TriggerTime 0
+t: 5 RingTarget 3
+t: 5 SensorTarget 2
+t: 5 ColourSaturation 255
+t: 5 RingColourReverse 0
+t: 5 Command 0
+t: 5 CommandData1 255
+t: 5 CommandData2 255
+t: 5 TriggerBrightness 255
+t: 5 FadeInto 255
+t: 5 TriggerText 
+t: 6 RingColour 255143234
+t: 6 RingColourSet 0000001000
+t: 6 RingColourRandom 0
+t: 6 TriggerAction 7
+t: 6 TriggerTime 5
+t: 6 RingTarget 4
+t: 6 SensorTarget 0
+t: 6 ColourSaturation 255
+t: 6 RingColourReverse 0
+t: 6 Command 0
+t: 6 CommandData1 255
+t: 6 CommandData2 255
+t: 6 TriggerBrightness 255
+t: 6 FadeInto 255
+t: 6 TriggerText 
+t: 7 RingColour 255143234
+t: 7 RingColourSet 0000001000
+t: 7 RingColourRandom 0
+t: 7 TriggerAction 7
+t: 7 TriggerTime 5
+t: 7 RingTarget 5
+t: 7 SensorTarget 1
+t: 7 ColourSaturation 255
+t: 7 RingColourReverse 0
+t: 7 Command 0
+t: 7 CommandData1 255
+t: 7 CommandData2 255
+t: 7 TriggerBrightness 255
+t: 7 FadeInto 255
+t: 7 TriggerText 
+t: 8 RingColour 255143234
+t: 8 RingColourSet 0000001000
+t: 8 RingColourRandom 0
+t: 8 TriggerAction 7
+t: 8 TriggerTime 5
+t: 8 RingTarget 6
+t: 8 SensorTarget 2
+t: 8 ColourSaturation 255
+t: 8 RingColourReverse 0
+t: 8 Command 0
+t: 8 CommandData1 255
+t: 8 CommandData2 255
+t: 8 TriggerBrightness 255
+t: 8 FadeInto 255
+t: 8 TriggerText 
+s: 0 Targets 3225
+s: 0 InvertedState 1
+s: 0 Retriggers 255
+s: 0 FlashDetect 255
+s: 0 SensorName 
+s: 1 Targets 5418
+s: 1 InvertedState 1
+s: 1 Retriggers 255
+s: 1 FlashDetect 255
+s: 1 SensorName 
+s: 2 Targets 9804
+s: 2 InvertedState 1
+s: 2 Retriggers 255
+s: 2 FlashDetect 255
+s: 2 SensorName 
+s: 3 Targets 0
+s: 3 InvertedState 255
+s: 3 Retriggers 255
+s: 3 FlashDetect 255
+s: 3 SensorName 
+s: 4 Targets 0
+s: 4 InvertedState 255
+s: 4 Retriggers 255
+s: 4 FlashDetect 255
+s: 4 SensorName 
+p: 0 Name At Rest
+p: 0 CycleTime 1
+p: 0 SpinSpeed 1
+p: 0 Brightness 16
+p: 0 Spin 0
+p: 0 Offset1 255
+p: 0 Brightness2 255
+p: 0 Spin2 255
+p: 0 Offset2 255
+p: 0 RGB 1
+p: 0 RGBSpin 255
+p: 0 OffsetRGB 255
+p: 0 Mirror 255
+p: 0 Reverse 134
+p: 0 IncludeInRandom 0
+p: 0 Intensity 255
+p: 1 Name Bounce
+p: 1 CycleTime 134
+p: 1 SpinSpeed 255
+p: 1 Brightness 1
+p: 1 Spin 8
+p: 1 Offset1 255
+p: 1 Brightness2 0
+p: 1 Spin2 0
+p: 1 Offset2 255
+p: 1 RGB 12
+p: 1 RGBSpin 8
+p: 1 OffsetRGB 255
+p: 1 Mirror 255
+p: 1 Reverse 60
+p: 1 IncludeInRandom 1
+p: 1 Intensity 255
+p: 2 Name Linear Tilted
+p: 2 CycleTime 60
+p: 2 SpinSpeed 14
+p: 2 Brightness 8
+p: 2 Spin 1
+p: 2 Offset1 255
+p: 2 Brightness2 255
+p: 2 Spin2 255
+p: 2 Offset2 255
+p: 2 RGB 9
+p: 2 RGBSpin 1
+p: 2 OffsetRGB 255
+p: 2 Mirror 255
+p: 2 Reverse 40
+p: 2 IncludeInRandom 1
+p: 2 Intensity 255
+p: 3 Name Chase
+p: 3 CycleTime 40
+p: 3 SpinSpeed 80
+p: 3 Brightness 2
+p: 3 Spin 1
+p: 3 Offset1 255
+p: 3 Brightness2 255
+p: 3 Spin2 255
+p: 3 Offset2 255
+p: 3 RGB 9
+p: 3 RGBSpin 2
+p: 3 OffsetRGB 255
+p: 3 Mirror 255
+p: 3 Reverse 180
+p: 3 IncludeInRandom 1
+p: 3 Intensity 255
+p: 4 Name Slow Sine
+p: 4 CycleTime 180
+p: 4 SpinSpeed 10
+p: 4 Brightness 13
+p: 4 Spin 7
+p: 4 Offset1 255
+p: 4 Brightness2 255
+p: 4 Spin2 255
+p: 4 Offset2 255
+p: 4 RGB 8
+p: 4 RGBSpin 2
+p: 4 OffsetRGB 255
+p: 4 Mirror 255
+p: 4 Reverse 30
+p: 4 IncludeInRandom 1
+p: 4 Intensity 255
+p: 5 Name Fire
+p: 5 CycleTime 30
+p: 5 SpinSpeed 240
+p: 5 Brightness 15
+p: 5 Spin 255
+p: 5 Offset1 255
+p: 5 Brightness2 255
+p: 5 Spin2 255
+p: 5 Offset2 255
+p: 5 RGB 255
+p: 5 RGBSpin 255
+p: 5 OffsetRGB 255
+p: 5 Mirror 255
+p: 5 Reverse 100
+p: 5 IncludeInRandom 0
+p: 5 Intensity 230
+p: 6 Name Glitch
+p: 6 CycleTime 100
+p: 6 SpinSpeed 70
+p: 6 Brightness 18
+p: 6 Spin 255
+p: 6 Offset1 255
+p: 6 Brightness2 255
+p: 6 Spin2 255
+p: 6 Offset2 255
+p: 6 RGB 255
+p: 6 RGBSpin 255
+p: 6 OffsetRGB 255
+p: 6 Mirror 255
+p: 6 Reverse 255
+p: 6 IncludeInRandom 0
+p: 6 Intensity 255
+p: 7 Name Sign Glitter
+p: 7 CycleTime 255
+p: 7 SpinSpeed 40
+p: 7 Brightness 7
+p: 7 Spin 1
+p: 7 Offset1 255
+p: 7 Brightness2 7
+p: 7 Spin2 2
+p: 7 Offset2 255
+p: 7 RGB 11
+p: 7 RGBSpin 3
+p: 7 OffsetRGB 255
+p: 7 Mirror 255
+p: 7 Reverse 255
+p: 7 IncludeInRandom 0
+p: 7 Intensity 100
+p: 8 Name 
+p: 8 CycleTime 255
+p: 8 SpinSpeed 20
+p: 8 Brightness 14
+p: 8 Spin 2
+p: 8 Offset1 255
+p: 8 Brightness2 0
+p: 8 Spin2 0
+p: 8 Offset2 255
+p: 8 RGB 14
+p: 8 RGBSpin 2
+p: 8 OffsetRGB 255
+p: 8 Mirror 255
+p: 8 Reverse 255
+p: 8 IncludeInRandom 0
+p: 8 Intensity 255
