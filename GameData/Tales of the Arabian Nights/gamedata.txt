@@ -1,1 +1,318 @@
-
+$: 0x0001 0001 Intro Wait Launch Ball
+$: 0x0002 0002 Main Theme
+$: 0x0003 0003 In Ancient Baghdad
+$: 0x0005 0005 Warrior Theme
+$: 0x0006 0006 Mystery Theme
+$: 0x0007 0007 Arabian Theme
+$: 0x0008 0008 Riding Theme
+$: 0x0009 0009 Boing Oriental Sound
+$: 0x000a 000a Fast Theme
+$: 0x0014 0014 Mystery Oriental Sound
+$: 0x0015 0015 Victory Music
+$: 0x0016 0016 Arabian Music
+$: 0x0017 0017 Race Sound Victory
+$: 0x0018 0018 Market Theme
+$: 0x001c 001c Jackpot
+$: 0x001d 001d Fight Theme
+$: 0x001e 001e Final Battle
+$: 0x001f 001f Fight Theme 2
+$: 0x0020 0020 Up Oriental Music
+$: 0x0021 0021 Discovery Oriental Music
+$: 0x0022 0022 Tadam Oriental
+$: 0x0023 0023 Victory Music
+$: 0x0024 0024 Bouing
+$: 0x0066 0066 Waving Sound
+$: 0x0069 0069 Star S Sound
+$: 0x006a 006a Closing A Door
+$: 0x006c 006c Electronic Sword Effect
+$: 0x0070 0070 Magic Sword
+$: 0x0075 0075 Flying Saucer Take Off
+$: 0x0079 0079 Mystery Music Down
+$: 0x007a 007a Fairy Music
+$: 0x007b 007b Bouing Drum Echo
+$: 0x007c 007c Harp Sound
+$: 0x0082 0082 Explosion
+$: 0x0086 0086 Bouing
+$: 0x0087 0087 Take Off
+$: 0x008a 008a Lace
+$: 0x008b 008b Explosion
+$: 0x008d 008d Boum
+$: 0x008e 008e Tiny Bells
+$: 0x008f 008f Flying Carpet
+$: 0x0090 0090 Bouing Take Off
+$: 0x0091 0091 Boum
+$: 0x0092 0092 Horse Scream
+$: 0x0093 0093 Arabian Music
+$: 0x0094 0094 Tac
+$: 0x0095 0095 Boum
+$: 0x0096 0096 Thunder
+$: 0x0097 0097 Same As 000150 Thunder
+$: 0x0098 0098 Bird Song
+$: 0x0099 0099 Take Off
+$: 0x009a 009a Breaking Window
+$: 0x009b 009b Boum Glittery
+$: 0x009c 009c Bouing Magic
+$: 0x009d 009d Boum
+$: 0x009e 009e Cow
+$: 0x009f 009f Kiss
+$: 0x00a0 00a0 Applause
+$: 0x00a1 00a1 Same As 000160 Applause
+$: 0x00c3 00c3 Boum
+$: 0x00c4 00c4 Boum 2
+$: 0x00c9 00c9 Blowing Sand
+$: 0x00cd 00cd Lion Roar
+$: 0x00cf 00cf Cow 2
+$: 0x00d0 00d0 Yawn
+$: 0x00d4 00d4 Key Falling On The Floor
+$: 0x00d5 00d5 Bouing High Pitch
+$: 0x00d6 00d6 Bouing High
+$: 0x00d9 00d9 Earthshake
+$: 0x00da 00da Crow Attack
+$: 0x00db 00db Plane Take Off
+$: 0x00dc 00dc Bouing Echo
+$: 0x00dd 00dd Gunshot
+$: 0x00de 00de Take Off Mystery Flying Saucer
+$: 0x00df 00df Lace Hit
+$: 0x00e0 00e0 Turn A Piece Of Paper
+$: 0x00e1 00e1 Explosion
+$: 0x00e5 00e5 Bubble
+$: 0x00e6 00e6 Music Woman Crying
+$: 0x00e7 00e7 Ouhhhhhh
+$: 0x00f0 00f0 Bouing Oriental Sound
+$: 0x00f1 00f1 Bouing Oriental Sound 2
+$: 0x00f2 00f2 Bouing Oriental 3
+$: 0x00f3 00f3 Bouing Oriental 4
+$: 0x00f4 00f4 Bouing Oriental 5
+$: 0x00f5 00f5 Bouing Oriental 6
+$: 0x00f6 00f6 Bouing Oriental 7
+$: 0x00f7 00f7 Bouing Oriental 8
+$: 0x00f8 00f8 Bouing Oriental 9
+$: 0x00f9 00f9 Bouing Oriental 10
+$: 0x00fa 00fa Bouing Oriental 11
+$: 0x00fb 00fb Bouing Oriental 12
+$: 0x00fc 00fc Bouing Oriental 13
+$: 0x00fd 00fd Bouing Oriental 14
+$: 0x00fe 00fe Bouing Oriental 15
+$: 0x0194 0194 Monster Screams
+$: 0x0195 0195 Same As 000404 Monster Screams
+$: 0x019b 019b Bird Wake Up And Monster Scream
+$: 0x01a5 01a5 Diabolic Scream
+$: 0x01a6 01a6 Yahahahahaha
+$: 0x01c3 01c3 Have I Got A Lot For You
+$: 0x01c5 01c5 Welcome To The Bazaar
+$: 0x01c7 01c7 This Is My Last One
+$: 0x01c9 01c9 Take This Piece Of Junk
+$: 0x01cb 01cb A Gift From Me To You
+$: 0x01cd 01cd Take This Oh Wise One
+$: 0x01ce 01ce I Have Big Points For You
+$: 0x01d0 01d0 Come To The Bazaar
+$: 0x01d5 01d5 Waouhhhahahaha
+$: 0x01db 01db Women Laughing
+$: 0x01de 01de Women Laughing 2
+$: 0x01f5 01f5 You Are No Match For My Powers
+$: 0x01f6 01f6 You Will Never Defeat Me
+$: 0x01f7 01f7 Ohahahahaha
+$: 0x01f8 01f8 Ahahhahaha
+$: 0x01fb 01fb I Am The Master You Are The Slave
+$: 0x01fc 01fc The Princess Is Mine
+$: 0x01ff 01ff Now You Will Pay
+$: 0x0200 0200 Oh No
+$: 0x0208 0208 I Will Never Release Her
+$: 0x0209 0209 You Will Never Get Her
+$: 0x020a 020a You Are A Frivolous Fool
+$: 0x020b 020b Now You Will Pay
+$: 0x020c 020c Ooh Noo
+$: 0x020d 020d Oooooh
+$: 0x020f 020f Oh No You Won’t
+$: 0x0210 0210 Oh Noo
+$: 0x0211 0211 Try That Again
+$: 0x021b 021b You Missed
+$: 0x021d 021d I Cannot Be Defeated
+$: 0x021f 021f Here It Comes
+$: 0x0220 0220 Multiball
+$: 0x0221 0221 I Have A Surprise For You
+$: 0x0222 0222 Try That Again
+$: 0x0223 0223 Can You Do That Again
+$: 0x0227 0227 Prepare To Battle
+$: 0x0228 0228 This Amuses Me
+$: 0x0229 0229 I Challenge You To Another Game
+$: 0x0258 0258 The Tale Of Sindbad And The Rocks
+$: 0x0259 0259 The Tale Of Ali Baba
+$: 0x025a 025a The Tale Of The Flying Horse
+$: 0x025b 025b The Tale Of Scheherazade
+$: 0x025c 025c The Tale Of The Great Camel Race
+$: 0x025d 025d The Tale Of The Forty Thieves
+$: 0x025e 025e The Tale Of The Cyclops
+$: 0x025f 025f Shoot Again
+$: 0x0262 0262 Welcome Back
+$: 0x0266 0266 Let The Tales Begin
+$: 0x0269 0269 You Now Possess The Jewel Of The Rocks
+$: 0x026a 026a You Now Possess The Jewel Of The Cave
+$: 0x026b 026b You Now Possess The Jewel Of The Statue
+$: 0x026c 026c You Now Possess The Jewel Of Scheherazade
+$: 0x026d 026d You Now Possess The Jewel Of The Desert
+$: 0x026e 026e You Now Possess The Jewel Of Baghdad
+$: 0x026f 026f You Now Possess The Jewel Of The Cyclops
+$: 0x0270 0270 Is Now Yours
+$: 0x0271 0271 The Jewel Of The Rocks Is Now Yours
+$: 0x0272 0272 The Jewel Of The Cave Is Now Yours
+$: 0x0273 0273 The Jewel Of The Statue Is Now Yours
+$: 0x0274 0274 The Jewel Of Scheherazade Is Now Yours
+$: 0x0275 0275 The Jewel Of The Desert Is Now Yours
+$: 0x0276 0276 The Jewel Of Baghdad Is Now Yours
+$: 0x0277 0277 The Jewel Of The Cyclops Is Now Yours
+$: 0x0278 0278 You Possess The Final Jewel
+$: 0x0279 0279 Ball One Is Locked
+$: 0x027a 027a Ball Two Is Locked
+$: 0x027b 027b The First Ball Is Locked
+$: 0x027c 027c The Second Ball Is Locked
+$: 0x027e 027e Player One Is Up
+$: 0x027f 027f Player Two Is Up
+$: 0x0280 0280 Player Three Is Up
+$: 0x0281 0281 Player Four Is Up
+$: 0x0282 0282 Shoot Again
+$: 0x0283 0283 Player One
+$: 0x0284 0284 Player Two
+$: 0x0285 0285 Player Three
+$: 0x0286 0286 Player Four
+$: 0x028a 028a You Must Release Me From The Bottle
+$: 0x028d 028d I’m Pleased You Made It This Far
+$: 0x028f 028f Rescue Me From The Bottle
+$: 0x0290 0290 You’ve Made Me So Happy
+$: 0x0291 0291 Don’t Leave Me Here
+$: 0x0294 0294 You’re My Only Hope
+$: 0x0297 0297 Battle The Genie To Rescue Me
+$: 0x0299 0299 Please Help Me Escape
+$: 0x029b 029b Battle The Skeletons
+$: 0x029f 029f Uuh You’re Powerful
+$: 0x02a1 02a1 I’m All Yours
+$: 0x02a3 02a3 You’re My Hero
+$: 0x02a5 02a5 Let Me Out Of Here
+$: 0x02a6 02a6 Smash The Bottle
+$: 0x02a7 02a7 Don’t Quit Now
+$: 0x02a8 02a8 Shoot The Golden Symbols
+$: 0x02aa 02aa Time Is Running Out
+$: 0x02ab 02ab Hurry
+$: 0x02ac 02ac You Did It
+$: 0x02b0 02b0 Move Your Carpet
+$: 0x02bc 02bc Shoot For The Jets
+$: 0x02be 02be Spell Sesame
+$: 0x02bf 02bf To Get The Jewel
+$: 0x02c0 02c0 Open Sesame
+$: 0x02c1 02c1 Shoot Ramp To The Left
+$: 0x02c2 02c2 Shoot The Ramp To Escape
+$: 0x02c3 02c3 Throw Rocks At The Cyclops
+$: 0x02c4 02c4 Into The Orbs
+$: 0x02c5 02c5 Go For The Extra Ball
+$: 0x02c6 02c6 Replay
+$: 0x02c8 02c8 I Am Now Free Of The Lamp
+$: 0x02c9 02c9 I Am Your Genie
+$: 0x02ca 02ca I Will Help You
+$: 0x02cb 02cb Spin The Lamp
+$: 0x02cc 02cc Unleash The Lamp’s Power
+$: 0x02cd 02cd Uh Lightning
+$: 0x02ce 02ce Spin It Again
+$: 0x02d0 02d0 Make A Wish
+$: 0x02d2 02d2 Your Wish Is Granted
+$: 0x02d3 02d3 Last It Be So
+$: 0x02d4 02d4 A Thousand Pardons Oh Wise One
+$: 0x02d6 02d6 Spin The Lamp To Light A Wish
+$: 0x02d7 02d7 Choose Your Destiny
+$: 0x02d8 02d8 Oh Master
+$: 0x02da 02da Choose Wisely
+$: 0x02db 02db The Treasure Is Now Before You
+$: 0x02dc 02dc What Is Your Wish
+$: 0x02e1 02e1 Great Shot
+$: 0x02e2 02e2 Hurry Up
+$: 0x02e4 02e4 Hit It Once More
+$: 0x02e6 02e6 Again
+$: 0x02e8 02e8 Shoot The Genie
+$: 0x02e9 02e9 Strike The Genie
+$: 0x02ea 02ea Strike The Genie For Multiball
+$: 0x02eb 02eb Strike The Genie For Jackpot
+$: 0x02ec 02ec Wonderful
+$: 0x02ed 02ed A New Ball For You
+$: 0x02ee 02ee You’ve Earned This One
+$: 0x02ef 02ef Go For The Bazaar
+$: 0x02f0 02f0 Go For The Left Passageway
+$: 0x02f1 02f1 Go For The Right Passageway
+$: 0x02f2 02f2 Go For The Magic Carpet
+$: 0x02f3 02f3 Shoot The Left Passage
+$: 0x02f4 02f4 Shoot The Right Passage
+$: 0x02f5 02f5 Shoot For The Magic Carpet
+$: 0x02f6 02f6 Shoot For The Golden Symbol
+$: 0x02f7 02f7 Go For The Gold Symbols
+$: 0x02fa 02fa Fly On Your Magic Carpet
+$: 0x02fb 02fb Look
+$: 0x02fc 02fc Bazaar Is Lit
+$: 0x02fe 02fe Extra Ball Is Lit
+$: 0x02ff 02ff Amazing
+$: 0x0300 0300 Extra Ball
+$: 0x0301 0301 Escape On The Magic Carpet
+$: 0x0302 0302 The Locks Are Lit
+$: 0x0303 0303 Waow
+$: 0x0304 0304 Hit The Genie
+$: 0x0305 0305 Challenge The Genie
+$: 0x0306 0306 Strike The Genie
+$: 0x0307 0307 Attack The Genie
+$: 0x0308 0308 Banish The Evil Genie
+$: 0x0309 0309 This Genie Is Powerful
+$: 0x030a 030a Your Wish Is My Command
+$: 0x030c 030c Rub The Lamp
+$: 0x030d 030d I Am Ready Obey Thee
+$: 0x030e 030e A Fine Choice
+$: 0x030f 030f The Bazaar Hold Many Wonders
+$: 0x0310 0310 Your Scimitar Is Ready
+$: 0x0312 0312 Quick
+$: 0x0314 0314 Boys Will Be Boys
+$: 0x0316 0316 You Big Blue Bully
+$: 0x0317 0317 Ah Ah Ah I Love The Lightning
+$: 0x0318 0318 Glorious
+$: 0x0319 0319 Here Comes The Fireball
+$: 0x031d 031d Throw The Fireball At The Genie
+$: 0x031e 031e Hurl The Fireball Back
+$: 0x031f 031f Look Out
+$: 0x0321 0321 Release The Princess
+$: 0x0322 0322 Cease The Power
+$: 0x0323 0323 Banish The Genie
+$: 0x0324 0324 My Ruby Is Yours
+$: 0x0325 0325 Player One
+$: 0x0326 0326 Player Two
+$: 0x0327 0327 Player Three
+$: 0x0328 0328 Player Four
+$: 0x0329 0329 Is Up
+$: 0x032a 032a Is The Most Powerful
+$: 0x032b 032b Is Gaining Power
+$: 0x032c 032c Shoot Again
+$: 0x032e 032e You Must Battle The Genie
+$: 0x032f 032f Marvelous
+$: 0x0330 0330 Wonderful
+$: 0x0331 0331 That Was Wicked
+$: 0x0332 0332 You Are Wise
+$: 0x0335 0335 Hurry Hurry
+$: 0x0337 0337 Oh My
+$: 0x0338 0338 That’s Wonderful
+$: 0x0339 0339 Yes
+$: 0x033a 033a You’re Amazing
+$: 0x033b 033b You’ve Tilted
+$: 0x033c 033c Lightning Bolt
+$: 0x033d 033d Sun
+$: 0x033e 033e Dagger
+$: 0x033f 033f Moon
+$: 0x0340 0340 Star
+$: 0x0341 0341 Eye
+$: 0x0342 0342 Williams Presents Tales Of The Arabian Nights
+$: 0x0343 0343 Ahahahahha
+$: 0x0344 0344 Ahahhahhaha
+$: 0x0345 0345 Quick Harem Multiball
+$: 0x0346 0346 Collect The Jewels To Release The Princess
+$: 0x03d4 03d4 Bip
+$: 0x03d5 03d5 Same As 000980 Bip
+$: 0x03d6 03d6 Phone Ton
+$: 0x03d7 03d7 Bip Echo
+$: 0x03d8 03d8 Bouing
+$: 0x03d9 03d9 Bip
+$: 0x03da 03da Same As 000985 Bip
+$: 0x03db 03db Lost
+$: 0x03dc 03dc Bubble
+$: 0x03dd 03dd Laser Scratch
