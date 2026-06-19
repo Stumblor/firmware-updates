@@ -556,3 +556,107 @@ $: 0x0765 0765 You Must Challenge Voltaire
 $: 0x0766 0766 Hey That's Me
 $: 0x0767 0767 I Am Voltaire
 $: 0x077c 077c This Game Requires Service
+s: 11 Backbox Luck
+s: 12 Wire Ramp Enter
+s: 13 Start Button
+s: 14 Plumb Bob Tilt
+s: 15 Left Loop Upper
+s: 16 Top Eddy
+s: 17 Right In-Lane
+s: 18 Shooter Lane
+s: 21 Slave Tilt
+s: 22 Coin Door Closed
+s: 23 Right Loop Upper
+s: 24 Always Closed
+s: 25 Inner Loop Left
+s: 26 Left In-Lane
+s: 27 Left Outlane
+s: 28 Inner Loop Right
+s: 31 Trough Eject
+s: 32 Trough Ball 1
+s: 33 Trough Ball 2
+s: 34 Trough Ball 3
+s: 35 Trough Ball 4
+s: 36 Popper Opto
+s: 37 Wow Targets
+s: 38 Top Targets
+s: 41 Left Lane
+s: 42 Ringmaster Up
+s: 43 Ringmaster Middle
+s: 44 Ringmaster Down
+s: 45 Left Ramp Made
+s: 46 Trough Upper
+s: 47 Trough Middle
+s: 48 Left Loop Enter
+s: 51 Left Slingshot
+s: 52 Right Slingshot
+s: 53 Upper Jet Bumper
+s: 54 Middle Jet Bumper
+s: 55 Lower Jet Bumper
+s: 56 Skill Shot
+s: 57 Right Outlane
+s: 58 Ring 'N' 'G'
+s: 61 Light Standup Target
+s: 62 Lock Standup Target
+s: 63 Ramp Enter
+s: 64 Ramp Magnet
+s: 65 Ramp Made
+s: 66 Ramp Lock Low
+s: 67 Ramp Lock Middle
+s: 68 Ramp Lock High
+s: 71 Left Saucer
+s: 72 Right Saucer
+s: 74 Big Ball Rebound
+s: 75 Volt Right
+s: 76 Volt Left
+s: 81 Not Used
+s: 82 Not Used
+s: 83 Not Used
+s: 84 Not Used
+s: 85 Not Used
+s: 86 Not Used
+s: 87 Not Used
+s: 88 Not Used
+s: 91 Lower Right Flipper E.O.S.
+s: 92 Lower Right Flipper Opto
+s: 93 Lower Left Flipper E.O.S.
+s: 94 Lower Left Flipper Opto
+s: 95 Right Spinner
+s: 96 Upper Right Flipper Opto
+s: 97 Left Spinner
+s: 98 Upper Left Flipper Opto
+m: 0 Attract
+m: 1 Gameplay - No Mode
+m: 2 Skillshot Success
+m: 3 Ringmaster Frenzie
+m: 4 Ringmaster Razz
+m: 5 Ringmaster Special
+m: 6 Ringmaster Battle
+m: 7 Highwire Lock 1
+m: 8 Highwire Lock 2
+m: 9 Highwire Lock 3
+m: 10 Highwire Multiball
+m: 11 Juggler Multiball
+m: 12 Neon Multiball
+m: 13 Strike-An-Arc Multiball
+m: 14 Sideshow Preamble
+m: 15 Sideshow
+m: 16 The Amazing Roonie
+m: 17 Cannonball Run (Solenoid fires)
+m: 18 Acrobats
+m: 19 Boom! Balloon
+m: 20 Boom! Balloon (Hit)
+m: 21 Spin
+m: 22 Menagerie
+m: 23 Join The Cirqus - Spell CIRQUS
+m: 24 Join The Cirqus - Unmask Voltaire
+m: 25 Join The Cirqus - Meet The Cirqus
+m: 26 Party Multiball
+m: 27 Voltaire's Multiple Jackpots
+m: 28 Ringmaster Raised
+m: 29 Ringmaster Defeated
+m: 30 Defeat All Ringmasters
+m: 31 Extra Ball Lit
+m: 32 Bonus Sequence
+m: 33 Copy Cat (2.0)
+m: 34 2X Playfield (2.0)
