@@ -1,0 +1,194 @@
+s: 1 Left Outlane
+s: 2 Left Return Lane
+s: 5 Right Return Lane
+s: 6 Right Outlane
+s: 7 Left Slingshot
+s: 8 Right Slingshot
+s: 9 Left Flipper Button
+s: 10 Right Flipper Button
+s: 11 Left Flipper EOS
+s: 12 Right Flipper EOS
+s: 14 UP Right Flipper Button
+s: 15 Trough 6
+s: 16 Trough 5
+s: 17 Trough 4
+s: 18 Trough 3
+s: 19 Trough 2
+s: 20 Trough
+s: 21 Trough Jam
+s: 22 Shooter Lane
+s: 24 Up Right Flipper EOS
+s: 27 Target-Lite Escape
+s: 28 Target-Bottom Right
+s: 29 Right Half Pipe
+s: 30 Helicoptor Opto
+s: 31 Newton Ball-Left Opto
+s: 32 Newton Ball-Right Opto
+s: 34 Target-Pops
+s: 35 Pops Enter
+s: 37 Target Control Room
+s: 38 Target Raptor Pit-Top
+s: 39 Target Raptor Pit-Up L
+s: 40 Target Raptor Pit-Low L
+s: 41 Target Raptor Pit-Right
+s: 42 Target Bottom Left
+s: 43 Target Motor Bank
+s: 44 Motor
+s: 45 Motor 2
+s: 46 Raptor Lock Opto
+s: 48 Left Pop Bumper
+s: 49 Right Pop Bumper
+s: 50 Top Pop Bumper
+s: 52 Right Orbit Enter Opto
+s: 53 Right Orbit Exit
+s: 54 Right Ramp Exit
+s: 55 4x4 Target Right
+s: 56 4x4 Target Left
+s: 57 Spinner
+s: 58 Left Ramp Enter Opto
+s: 59 Left Ramp Exit Opto
+s: 60 Left Halfpipe Opto
+s: 61 Target Top Left
+s: 62 Left Orbit Enter
+s: 63 Left Orbit Exit Opto
+s: 64 T-Rex Up
+s: 65 T-Rex Mid
+s: 66 T-Rex Down
+s: 67 T-Rex Mouth
+s: 68 Stepper Home
+s: 70 Lockdown Button
+s: 73 Start Button
+s: 74 Tournament Start Button
+s: 76 Left Coin
+s: 77 Right Coin
+s: 78 Center Coin
+s: 79 Fourth Coin
+s: 80 Fifth Coin
+s: 81 Tilt Pendulum
+s: 82 Sixth Coin
+s: 83 Ticket Notch
+s: 84 Slam Tilt
+l: 1 Coin Enable
+l: 2 Start Button
+l: 3 Tournament Start
+l: 4 Lockdown Button-R
+l: 5 Lockdown Button-G
+l: 6 Lockdown Button-B
+l: 11 Left Outlane
+l: 12 Left Return Lane
+l: 13 Shoot Again
+l: 14 Right Return Lane
+l: 15 Right Outlane
+l: 18 main gate
+l: 19 Brachosaurus
+l: 20 Gallimimus
+l: 21 Ankylosaurus
+l: 22 Spitter
+l: 23 Triceritops
+l: 24 T-Rex Paddock
+l: 25 Compsognathus
+l: 26 Stegosaurus
+l: 27 Spinosaurus
+l: 28 Raptor
+l: 29 Pteranodon
+l: 30 Visitor Center
+l: 31 T-Rex
+l: 32 Control Room Wizard
+l: 33 Escape Nublar
+l: 36 Control Room
+l: 37 (C)HAOS
+l: 38 Control Room Arrow-R
+l: 39 Control Room Arrow-G
+l: 40 Control Room Arrow-B
+l: 41 Control Room Rescue
+l: 43 Lite Escape
+l: 44 2x playfield
+l: 47 Raptor Pit Arrow-R
+l: 48 Raptor Pit Arrow-G
+l: 49 Raptor Pit Arrow-B
+l: 50 Raptor Pit Upper Left
+l: 18 JURASSIC PARK LE / PREMIUM MANUAL 500-55M2-01
+l: 51 Raptor Pit Lower Left
+l: 52 Raptor Pit Right Target
+l: 53 Raptor Pit Electric Fence
+l: 54 Raptor Pit Capture
+l: 55 Raptor Pit Gate
+l: 58 Supply Drop
+l: 61 Left Halfpipe Arrow-R
+l: 62 Left Halfpipe Arrow-G
+l: 63 Left Halfpipe Arrow-B
+l: 64 Left Halfpipe Rescue
+l: 66 Left Halfpipe Target
+l: 68 Left Loop Arrow-R
+l: 69 Left Loop Arrow-G
+l: 70 Left Loop Arrow-B
+l: 73 Left Ramp Arrow-R
+l: 74 Left Ramp Arrow-G
+l: 75 Left Ramp Arrow-B
+l: 76 C(H)AOS
+l: 77 Left Ramp Rescue
+l: 80 Spinner 100k
+l: 81 Spinner 50k
+l: 82 Spinner 30k
+l: 83 Spinner 15k
+l: 84 Spinner Rescue
+l: 85 Spinner Arrow-R
+l: 86 Spinner Arrow-G
+l: 87 Spinner Arrow-B
+l: 90 4x4 Left Target
+l: 91 4x4 Left Target Arrow
+l: 93 4x4 Left Direction
+l: 94 4x4 Turn
+l: 96 4x4 Right Direction
+l: 97 Advance T-Rex
+l: 98 4x4 Right Target
+l: 99 4x4 Right Target Arrow
+l: 102 Amber Bonus
+l: 103 Smart Missile
+l: 104 Chaos
+l: 107 Right Ramp Arrow-R
+l: 108 Right Ramp Arrow-G
+l: 109 Right Ramp Arrow-B
+l: 110 CH(A)OS
+l: 111 Right Ramp Rescue
+l: 114 Right Loop Arrow-R
+l: 115 Right Loop Arrow-G
+l: 116 Right Loop Arrow-B
+l: 117 CHA(O)S
+l: 118 Right Orbit Rescue
+l: 120 Right Halfpipe Arrow-R
+l: 121 Right Halfpipe Arrow-G
+l: 122 Right Halfpipe Arrow-B
+l: 123 CHAO(S)
+l: 124 Right Halfpipe Rescue
+l: 127 Lite 2X
+l: 130 Left Ramp Sign
+l: 131 Left Ramp Sign 2
+l: 133 Right Ramp Sign
+l: 134 Right Ramp Sign 2
+l: 136 Right Halfpipe Sign
+l: 139 (M)AP
+l: 140 M(A)P
+l: 141 MA(P)
+l: 150 Coin Door GI
+l: 151 Bottom GI-Right
+l: 152 Bottom GI-Left
+l: 153 Top GI-Right
+l: 154 Top GI-Left
+l: 160 Escape Flash
+l: 161 Raptor Pit Enter Flash x2
+l: 162 Lite 2X Target Flash
+l: 163 Raptor Pit Flash
+l: 164 Left Halfpipe Spotlight
+l: 166 Right Halfpipe Spotlight
+l: 171 Spinner Jackpot Flash
+l: 172 Left Ramp Flash
+l: 174 Top Pop Bumper
+l: 175 Left Pop Bumper
+l: 176 Right Pop Bumper
+l: 178 Backpanel Flash
+l: 179 Backpanel Flash 2
+l: 180 Backpanel Flash 3
+l: 181 Backpanel Flash 4 (R)
+l: 190 Shooter Illumination
+l: 191 Shooter Illumination 2
