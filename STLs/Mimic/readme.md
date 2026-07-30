@@ -1,2 +1,2 @@
 
-![Add Tape like this](images/ClawMod_Tape.png)
+![Add Tape like this](ClawMod_Tape.png)
