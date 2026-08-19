@@ -1,0 +1,232 @@
+s: 1 Left Outlane
+s: 2 Left Return Lane
+s: 5 Right Return Lane
+s: 6 Right Outlane
+s: 7 Left Slingshot
+s: 8 Right Slingshot
+s: 9 Left Flipper Button
+s: 10 Right Flipper Button
+s: 11 Left Flipper EOS
+s: 12 Right Flipper EOS
+s: 14 UP Right Flipper Button
+s: 15 Trough 6
+s: 16 Trough 5
+s: 17 Trough 4
+s: 18 Trough 3
+s: 19 Trough 2
+s: 20 Trough 1
+s: 21 Trough Jam
+s: 22 Shooter Lane
+s: 23 Upper Shooter Lane
+s: 24 UP Right Flipper EOS
+s: 25 Paddle Target
+s: 30 Upper Left Sling
+s: 31 Grimlock Target Left
+s: 32 Grimlock Target Right
+s: 33 Grimlock Enter
+s: 34 Grimlock Exit Opto
+s: 37 Right Pop Bumper
+s: 42 PF Target 1
+s: 43 PF Target 2
+s: 44 PF Target 3
+s: 48 Optimus Ramp Entrance
+s: 49 Left Ramp Exit Opto
+s: 50 VUK Opto
+s: 53 Optimus Hit
+s: 58 Subway Opto
+s: 59 Spinner Opto
+s: 60 Center Loop
+s: 63 Right Orbit
+s: 64 Megatron Enter
+s: 65 Megatron Target Left
+s: 66 Megatron Target Right
+s: 67 Megatron Hit
+s: 72 Right Ramp Exit Opto
+s: 73 3 Bank Drop Left
+s: 74 3 Bank Drop Center
+s: 75 3 Bank Drop Right
+s: 76 Optimus Ramp Exit Opto
+s: 78 Combiner Target
+s: 79 Captive Ball Target
+s: 90 Lockdown Button
+s: 93 Start Button
+s: 94 Tournament Start Button
+s: 96 Left Coin
+s: 97 Right Coin
+s: 98 Center Coin
+s: 99 Fourth Coin
+s: 100 Fifth Coin
+s: 101 Tilt Pendulum
+s: 102 Sixth Coin
+s: 103 Ticket Notch
+s: 104 Slam Tilt
+s: 105 Ticket Low
+l: 1 Coin Enable
+l: 2 Start Button
+l: 3 Tournament Start
+l: 4 Lockdown Button-R
+l: 5 Lockdown Button-G
+l: 6 Lockdown Button-B
+l: 7 Ticket Low
+l: 11 Left Outlane
+l: 12 Autobot Inlane
+l: 13 Shoot Again
+l: 14 Decepticon Inlane
+l: 15 Countdown to Extinction-R
+l: 16 Countdown to Extinction-G
+l: 17 Countdown to Extinction-B
+l: 19 The Ultimate Doom
+l: 20 Rescue Optimus
+l: 21 Tech Spec Mania
+l: 22 Autobot Run
+l: 23 Microbots
+l: 24 2x
+l: 25 3x
+l: 26 Rusted
+l: 27 Energized
+l: 28 Solar Needle
+l: 29 Prime Targets
+l: 30 Golden Lagoon
+l: 32 Grimlock Target Right-R
+l: 33 Grimlock Target Right-G
+l: 34 Grimlock Target Right-B
+l: 35 Left Ramp-R
+l: 36 Left Ramp-G
+l: 37 Left Ramp-B
+l: 39 Lt Ramp Tech Spec-R
+l: 40 Lt Ramp Tech Spec-G
+l: 41 Lt Ramp Tech Spec-B
+l: 43 Grimlock Target Left-R
+l: 44 Grimlock Target Left-G
+l: 45 Grimlock Target Left-B
+l: 46 Captive Ball-R
+l: 47 Captive Ball-G
+l: 48 Captive Ball-B
+l: 50 Playfield x
+l: 51 Autobot Hurry Up
+l: 52 Bruticus
+l: 53 Menasor
+l: 54 Defensor
+l: 55 Devastator
+l: 56 Superion
+l: 57 Soundwave-R
+l: 58 Soundwave-G
+l: 59 Soundwave-B
+l: 60 Cassette Combo
+l: 61 Pop Bumper-R
+l: 62 Pop Bumper-G
+l: 63 Pop Bumper-B
+l: 66 Grimlock-R
+l: 67 Grimlock-G
+l: 68 Grimlock-B
+l: 69 SOS
+l: 70 Island
+l: 71 Dino Jackpot
+l: 72 War
+l: 73 Grimlock Tech Spec-R
+l: 74 Grimlock Tech Spec-G
+l: 75 Grimlock Tech Spec-B
+l: 78 Optimus Ramp-R
+l: 79 Optimus Ramp-G
+l: 80 Optimus Ramp-B
+l: 81 Super Jackpot
+l: 82 Combiner Part Collect-R
+l: 83 Combiner Part Collect-G
+l: 84 Combiner Part Collect-B
+l: 85 Add a Ball
+l: 86 Dead End-R
+l: 87 Dead End-G
+l: 88 Dead End-B
+l: 89 Combiner Multiball Start
+l: 90 Extra Ball
+l: 91 Space Bridge
+l: 92 Final Blow
+l: 93 Mission Start
+l: 96 Optimus Target Left-R
+l: 97 Optimus Target Left-G
+l: 98 Optimus Target Left-B
+l: 99 Optimus-R
+l: 100 Optimus-G
+l: 101 Optimus-B
+l: 102 Lock
+l: 103 VUK-R
+l: 104 VUK-G
+l: 105 VUK-B
+l: 106 Spinner Target Left-R
+l: 107 Spinner Target Left-G
+l: 108 Spinner Target Left-B
+l: 110 Energon 1
+l: 111 Energon 2
+l: 112 Energon 3
+l: 113 Energon 4
+l: 114 Center Orbit-R
+l: 115 Center Orbit-G
+l: 116 Center Orbit-B
+l: 118 Megatron Target Left-R
+l: 119 Megatron Target Left-G
+l: 120 Megatron Target Left-B
+l: 121 Megatron Target Right-R
+l: 122 Megatron Target Right-G
+l: 123 Megatron Target Right-B
+l: 125 Drop Target Left
+l: 126 Drop Target Center
+l: 127 Drop Target Right
+l: 128 Center Orbit Tech Spec-R
+l: 129 Center Orbit Tech Spec-G
+l: 130 Center Orbit Tech Spec-B
+l: 131 Megatron-R
+l: 132 Megatron-G
+l: 133 Megatron-B
+l: 134 Right Ramp-R
+l: 135 Right Ramp-G
+l: 136 Right Ramp-B
+l: 137 Right Ramp Tech Spec-R
+l: 138 Right Ramp Tech Spec-G
+l: 139 Right Ramp Tech Spec-B
+l: 140 One Shall Fall
+l: 141 Right Ramp Target Right-R
+l: 142 Right Ramp Target Right-G
+l: 143 Right Ramp Target Right-B
+l: 144 Right Orbit-R
+l: 145 Right Orbit-G
+l: 146 Right Orbit-B
+l: 147 Right Orbit Tech Spec-R
+l: 148 Right Orbit Tech Spec-G
+l: 149 Right Orbit Tech Spec-B
+l: 150 Starscream Frenzy
+l: 152 Node Ret. Light Ext. Pin Color Billboard Transformers Multiball
+l: 153 Billboard Lock 2
+l: 154 Billboard Lock 1
+l: 157 Coin Door GI
+l: 158 Bottom GI-WHT (x18)
+l: 162 Top GI-WHT (x15)
+l: 164 Backpanel GI (x5)
+l: 167 Left Sling Flash
+l: 168 Right Sling Flash
+l: 169 Upper Left Sling Flash
+l: 170 Grimlock Flash
+l: 171 Pop Flash
+l: 173 Soundwave Flash
+l: 176 Spinner Flash
+l: 178 Optimus Flash-Left
+l: 179 Optimus Flash-Right
+l: 181 Optimus Spot
+l: 182 Captive Ball Flash
+l: 184 Megatron Rt Spot
+c: 1 Trough
+c: 2 Auto Plunger
+c: 3 Left Flipper
+c: 4 Right Flipper
+c: 5 Left Slingshot
+c: 6 Right Slingshot
+c: 7 Shaker Motor
+c: 9 Upper Right Flipper
+c: 10 Right Pop Bumper
+c: 11 VUK
+c: 12 Upper Left Sling
+c: 14 Top Diverter
+c: 15 Combiner Up Post
+c: 17 3 Bank Drop
+c: 33 Coin Meter
+c: 34 Ticket Meter
+c: 35 Ticket Dispenser
