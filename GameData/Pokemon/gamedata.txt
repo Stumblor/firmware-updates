@@ -1,0 +1,251 @@
+s: 1 Left Outlane
+s: 2 Left Return Lane
+s: 5 Right Return Lane
+s: 6 Right Outlane
+s: 7 Left Slingshot
+s: 8 Right Slingshot
+s: 9 Left Flipper Button
+s: 10 Right Flipper Button
+s: 11 Left Flipper EOS
+s: 12 Right Flipper EOS
+s: 15 Trough 6
+s: 16 Trough 5
+s: 17 Trough 4
+s: 18 Trough 3
+s: 19 Trough 2
+s: 20 Trough 1
+s: 21 Trough Jam
+s: 22 Shooter Lane
+s: 25 Bowl Opto
+s: 27 Berry Target Left
+s: 28 Berry Target Center
+s: 29 Left Ramp Enter Opto
+s: 30 Left Ramp Made 2 Gate
+s: 31 Subway Enter
+s: 33 Lower Left Target-Top
+s: 34 Lower Left Target-Mid
+s: 35 Lower Left Target-Bot
+s: 36 Lower Right Target-Top
+s: 37 Lower Right Target-Bot
+s: 40 Left Eject Opto
+s: 41 Right Eject
+s: 44 Left Orbit
+s: 45 Left Ramp Made 1 Opto
+s: 46 Rear Ramp Made
+s: 49 Arena Left 10 Pt Sw
+s: 50 Arena Right 10 Pt Switch
+s: 51 (B)ATTLE Target
+s: 52 B(A)TTLE Target
+s: 53 BA(T)TLE Target
+s: 54 BAT(T)LE Target
+s: 55 BATT(L)E Target
+s: 56 BATTL(E) Target
+s: 57 Team Rocket Target Left
+s: 58 Team Rocket Target Right
+s: 59 Meowth Hit Opto
+s: 60 Meowth Up
+s: 61 Meowth Down
+s: 63 Top Pop Bumper
+s: 64 Bot Pop Bumper
+s: 66 Top Lane Left
+s: 67 Top Lane Right
+s: 70 Berry Target Right
+s: 71 Captive Ball-Lower
+s: 72 Captive Ball-Upper
+s: 73 Captive Ball-Target
+s: 74 Right Ramp Hold
+s: 76 Right Ramp Made Opto
+s: 78 Spinner Opto
+s: 79 Team Rocket Enter
+s: 80 Right Orbit
+s: 90 Action Button
+s: 93 Start Button
+s: 94 Tournament Start Button
+s: 96 Left Coin
+s: 97 Right Coin
+s: 98 Center Coin
+s: 99 Fourth Coin
+s: 100 Fifth Coin
+s: 101 Tilt Pendulum
+s: 102 Sixth Coin
+s: 103 Ticket Notch
+s: 104 Slam Tilt
+s: 105 Ticket Low
+l: 1 Coin Enable
+l: 2 Start Button
+l: 3 Tournament Start
+l: 4 Action Button-R
+l: 5 Action Button-G
+l: 6 Action Button-B
+l: 11 Left Ball Save
+l: 12 Right Ball Save
+l: 13 (T)EAM
+l: 14 T(E)AM
+l: 15 TE(A)M
+l: 16 TEA(M)
+l: 17 Electric Hurry Up
+l: 18 Shoot Again
+l: 34 Pikachu Cheek L
+l: 35 Pikachu Cheek R
+l: 36 Forest Rival
+l: 37 Forest
+l: 38 Lake Rival
+l: 39 Lake
+l: 40 Mountain Rival
+l: 41 Mountain
+l: 42 Desert Rival
+l: 43 Desert
+l: 45 Discover
+l: 46 Catch
+l: 47 Train
+l: 48 Battle
+l: 49 Pikachu Vs Charizard
+l: 50 Pikachu Vs Lucario
+l: 51 Pokémon Arena
+l: 52 Pokémon Master
+l: 53 Training 1-R
+l: 54 Training 1-G
+l: 55 Training 1-B
+l: 56 Training 2-R
+l: 57 Training 2-G
+l: 58 Training 2-B
+l: 59 Training 3-R
+l: 60 Training 3-G
+l: 61 Training 3-B
+l: 63 Town Target Top
+l: 64 Town Target Bottom
+l: 65 Town-R
+l: 66 Town-G
+l: 67 Town-B
+l: 68 Town Billboard 1
+l: 69 Town Billboard 2
+l: 70 Town Billboard 3
+l: 71 Town Billboard 4
+l: 73 Left Orbit-R
+l: 74 Left Orbit-G
+l: 75 Left Orbit-B
+l: 76 Bulbasaur
+l: 77 Left Orbit Combo-R
+l: 78 Left Orbit Combo-G
+l: 79 Left Orbit Combo-B
+l: 80 Left Orbit Shot X
+l: 82 Berry Target Left-R
+l: 83 Berry Target Left-G
+l: 84 Berry Target Left-B
+l: 85 Left Ramp-R
+l: 86 Left Ramp-G
+l: 87 Left Ramp-B
+l: 88 Squirtle
+l: 89 Left Ramp Combo-R
+l: 90 Left Ramp Combo-G
+l: 91 Left Ramp Combo-B
+l: 92 Left Ramp Shot X
+l: 94 Poké Ball-R
+l: 95 Poké Ball-G
+l: 96 Poké Ball-B
+l: 97 Berry Target Center-R
+l: 98 Berry Target Center-G
+l: 99 Berry Target Center-B
+l: 100 Team Rocket 1
+l: 101 Team Rocket 2
+l: 102 Team Rocket 3
+l: 103 Team Rocket 4
+l: 105 Berry Target Right-R
+l: 106 Berry Target Right-G
+l: 107 Berry Target Right-B
+l: 108 Captive Ball 1-R
+l: 109 Captive Ball 1-G
+l: 110 Captive Ball 1-B
+l: 111 Captive Ball 2-R
+l: 112 Captive Ball 2-G
+l: 113 Captive Ball 2-B
+l: 115 Right Ramp-R
+l: 116 Right Ramp-G
+l: 117 Right Ramp-B
+l: 118 Pikachu
+l: 119 Right Ramp Combo-R
+l: 120 Right Ramp Combo-G
+l: 121 Right Ramp Combo-B
+l: 122 Right Ramp Shot X
+l: 124 Right Orbit-R
+l: 125 Right Orbit-G
+l: 126 Right Orbit-B
+l: 127 Charmander
+l: 128 Right Orbit Combo-R
+l: 129 Right Orbit Combo-G
+l: 130 Right Orbit Combo-B
+l: 131 Right Orbit Shot X
+l: 133 Arena Pop-R
+l: 134 Arena Pop-G
+l: 135 Arena Pop-B
+l: 136 Arena Left 10 Point-R
+l: 137 Arena Left 10 Point-G
+l: 138 Arena Left 10 Point-B
+l: 139 Team Rocket-R
+l: 140 Team Rocket-G
+l: 141 Team Rocket-B
+l: 142 Arena Right 10 Point-R
+l: 143 Arena Right 10 Point-G
+l: 144 Arena Right 10 Point-B
+l: 146 (B)ATTLE-R
+l: 147 (B)ATTLE-G
+l: 148 (B)ATTLE-B
+l: 149 B(A)TTLE-R
+l: 150 B(A)TTLE-G
+l: 151 B(A)TTLE-B
+l: 152 BA(T)TLE-R
+l: 153 BA(T)TLE-G
+l: 154 BA(T)TLE-B
+l: 155 BAT(T)LE-R
+l: 156 BAT(T)LE-G
+l: 157 BAT(T)LE-B
+l: 158 BATT(L)E-R
+l: 159 BATT(L)E-G
+l: 160 BATT(L)E-B
+l: 161 BATTL(E)-R
+l: 162 BATTL(E)-G
+l: 163 BATTL(E)-B
+l: 164 Team Rocket Jackpot-R
+l: 165 Team Rocket Jackpot-G
+l: 166 Team Rocket Jackpot-B
+l: 168 Pop-R
+l: 169 Pop-G
+l: 170 Pop-B
+l: 171 Top Lane Left
+l: 172 Top Lane Right
+l: 177 Coin Door GI
+l: 178 Bottom GI
+l: 179 Bottom Arch GI
+l: 182 Top Left GI
+l: 183 Top Right GI
+l: 184 Backpanel GI
+l: 189 Left Eject Flash
+l: 190 Lower Left Spot
+l: 191 Lower Right Spot
+l: 192 Poké Ball Spot
+l: 193 Spinner Flash
+l: 194 Right Eject Flash
+l: 195 Meowth Balloon Spot
+l: 197 Top Pop Flash
+l: 198 Bottom Pop Flash
+l: 199 Pikachu Spot
+c: 1 Trough
+c: 2 Auto Plunger
+c: 3 Left Flipper
+c: 4 Right Flipper
+c: 5 Left Slingshot
+c: 6 Right Slingshot
+c: 7 Shaker Motor
+c: 8 Trap Door
+c: 9 Bowl Diverter
+c: 10 Left Eject
+c: 11 Top Pop Bumper
+c: 12 Bottom Pop Bumper
+c: 13 Top Gate
+c: 14 Arena Magnet
+c: 15 Pikachu Up Post
+c: 16 Meowth Balloon Motor
+c: 18 Right Eject
+c: 33 Coin Meter
+c: 34 Ticket Meter
+c: 35 Ticket Dispenser
