@@ -1,3 +1,6 @@
+http://altsound.vpin24.com/
+
+
 ls | grep '^0x' | sed -E 's/^(0x)([0-9a-fA-F]+)[-_]*/$: \1\2 \2 /' | sed -e 's/\.ogg$//' -e 's/[-_]/ /g' > gamedata.txt
 
 

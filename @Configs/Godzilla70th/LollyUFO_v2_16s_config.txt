@@ -1,0 +1,306 @@
+c: Tabs UFO R-Sling L-Sling Backbox
+c: Version Lolly UFO
+c: FirmwareName LollyUFO_v2_16s
+c: FirmwareVersion v2.2.54
+c: WifiName stumblor-LollyUFO_v2_16s-r3tL
+c: Board ESP8266
+c: Gifs 
+c: GifsFiles 
+c: NumPatterns 5
+c: SerialSpeed 230400
+c: Brightness1 255
+c: WifiTimeout 0
+c: NumOuts 4
+c: NumRings 4
+c: NumSensors 8
+c: NumLEDs 20
+c: GISensor 255
+c: BrightnessMax 255
+c: SwitchGap 100
+c: NumTriggers 4
+c: GIDimOffDelay 800
+c: GIDimOnDelay 500
+c: HideAdvConfig 255
+c: GISensorInverted 4294967295
+c: ColourSensor 0
+c: ColourSensorMap 0
+l: 0 RingRestColour 255000001
+l: 0 RingRestColourSet 0000000000
+l: 0 AtRestAction 0
+l: 0 DeviceType 0
+l: 0 SingleLED 0
+l: 0 RestColourSaturation 255
+l: 0 RestColourRandom 255
+l: 0 RestBrightness 255
+l: 0 OutTargets 1
+l: 0 RestColourReverse 255
+l: 0 FadesWithGI 1
+l: 0 ColourOrder 0
+l: 0 GifWidth 10
+l: 0 GifHeight 10
+l: 0 MaxValue 255
+l: 0 MinValue 0
+l: 0 AtRestText 
+l: 0 IsScreen 0
+l: 0 DebounceTriggers 255
+l: 0 AtRestActionValue 39
+l: 1 RingRestColour 255071015
+l: 1 RingRestColourSet 0000000000
+l: 1 AtRestAction 0
+l: 1 DeviceType 0
+l: 1 SingleLED 0
+l: 1 RestColourSaturation 255
+l: 1 RestColourRandom 255
+l: 1 RestBrightness 255
+l: 1 OutTargets 2
+l: 1 RestColourReverse 255
+l: 1 FadesWithGI 1
+l: 1 ColourOrder 0
+l: 1 GifWidth 10
+l: 1 GifHeight 10
+l: 1 MaxValue 255
+l: 1 MinValue 0
+l: 1 AtRestText 
+l: 1 IsScreen 0
+l: 1 DebounceTriggers 255
+l: 1 AtRestActionValue 39
+l: 2 RingRestColour 255071015
+l: 2 RingRestColourSet 0000000000
+l: 2 AtRestAction 0
+l: 2 DeviceType 0
+l: 2 SingleLED 0
+l: 2 RestColourSaturation 255
+l: 2 RestColourRandom 255
+l: 2 RestBrightness 255
+l: 2 OutTargets 4
+l: 2 RestColourReverse 255
+l: 2 FadesWithGI 1
+l: 2 ColourOrder 0
+l: 2 GifWidth 10
+l: 2 GifHeight 10
+l: 2 MaxValue 255
+l: 2 MinValue 0
+l: 2 AtRestText 
+l: 2 IsScreen 8
+l: 2 DebounceTriggers 255
+l: 2 AtRestActionValue 148
+l: 3 RingRestColour 254255252
+l: 3 RingRestColourSet 0000000000
+l: 3 AtRestAction 93
+l: 3 DeviceType 0
+l: 3 SingleLED 0
+l: 3 RestColourSaturation 255
+l: 3 RestColourRandom 255
+l: 3 RestBrightness 255
+l: 3 OutTargets 8
+l: 3 RestColourReverse 255
+l: 3 FadesWithGI 1
+l: 3 ColourOrder 0
+l: 3 GifWidth 10
+l: 3 GifHeight 10
+l: 3 MaxValue 255
+l: 3 MinValue 0
+l: 3 AtRestText 
+l: 3 IsScreen 255
+l: 3 DebounceTriggers 255
+l: 3 AtRestActionValue 255
+t: 0 RingColour 255000238
+t: 0 RingColourSet 0000010000
+t: 0 RingColourRandom 0
+t: 0 TriggerAction 91
+t: 0 TriggerTime 0
+t: 0 RingTarget 0
+t: 0 SensorTarget 0
+t: 0 ColourSaturation 255
+t: 0 RingColourReverse 255
+t: 0 Command 0
+t: 0 CommandData1 0
+t: 0 CommandData2 0
+t: 0 TriggerBrightness 255
+t: 0 FadeInto 0
+t: 0 TriggerActionValue 255
+t: 0 TriggerText 
+t: 1 RingColour 255000238
+t: 1 RingColourSet 0000010000
+t: 1 RingColourRandom 0
+t: 1 TriggerAction 91
+t: 1 TriggerTime 0
+t: 1 RingTarget 1
+t: 1 SensorTarget 1
+t: 1 ColourSaturation 255
+t: 1 RingColourReverse 255
+t: 1 Command 0
+t: 1 CommandData1 0
+t: 1 CommandData2 0
+t: 1 TriggerBrightness 255
+t: 1 FadeInto 0
+t: 1 TriggerActionValue 255
+t: 1 TriggerText 
+t: 2 RingColour 255000238
+t: 2 RingColourSet 0000010000
+t: 2 RingColourRandom 0
+t: 2 TriggerAction 91
+t: 2 TriggerTime 0
+t: 2 RingTarget 2
+t: 2 SensorTarget 2
+t: 2 ColourSaturation 255
+t: 2 RingColourReverse 255
+t: 2 Command 0
+t: 2 CommandData1 0
+t: 2 CommandData2 0
+t: 2 TriggerBrightness 255
+t: 2 FadeInto 0
+t: 2 TriggerActionValue 255
+t: 2 TriggerText 
+t: 3 RingColour 000153255
+t: 3 RingColourSet 0000001000
+t: 3 RingColourRandom 0
+t: 3 TriggerAction 5
+t: 3 TriggerTime 1
+t: 3 RingTarget 3
+t: 3 SensorTarget 3
+t: 3 ColourSaturation 255
+t: 3 RingColourReverse 255
+t: 3 Command 0
+t: 3 CommandData1 0
+t: 3 CommandData2 0
+t: 3 TriggerBrightness 255
+t: 3 FadeInto 0
+t: 3 TriggerActionValue 255
+t: 3 TriggerText 
+s: 0 Targets 1
+s: 0 InvertedState 1
+s: 0 Retriggers 1
+s: 0 FlashDetect 255
+s: 0 SensorName 
+s: 1 Targets 2
+s: 1 InvertedState 1
+s: 1 Retriggers 1
+s: 1 FlashDetect 255
+s: 1 SensorName 
+s: 2 Targets 4
+s: 2 InvertedState 1
+s: 2 Retriggers 1
+s: 2 FlashDetect 255
+s: 2 SensorName 
+s: 3 Targets 8
+s: 3 InvertedState 1
+s: 3 Retriggers 0
+s: 3 FlashDetect 255
+s: 3 SensorName 
+s: 4 Targets 16
+s: 4 InvertedState 1
+s: 4 Retriggers 0
+s: 4 FlashDetect 255
+s: 4 SensorName 
+s: 5 Targets 32
+s: 5 InvertedState 1
+s: 5 Retriggers 0
+s: 5 FlashDetect 255
+s: 5 SensorName 
+s: 6 Targets 64
+s: 6 InvertedState 1
+s: 6 Retriggers 0
+s: 6 FlashDetect 255
+s: 6 SensorName 
+s: 7 Targets 128
+s: 7 InvertedState 1
+s: 7 Retriggers 0
+s: 7 FlashDetect 255
+s: 7 SensorName 
+p: 0 Name 
+p: 0 CycleTime 200
+p: 0 SpinSpeed 85
+p: 0 Brightness 2
+p: 0 Spin 5
+p: 0 Offset1 255
+p: 0 Brightness2 255
+p: 0 Spin2 255
+p: 0 Offset2 255
+p: 0 RGB 1
+p: 0 RGBSpin 255
+p: 0 OffsetRGB 255
+p: 0 Mirror 255
+p: 0 Reverse 180
+p: 0 IncludeInRandom 0
+p: 0 Intensity 255
+p: 1 Name 
+p: 1 CycleTime 180
+p: 1 SpinSpeed 40
+p: 1 Brightness 10
+p: 1 Spin 8
+p: 1 Offset1 255
+p: 1 Brightness2 255
+p: 1 Spin2 255
+p: 1 Offset2 255
+p: 1 RGB 10
+p: 1 RGBSpin 8
+p: 1 OffsetRGB 255
+p: 1 Mirror 255
+p: 1 Reverse 100
+p: 1 IncludeInRandom 1
+p: 1 Intensity 255
+p: 2 Name 
+p: 2 CycleTime 100
+p: 2 SpinSpeed 10
+p: 2 Brightness 3
+p: 2 Spin 2
+p: 2 Offset1 255
+p: 2 Brightness2 3
+p: 2 Spin2 1
+p: 2 Offset2 255
+p: 2 RGB 6
+p: 2 RGBSpin 1
+p: 2 OffsetRGB 255
+p: 2 Mirror 255
+p: 2 Reverse 100
+p: 2 IncludeInRandom 1
+p: 2 Intensity 255
+p: 3 Name 
+p: 3 CycleTime 100
+p: 3 SpinSpeed 150
+p: 3 Brightness 9
+p: 3 Spin 1
+p: 3 Offset1 255
+p: 3 Brightness2 255
+p: 3 Spin2 255
+p: 3 Offset2 255
+p: 3 RGB 9
+p: 3 RGBSpin 2
+p: 3 OffsetRGB 255
+p: 3 Mirror 255
+p: 3 Reverse 100
+p: 3 IncludeInRandom 1
+p: 3 Intensity 255
+p: 4 Name 
+p: 4 CycleTime 100
+p: 4 SpinSpeed 150
+p: 4 Brightness 8
+p: 4 Spin 2
+p: 4 Offset1 255
+p: 4 Brightness2 255
+p: 4 Spin2 255
+p: 4 Offset2 255
+p: 4 RGB 8
+p: 4 RGBSpin 2
+p: 4 OffsetRGB 255
+p: 4 Mirror 255
+p: 4 Reverse 79
+p: 4 IncludeInRandom 1
+p: 4 Intensity 255
+p: 5 Name 
+p: 5 CycleTime 79
+p: 5 SpinSpeed 255
+p: 5 Brightness 15
+p: 5 Spin 255
+p: 5 Offset1 255
+p: 5 Brightness2 255
+p: 5 Spin2 255
+p: 5 Offset2 255
+p: 5 RGB 255
+p: 5 RGBSpin 255
+p: 5 OffsetRGB 255
+p: 5 Mirror 255
+p: 5 Reverse 0
+p: 5 IncludeInRandom 0
+p: 5 Intensity 242

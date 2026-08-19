@@ -1,0 +1,179 @@
+c: NumPatterns 8
+c: Brightness1 140
+c: Brightness2 140
+c: Brightness3 140
+c: Brightness4 160
+c: Brightness5 120
+c: WifiTimeout 0
+c: NumSensors 7
+c: NumRings 7
+c: FlashGapMs 50
+c: OffDelayMs 1200
+c: FlashCount 10
+c: GIDimmingDelayMs 800
+c: GIDimmingOn No
+c: GIDimmingForce 0
+c: GIDimmingMiniumum 0
+c: GIDimmingSensor 0
+l: 0 RingRestColour 251072196
+l: 0 RingRestColourSet 0000000000
+l: 0 AtRestAction 6
+l: 0 RestColourSaturation 255
+l: 1 RingRestColour 251072196
+l: 1 RingRestColourSet 0000000000
+l: 1 AtRestAction 6
+l: 1 RestColourSaturation 255
+l: 2 RingRestColour 251072196
+l: 2 RingRestColourSet 0000000000
+l: 2 AtRestAction 6
+l: 2 RestColourSaturation 255
+l: 3 RingRestColour 255000017
+l: 3 RingRestColourSet 0000000000
+l: 3 AtRestAction 0
+l: 3 RestColourSaturation 255
+l: 4 RingRestColour 255207148
+l: 4 RingRestColourSet 0000000001
+l: 4 AtRestAction 7
+l: 4 RestColourSaturation 255
+l: 5 RingRestColour 255207148
+l: 5 RingRestColourSet 0000000001
+l: 5 AtRestAction 7
+l: 5 RestColourSaturation 255
+l: 6 RingRestColour 255207148
+l: 6 RingRestColourSet 0000000001
+l: 6 AtRestAction 7
+l: 6 RestColourSaturation 255
+s: 0 RingColour 255255013
+s: 0 RingColourSet 0100000000
+s: 0 RingColourRandom 0
+s: 0 TriggerAction 1
+s: 0 ColourSaturation 255
+s: 1 RingColour 077255074
+s: 1 RingColourSet 0000100000
+s: 1 RingColourRandom 0
+s: 1 TriggerAction 1
+s: 1 ColourSaturation 255
+s: 2 RingColour 250255251
+s: 2 RingColourSet 0000011000
+s: 2 RingColourRandom 0
+s: 2 TriggerAction 1
+s: 2 ColourSaturation 255
+s: 3 RingColour 255000000
+s: 3 RingColourSet 0010000000
+s: 3 RingColourRandom 0
+s: 3 TriggerAction 5
+s: 3 ColourSaturation 255
+s: 4 RingColour 255221153
+s: 4 RingColourSet 0000000001
+s: 4 RingColourRandom 255
+s: 4 TriggerAction 7
+s: 4 ColourSaturation 255
+s: 5 RingColour 255204145
+s: 5 RingColourSet 0000000001
+s: 5 RingColourRandom 255
+s: 5 TriggerAction 7
+s: 5 ColourSaturation 255
+s: 6 RingColour 255205143
+s: 6 RingColourSet 0000000001
+s: 6 RingColourRandom 255
+s: 6 TriggerAction 7
+s: 6 ColourSaturation 255
+p: 0 Name At Rest
+p: 0 CycleTime 1
+p: 0 SpinSpeed 1
+p: 0 Brightness 16
+p: 0 Spin 0
+p: 0 Brightness2 255
+p: 0 Spin2 255
+p: 0 RGB 1
+p: 0 RGBSpin 255
+p: 0 IncludeInRandom 0
+p: 0 Intensity 255
+p: 1 Name Bounce
+p: 1 CycleTime 255
+p: 1 SpinSpeed 10
+p: 1 Brightness 1
+p: 1 Spin 8
+p: 1 Brightness2 255
+p: 1 Spin2 255
+p: 1 RGB 5
+p: 1 RGBSpin 8
+p: 1 IncludeInRandom 1
+p: 1 Intensity 255
+p: 2 Name Linear Tilted
+p: 2 CycleTime 60
+p: 2 SpinSpeed 14
+p: 2 Brightness 8
+p: 2 Spin 1
+p: 2 Brightness2 255
+p: 2 Spin2 255
+p: 2 RGB 9
+p: 2 RGBSpin 1
+p: 2 IncludeInRandom 1
+p: 2 Intensity 255
+p: 3 Name Chase
+p: 3 CycleTime 40
+p: 3 SpinSpeed 80
+p: 3 Brightness 2
+p: 3 Spin 1
+p: 3 Brightness2 255
+p: 3 Spin2 255
+p: 3 RGB 9
+p: 3 RGBSpin 2
+p: 3 IncludeInRandom 1
+p: 3 Intensity 255
+p: 4 Name Slow Sine
+p: 4 CycleTime 180
+p: 4 SpinSpeed 10
+p: 4 Brightness 13
+p: 4 Spin 7
+p: 4 Brightness2 255
+p: 4 Spin2 255
+p: 4 RGB 8
+p: 4 RGBSpin 2
+p: 4 IncludeInRandom 1
+p: 4 Intensity 255
+p: 5 Name Fire
+p: 5 CycleTime 30
+p: 5 SpinSpeed 240
+p: 5 Brightness 15
+p: 5 Spin 255
+p: 5 Brightness2 255
+p: 5 Spin2 255
+p: 5 RGB 255
+p: 5 RGBSpin 255
+p: 5 IncludeInRandom 0
+p: 5 Intensity 230
+p: 6 Name Glitch
+p: 6 CycleTime 100
+p: 6 SpinSpeed 70
+p: 6 Brightness 20
+p: 6 Spin 255
+p: 6 Brightness2 255
+p: 6 Spin2 255
+p: 6 RGB 255
+p: 6 RGBSpin 255
+p: 6 IncludeInRandom 0
+p: 6 Intensity 255
+p: 7 Name Sign Glitter
+p: 7 CycleTime 255
+p: 7 SpinSpeed 40
+p: 7 Brightness 7
+p: 7 Spin 1
+p: 7 Brightness2 7
+p: 7 Spin2 2
+p: 7 RGB 11
+p: 7 RGBSpin 3
+p: 7 IncludeInRandom 0
+p: 7 Intensity 100
+p: 8 Name 
+p: 8 CycleTime 255
+p: 8 SpinSpeed 20
+p: 8 Brightness 14
+p: 8 Spin 2
+p: 8 Brightness2 0
+p: 8 Spin2 0
+p: 8 RGB 14
+p: 8 RGBSpin 2
+p: 8 IncludeInRandom 0
+p: 8 Intensity 255

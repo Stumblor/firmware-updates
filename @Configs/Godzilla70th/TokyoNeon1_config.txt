@@ -1,9 +1,17 @@
+c: Tabs Battle Power Ally Neon Sign-Battle Sign-Power Sign-Ally
+c: FirmwareName TokyoNeon1
+c: FirmwareVersion v2.2.15
+c: WifiName stumblor-TokyoNeon1-DKhg
+c: Version Tokyo Neon
+c: Board ESP8266
+c: Gifs 
+c: GifsFiles 
 c: NumPatterns 8
 c: SerialSpeed 230400
-c: Brightness1 100
-c: Brightness2 100
-c: Brightness3 100
-c: Brightness4 100
+c: Brightness1 255
+c: Brightness2 255
+c: Brightness3 255
+c: Brightness4 255
 c: WifiTimeout 0
 c: NumOuts 5
 c: NumRings 7
@@ -16,7 +24,7 @@ c: NumTriggers 9
 c: GIDimOffDelay 800
 c: GIDimOnDelay 500
 c: HideAdvConfig 255
-l: 0 RingRestColour 251078193
+l: 0 RingRestColour 249083000
 l: 0 RingRestColourSet 0000000000
 l: 0 AtRestAction 6
 l: 0 DeviceType 0
@@ -30,12 +38,12 @@ l: 0 FadesWithGI 1
 l: 0 ColourOrder 0
 l: 0 GifWidth 255
 l: 0 GifHeight 255
-l: 0 MinValue 255
 l: 0 MaxValue 255
+l: 0 MinValue 255
 l: 0 AtRestText 
 l: 0 IsScreen 0
 l: 0 DebounceTriggers 255
-l: 1 RingRestColour 251078193
+l: 1 RingRestColour 249066000
 l: 1 RingRestColourSet 0000000000
 l: 1 AtRestAction 6
 l: 1 DeviceType 0
@@ -49,12 +57,12 @@ l: 1 FadesWithGI 1
 l: 1 ColourOrder 0
 l: 1 GifWidth 255
 l: 1 GifHeight 255
-l: 1 MinValue 255
 l: 1 MaxValue 255
+l: 1 MinValue 255
 l: 1 AtRestText 
 l: 1 IsScreen 0
 l: 1 DebounceTriggers 255
-l: 2 RingRestColour 251078193
+l: 2 RingRestColour 249066000
 l: 2 RingRestColourSet 0000000000
 l: 2 AtRestAction 6
 l: 2 DeviceType 0
@@ -68,13 +76,13 @@ l: 2 FadesWithGI 1
 l: 2 ColourOrder 0
 l: 2 GifWidth 255
 l: 2 GifHeight 255
-l: 2 MinValue 255
 l: 2 MaxValue 255
+l: 2 MinValue 255
 l: 2 AtRestText 
 l: 2 IsScreen 0
 l: 2 DebounceTriggers 255
-l: 3 RingRestColour 255000025
-l: 3 RingRestColourSet 0000000000
+l: 3 RingRestColour 255000003
+l: 3 RingRestColourSet 1100000000
 l: 3 AtRestAction 0
 l: 3 DeviceType 0
 l: 3 SingleLED 255
@@ -87,8 +95,8 @@ l: 3 FadesWithGI 1
 l: 3 ColourOrder 0
 l: 3 GifWidth 255
 l: 3 GifHeight 255
-l: 3 MinValue 255
 l: 3 MaxValue 255
+l: 3 MinValue 255
 l: 3 AtRestText 
 l: 3 IsScreen 0
 l: 3 DebounceTriggers 1
@@ -106,8 +114,8 @@ l: 4 FadesWithGI 1
 l: 4 ColourOrder 0
 l: 4 GifWidth 255
 l: 4 GifHeight 255
-l: 4 MinValue 255
 l: 4 MaxValue 255
+l: 4 MinValue 255
 l: 4 AtRestText 
 l: 4 IsScreen 0
 l: 4 DebounceTriggers 255
@@ -125,8 +133,8 @@ l: 5 FadesWithGI 1
 l: 5 ColourOrder 0
 l: 5 GifWidth 255
 l: 5 GifHeight 255
-l: 5 MinValue 255
 l: 5 MaxValue 255
+l: 5 MinValue 255
 l: 5 AtRestText 
 l: 5 IsScreen 0
 l: 5 DebounceTriggers 255
@@ -144,13 +152,13 @@ l: 6 FadesWithGI 1
 l: 6 ColourOrder 0
 l: 6 GifWidth 255
 l: 6 GifHeight 255
-l: 6 MinValue 255
 l: 6 MaxValue 255
+l: 6 MinValue 255
 l: 6 AtRestText 
 l: 6 IsScreen 0
 l: 6 DebounceTriggers 255
-t: 0 RingColour 255255013
-t: 0 RingColourSet 0000000000
+t: 0 RingColour 255000000
+t: 0 RingColourSet 1000001000
 t: 0 RingColourRandom 0
 t: 0 TriggerAction 1
 t: 0 TriggerTime 5
@@ -164,8 +172,8 @@ t: 0 CommandData2 255
 t: 0 TriggerBrightness 255
 t: 0 FadeInto 255
 t: 0 TriggerText 
-t: 1 RingColour 000255004
-t: 1 RingColourSet 0010100000
+t: 1 RingColour 255000000
+t: 1 RingColourSet 1000001000
 t: 1 RingColourRandom 0
 t: 1 TriggerAction 1
 t: 1 TriggerTime 5
@@ -179,8 +187,8 @@ t: 1 CommandData2 255
 t: 1 TriggerBrightness 255
 t: 1 FadeInto 255
 t: 1 TriggerText 
-t: 2 RingColour 250255251
-t: 2 RingColourSet 0000001100
+t: 2 RingColour 255000000
+t: 2 RingColourSet 1000001000
 t: 2 RingColourRandom 0
 t: 2 TriggerAction 1
 t: 2 TriggerTime 5

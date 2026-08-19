@@ -1,3 +1,4 @@
+c: #06402B
 $: 0x0002 0002 Attract Music
 $: 0x0003 0003 Flash Laser
 $: 0x0004 0004 End Of Play
