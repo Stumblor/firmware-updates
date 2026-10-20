@@ -1,0 +1,288 @@
+s: 1 DR Bottom Return
+s: 2 Left Return Lane
+s: 3 DR Top Return
+s: 4 DR Flipper Target
+s: 5 Right Return Lane
+s: 6 Right Outlane
+s: 8 Right Slingshot
+s: 9 Left Flipper Button
+s: 10 Right Flipper Button
+s: 11 Left Flipper EOS
+s: 12 Right Flipper EOS
+s: 13 DR Left Flipper Button
+s: 15 Trough 6
+s: 16 Trough 5
+s: 17 Trough 4
+s: 18 Trough 3
+s: 19 Trough 2
+s: 20 Trough 1
+s: 21 Trough Jam
+s: 22 Shooter Lane
+s: 23 DR Flipper EOS
+s: 24 Right Outlane Drain
+s: 30 DR Target
+s: 31 DR 10pt Sw
+s: 32 DR Ramp Target
+s: 33 Drain Target
+s: 34 DR Ramp Exit
+s: 35 Spinner Opto
+s: 38 Kitty Sneak-In
+s: 39 Kitty Sneak-In Target
+s: 40 XJET Target
+s: 41 XJET Lane Opto
+s: 43 Left Loop Ramp Exit
+s: 44 X Mansion Ramp Exit Opto
+s: 45 X Mansion Target
+s: 47 Right Pop Bumper
+s: 48 Left Pop Bumper
+s: 50 Left Ramp Target
+s: 51 Left Loop Opto
+s: 52 Right Center Ramp Exit Opto
+s: 53 Left Ramp Exit Opto
+s: 55 Right Ramp Target
+s: 56 Upper Shooter Lane
+s: 59 Right Ramp Exit Opto
+s: 60 Right Center Ramp Enter
+s: 61 Left Center Ramp Exit
+s: 63 Left Cent Ramp Entrance
+s: 67 Sentinel Head
+s: 69 Sentinel Jaw Open Opto
+s: 70 Sentinel Kick Target
+s: 71 Sentinel Head Up
+s: 72 Sentinel Head Down
+s: 75 Beasts Lab Bot
+s: 76 Beasts Lab Mid
+s: 77 Beasts Lab Top
+s: 78 Beasts Lab Target
+s: 90 Lockdown Button
+s: 93 Start Button
+s: 94 Tournament Start Button
+s: 96 Left Coin
+s: 97 Right Coin
+s: 98 Center Coin
+s: 99 Fourth Coin
+s: 100 Fifth Coin
+s: 101 Tilt Pendulum
+s: 102 Sixth Coin
+s: 103 Ticket Notch
+s: 104 Slam Tilt
+l: 1 Coin Enable
+l: 2 Start Button
+l: 3 Tournament Start
+l: 4 Lockdown Button-R
+l: 5 Lockdown Button-G
+l: 6 Lockdown Button-B
+l: 11 DR Target Top
+l: 12 DR Target Mid
+l: 13 DR Target Bot
+l: 14 DR Ramp Target
+l: 15 DR Flip Target
+l: 16 Drain Target
+l: 17 Left Return Top
+l: 18 Left Return Mid
+l: 19 Left Return Bot
+l: 20 Shoot Again
+l: 21 DR Ramp BB-Cerebro
+l: 24 XJET Arrow-R
+l: 25 XJET Arrow-G
+l: 26 XJET Arrow-B
+l: 27 XJET Sentinel-R
+l: 28 XJET Sentinel-G
+l: 29 XJET Sentinel-B
+l: 30 XJET Combo
+l: 32 Kitty Sneak-In Target
+l: 33 STC
+l: 34 XJET Target
+l: 38 Wizard Mode 1
+l: 39 Wizard Mode 2
+l: 40 Mode 1
+l: 41 Mode 2
+l: 42 Mode 3
+l: 43 Mode 4
+l: 44 Mode 5
+l: 45 Mode 6
+l: 46 Mode 7
+l: 47 Mode 8
+l: 48 Future-R
+l: 49 Future-G
+l: 50 Future-B
+l: 54 X-Mansion
+l: 56 Right Pop Top
+l: 57 Right Pop Mid
+l: 58 Right Pop Bot
+l: 59 Right Return
+l: 60 Right Outlane
+l: 61 Extra Ball
+l: 63 Left Loop Arrow-R
+l: 64 Left Loop Arrow-G
+l: 65 Left Loop Arrow-B
+l: 66 Left Loop Sentinel-R
+l: 67 Left Loop Sentinel-G
+l: 68 Left Loop Sentinel-B
+l: 69 Left Loop Combo
+l: 72 Left Ramp Target
+l: 73 Left Ramp Arrow-R
+l: 74 Left Ramp Arrow-G
+l: 75 Left Ramp Arrow-B
+l: 76 Left Ramp Sentinel-R
+l: 77 Left Ramp Sentinel-G
+l: 78 Left Ramp Sentinel-B
+l: 79 Left Ramp Combo
+l: 80 Left Ramp Cerebro
+l: 83 Beasts Lab-R
+l: 84 Beasts Lab-G
+l: 85 Beasts Lab-B
+l: 88 Lt Center Ramp Arrow-R
+l: 89 Lt Center Ramp Arrow-G
+l: 90 Lt Center Ramp Arrow-B
+l: 91 Lt Center Ramp Sentinel-R
+l: 92 Lt Center Ramp Sentinel-G
+l: 93 Lt Center Ramp Sentinel-B
+l: 94 Lt Center Combo
+l: 99 Sentinel Mid
+l: 104 Magnet 1
+l: 105 Magnet 2
+l: 106 Magnet 3
+l: 107 Magnet 4
+l: 108 Magnet 5
+l: 109 Magnet 6
+l: 113 Rt Center Ramp Arrow-R
+l: 114 Rt Center Ramp Arrow-G
+l: 115 Rt Center Ramp Arrow-B
+l: 116 Rt Center Ramp Sentinel-R
+l: 117 Rt Center Ramp Sentinel-G
+l: 118 Rt Center Ramp Sentinel-B
+l: 119 Rt Center Combo
+l: 121 Right Ramp Target
+l: 123 Right Ramp BB-Cerebro
+l: 124 Right Ramp Arrow-R
+l: 125 Right Ramp Arrow-G
+l: 126 Right Ramp Arrow-B
+l: 127 Right Ramp Sentinel-R
+l: 128 Right Ramp Sentinel-G
+l: 129 Right Ramp Sentinel-B
+l: 130 Right Ramp Combo
+l: 133 Beasts Lab Bot
+l: 134 Beasts Lab Mid
+l: 135 Beasts Lab Top
+l: 137 Backpanel Colosus
+l: 138 Backpanel Beasts Lab
+l: 139 Backpanel Explosion
+l: 140 Backpanel Cyclops
+l: 141 Left Ramp Backpanel
+l: 142 Right Ramp Backpanel
+l: 144 DR Flood-R (x2)
+l: 145 DR Flood-G (x2)
+l: 146 DR Flood-B (x2)
+l: 150 Coin Door GI
+l: 151 Bottom GI-WHT (x16)
+l: 152 Bottom GI-RED (x6)
+l: 153 Bottom GI-BLU (x8)
+l: 155 Top GI-WHT (x12)
+l: 156 Top GI-RED (x10)
+l: 157 Top GI-BLU (x12)
+l: 161 DR Spinner Flash
+l: 162 Danger Room Flash
+l: 164 Left Pop Flash
+l: 165 Right Pop Flash
+l: 167 Sentinel Finger Flash
+l: 168 Sentinel Hand Flash
+l: 170 Wolverine Flash
+l: 173 Beasts Lab Flash
+l: 175 Sentinel Eye Left
+l: 176 Sentinel Eye Right
+l: 178 Right Sling Flash
+l: 179 Right Sentinel Spot
+l: 180 Left Sentinel Spot
+l: 182 Sentinel Left Flash
+l: 183 Sentinel Right Flash
+l: 220 Speaker 1-R
+l: 221 Speaker 1-G
+l: 222 Speaker 1-B
+l: 223 Speaker 2-R
+l: 224 Speaker 2-G
+l: 225 Speaker 2-B
+l: 226 Speaker 3-R
+l: 227 Speaker 3-G
+l: 228 Speaker 3-B
+l: 229 Speaker 4-R
+l: 230 Speaker 4-G
+l: 231 Speaker 4-B
+l: 232 Speaker 5-R
+l: 233 Speaker 5-G
+l: 234 Speaker 5-B
+l: 235 Speaker 6-R
+l: 236 Speaker 6-G
+l: 237 Speaker 6-B
+l: 238 Speaker 7-R
+l: 239 Speaker 7-G
+l: 240 Speaker 7-B
+l: 241 Speaker 8-R
+l: 242 Speaker 8-G
+l: 243 Speaker 8-B
+l: 244 Speaker 9-R
+l: 245 Speaker 9-G
+l: 246 Speaker 9-B
+l: 247 Speaker 10-R
+l: 248 Speaker 10-G
+l: 249 Speaker 10-B
+l: 250 Speaker 11-R
+l: 251 Speaker 11-G
+l: 252 Speaker 11-B
+l: 253 Speaker 12-R
+l: 254 Speaker 12-G
+l: 255 Speaker 12-B
+l: 256 Speaker 13-R
+l: 257 Speaker 13-G
+l: 258 Speaker 13-B
+l: 259 Speaker 14-R
+l: 260 Speaker 14-G
+l: 261 Speaker 14-B
+l: 262 Speaker 15-R
+l: 263 Speaker 15-G
+l: 264 Speaker 15-B
+l: 265 Speaker 16-R
+l: 266 Speaker 16-G
+l: 267 Speaker 16-B
+l: 268 Speaker 17-R
+l: 269 Speaker 17-G
+l: 270 Speaker 17-B
+l: 271 Speaker 18-R
+l: 272 Speaker 18-G
+l: 273 Speaker 18-B
+l: 274 Speaker 19-R
+l: 275 Speaker 19-G
+l: 276 Speaker 19-B
+l: 277 Speaker 20-R
+l: 278 Speaker 20-G
+l: 279 Speaker 20-B
+l: 280 Speaker 21-R
+l: 281 Speaker 21-G
+l: 282 Speaker 21-B
+l: 283 Speaker 22-R
+l: 284 Speaker 22-G
+l: 285 Speaker 22-B
+l: 286 Speaker 23-R
+l: 287 Speaker 23-G
+l: 288 Speaker 23-B
+c: 1 Trough
+c: 2 Auto Plunger
+c: 3 Left Flipper
+c: 4 Right Flipper
+c: 5 Right Pop Bumper
+c: 6 Right Slingshot
+c: 7 Shaker Motor
+c: 8 DR Flipper
+c: 9 Right Return Up Post
+c: 10 Left Pop Bumper
+c: 11 Sentinel Jaw
+c: 12 Sentinel Mouth
+c: 13 Sentinel Motor
+c: 14 Magnet
+c: 15 Sentinel Finger
+c: 16 Cerebro
+c: 17 Diverter
+c: 21 Sentinel Hand
+c: 33 Coin Meter
+c: 34 Ticket Meter
+c: 35 Ticket Dispenser

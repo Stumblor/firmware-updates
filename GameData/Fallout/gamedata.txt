@@ -1,0 +1,222 @@
+s: 1 Left Outlane
+s: 2 Left Inlane-Inner
+s: 3 Left Rollover Button
+s: 5 Right Inlane
+s: 6 Right Outlane
+s: 7 Left Pop Bumper
+s: 8 Right Slingshot
+s: 9 Left Flipper Button
+s: 10 Right Flipper Button
+s: 11 Left Flipper EOS
+s: 12 Right Flipper EOS
+s: 13 Up Left Flipper Button
+s: 14 Up Left Flipper EOS
+s: 15 Trough 6
+s: 16 Trough 5
+s: 17 Trough 4
+s: 18 Trough 3
+s: 19 Trough 2
+s: 20 Trough 1
+s: 21 Trough Jam
+s: 22 Shooter Lane
+s: 26 Junk Target
+s: 27 Pop Target-Left
+s: 28 Pop Target-Center
+s: 29 Pop Target-Right
+s: 32 Left Lane
+s: 35 Radroach 2 Target
+s: 36 Radroach 3 Target
+s: 37 Bottle Cap Spinner Opto
+s: 38 Radio Tower Target
+s: 39 3 Bank-Top
+s: 40 3 Bank-Middle
+s: 41 3 Bank-Bottom
+s: 42 Radroach 4 Target
+s: 45 10 Pt Sw
+s: 46 Radroach 1 Target
+s: 47 Outer Loop Exit Opto
+s: 49 Pip-Boy Opto-Left
+s: 50 Pip-Boy Opto-Right
+s: 53 Outer Loop
+s: 54 Inner Loop
+s: 55 Right Ramp Made Opto
+s: 56 Jump Ramp Opto
+s: 58 Loop Ramp Opto
+s: 63 Sundries Scoop Opto
+s: 64 Deathclaw Hit
+s: 90 Action Button
+s: 93 Start Button
+s: 94 Tournament Start Button
+s: 96 Left Coin
+s: 97 Right Coin
+s: 98 Center Coin
+s: 99 Fourth Coin
+s: 100 Fifth Coin
+s: 101 Tilt Pendulum
+s: 102 Sixth Coin
+s: 103 Ticket Notch
+s: 104 Slam Tilt
+s: 105 Ticket Low
+l: 1 Coin Enable
+l: 2 Start Button
+l: 3 Tournament Start
+l: 4 Action Button-R
+l: 5 Action Button-G
+l: 6 Action Button-B
+l: 7 Ticket Low
+l: 11 Stimpak Left
+l: 12 Left Rollover Button
+l: 13 Left Inlane 3
+l: 14 Left Inlane 2
+l: 15 Left Inlane 1
+l: 16 Right Inlane 1
+l: 17 Right Inlane 2
+l: 18 Right Inlane 3
+l: 19 Nuka Cap Right
+l: 20 Stimpak Right
+l: 21 Shoot Again
+l: 22 Victor
+l: 23 Mr Handy
+l: 24 Protectron
+l: 25 Dogmeat
+l: 26 Junk
+l: 27 Fallout Radio Junk Target-R
+l: 28 Fallout Radio Junk Target-G
+l: 29 Fallout Radio Junk Target-B
+l: 30 Nuka Cap Left
+l: 33 Pop Target Left
+l: 34 Pop Target Center
+l: 35 Pop Target Right
+l: 36 Fallout Radio Pop-R
+l: 37 Fallout Radio Pop-G
+l: 38 Fallout Radio Pop-B
+l: 40 Fusion Core Power 1
+l: 41 Fusion Core Power 2
+l: 42 Fusion Core Power 3
+l: 43 Fusion Core Power 4
+l: 44 Fusion Core Power 5
+l: 45 Fusion Core Power 6
+l: 48 Filly
+l: 49 Gulper
+l: 50 Super Duper Mart
+l: 51 Radroach Target 4
+l: 52 Fallout Radio Radroach 4-R
+l: 53 Fallout Radio Radroach 4-G
+l: 54 Fallout Radio Radroach 4-B
+l: 55 Mini Nuke Top
+l: 56 Mini Nuke Middle
+l: 57 Mini Nuke Bottom
+l: 59 Main Quest-Mind Control
+l: 60 Main Quest-Novac
+l: 61 Main Quest-Find The Target
+l: 62 What Makes You SPECIAL
+l: 63 Cold Fusion
+l: 64 Observatory
+l: 65 Main Quest-Wedding Day
+l: 67 Main Quest-The Kings
+l: 68 Radroach Target 1
+l: 69 Extra Ball
+l: 70 Terminal
+l: 72 Pip-Boy Left Ramp-R
+l: 73 Pip-Boy Left Ramp-G
+l: 74 Pip-Boy Left Ramp-B
+l: 75 Vault-1
+l: 76 Pip-Boy Lit Left
+l: 77 Fallout Radio Left Ramp-R
+l: 78 Fallout Radio Left Ramp-G
+l: 79 Fallout Radio Left Ramp-B
+l: 109 Pip-Boy Right Ramp-R
+l: 110 Pip-Boy Right Ramp-G
+l: 111 Pip-Boy Right Ramp-B
+l: 112 Vault-2
+l: 113 Pip-Boy Lit Right
+l: 116 Center Ramp-R
+l: 117 Center Ramp-G
+l: 118 Center Ramp-B
+l: 122 Side Quest Center Ramp
+l: 123 Companion Center Ramp
+l: 124 Stimpak Center Ramp
+l: 127 Mini Loop-R
+l: 128 Mini Loop-G
+l: 129 Mini Loop-B
+l: 130 Vault-3
+l: 131 Fallout Radio Mini Loop-R
+l: 132 Fallout Radio Mini Loop-G
+l: 133 Fallout Radio Mini Loop-B
+l: 134 Side Quest Mini Loop
+l: 135 Companion Mini Loop
+l: 136 Stimpak Mini Loop
+l: 138 Jump Ramp Top-Enter Vault
+l: 139 Jump Ramp Mid-Open Vault
+l: 140 Jump Ramp Bot-Vault Letter
+l: 141 Jump Ramp-R
+l: 142 Jump Ramp-G
+l: 143 Jump Ramp-B
+l: 145 Fallout Radio Jump Ramp-R
+l: 146 Fallout Radio Jump Ramp-G
+l: 147 Fallout Radio Jump Ramp-B
+l: 148 Radroach Target 2
+l: 149 Fallout Radio Target 3-R
+l: 150 Fallout Radio Target 3-G
+l: 151 Fallout Radio Target 3-B
+l: 152 Radroach Target 3
+l: 154 Fallout Radio Outer Loop-R
+l: 155 Fallout Radio Outer Loop-G
+l: 156 Fallout Radio Outer Loop-B
+l: 157 Radaway Jackpot
+l: 158 Outer Loop Bolt-R
+l: 159 Outer Loop Bolt-G
+l: 160 Outer Loop Bolt-B
+l: 162 Spinner Arrow
+l: 163 Cap Stash
+l: 164 Radio Tower Target 5-R
+l: 165 Radio Tower Target 5-G
+l: 166 Radio Tower Target 5-B
+l: 167 Begin Quest
+l: 168 Sundries
+l: 169 Loot
+l: 170 Deathclaw FIRE
+l: 171 Deathclaw 1
+l: 172 Deathclaw 2
+l: 173 Deathclaw 3
+l: 174 Deathclaw 4
+l: 176 Right Ramp-R
+l: 177 Right Ramp-G
+l: 178 Right Ramp-B
+l: 179 Vault-4
+l: 180 Fallout Radio Right Ramp-R
+l: 181 Fallout Radio Right Ramp-G
+l: 182 Fallout Radio Right Ramp-B
+l: 183 Side Quest Right Ramp
+l: 184 Companion Right Ramp
+l: 185 Stimpak Right Ramp
+l: 187 Pip-Boy Rad-Meter R
+l: 188 Pip-Boy Rad-Meter G
+l: 189 Pip-Boy Radio W
+l: 210 Coin Door GI
+l: 211 Bottom GI-WHT (x7)
+l: 212 Bottom GI-RED (x7)
+l: 213 Bottom Arch GI
+l: 215 Top GI-WHT (x6)
+l: 216 Top GI-RED (x6)
+l: 220 Pop Flash
+l: 221 Deathclaw Spot
+l: 223 Bottle Cap Flash
+l: 224 Pip Boy Flash
+l: 225 Vault Spot
+l: 226 Sundries Flash
+l: 228 Nuka Cola Quantum Flash
+c: 1 Trough
+c: 2 Auto Plunger
+c: 3 Left Flipper
+c: 4 Right Flipper
+c: 5 Left Pop Bumper
+c: 6 Right Slingshot
+c: 7 Shaker Motor
+c: 8 Upper Left Flipper
+c: 11 Sundries Scoop
+c: 15 Pip-Boy Magnet
+c: 16 Bottle Cap Spinner
+c: 33 Coin Meter
+c: 34 Ticket Meter
+c: 35 Ticket Dispenser
