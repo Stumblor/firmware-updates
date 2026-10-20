@@ -1,0 +1,218 @@
+s: 1 Left Outlane
+s: 2 Left Return Lane
+s: 5 Right Return Lane
+s: 6 Right Outlane
+s: 7 Left Slingshot
+s: 8 Right Slingshot
+s: 9 Left Flipper Button
+s: 10 Right Flipper Button
+s: 11 Left Flipper EOS
+s: 12 Right Flipper EOS
+s: 14 U/P Right Flipper Button
+s: 15 Trough 6
+s: 16 Trough 5
+s: 17 Trough 4
+s: 18 Trough 3
+s: 19 Trough 2
+s: 20 Trough 1
+s: 21 Trough Jam
+s: 22 Shooter Lane
+s: 23 Shooter Lane 2
+s: 24 U/P Right Flipper EOS
+s: 26 Lower Left 2 Bank Target Bottom
+s: 27 Lower Left 2 Bank Target Top
+s: 33 Right 3 Bank Drop Top
+s: 34 Right 3 Bank Drop Middle
+s: 35 Right 3 Bank Drop Bottom
+s: 41 Left 1 Bank Drop
+s: 45 Castle VUK
+s: 47 Left Spinner
+s: 48 Left Orbit
+s: 50 Flail Opto Enter
+s: 51 Flail Exit
+s: 53 Flail Motor Opto 1
+s: 54 Flail Motor Opto 2
+s: 55 Flail Opto Mid
+s: 56 Center Target
+s: 58 Shield Opto
+s: 59 Shield Target
+s: 60 Shield VUK
+s: 64 Right Orbit
+s: 66 Top Lane Left
+s: 67 Top Lane Center
+s: 68 Top Lane Right
+s: 70 Left Pop Bumper
+s: 71 Right Pop Bumper
+s: 72 Bottom Pop Bumper
+s: 80 U/P Left Orbit Opto
+s: 81 U/P Right Orbit Opto
+s: 82 U/P Target
+s: 83 U/P Lock 1
+s: 84 U/P Lock 2
+s: 85 U/P Lock 3
+s: 100 Lockdown Button
+s: 103 Start Button
+s: 104 Tournament Start Button
+s: 106 Left Coin
+s: 107 Right Coin
+s: 108 Center Coin
+s: 109 Fourth Coin
+s: 110 Fifth Coin
+s: 111 Tilt Pendulum
+s: 112 Sixth Coin
+s: 113 Slam Tilt
+s: 114 Ticket Notch
+l: 1 Coin Enable
+l: 2 Start Button
+l: 3 Tournament Start
+l: 4 Lockdown Button-R
+l: 5 Lockdown Button-G
+l: 6 Lockdown Button-B
+l: 11 Left Outlane
+l: 12 Left Return Lane
+l: 13 Kickback
+l: 14 Shoot Again
+l: 15 Right Return Lane
+l: 16 Right Outlane
+l: 18 (K)NIGHT
+l: 19 K(N)IGHT
+l: 20 KN(I)GHT
+l: 21 KNI(G)HT
+l: 22 KNIG(H)T
+l: 23 KNIGH(T)
+l: 24 Magna-Save
+l: 26 Lightning Bolt 1-R
+l: 27 Lightning Bolt 1-G
+l: 28 Lightning Bolt 1-B
+l: 29 Lightning Bolt 2-R
+l: 30 Lightning Bolt 2-G
+l: 31 Lightning Bolt 2-B
+l: 32 Lightning Bolt 3-R
+l: 33 Lightning Bolt 3-G
+l: 34 Lightning Bolt 3-B
+l: 35 Lightning Bolt 4-R
+l: 36 Lightning Bolt 4-G
+l: 37 Lightning Bolt 4-B
+l: 38 Lightning Bolt 5-R
+l: 39 Lightning Bolt 5-G
+l: 40 Lightning Bolt 5-B
+l: 41 Lightning Bolt 6-R
+l: 42 Lightning Bolt 6-G
+l: 43 Lightning Bolt 6-B
+l: 44 Lightning Bolt 7-R
+l: 45 Lightning Bolt 7-G
+l: 46 Lightning Bolt 7-B
+l: 47 Lightning Bolt 8-R
+l: 48 Lightning Bolt 8-G
+l: 49 Lightning Bolt 8-B
+l: 50 Lightning Bolt 9-R
+l: 51 Lightning Bolt 9-G
+l: 52 Lightning Bolt 9-B
+l: 53 Lightning Bolt 10-R
+l: 54 Lightning Bolt 10-G
+l: 55 Lightning Bolt 10-B
+l: 56 Lightning Bolt 11-R
+l: 57 Lightning Bolt 11-G
+l: 58 Lightning Bolt 11-B
+l: 59 Lightning Bolt 12-R
+l: 60 Lightning Bolt 12-G
+l: 61 Lightning Bolt 12-B
+l: 63 Left 2 Bank Target-Bottom
+l: 64 Left 2 Bank Target-Top
+l: 66 Castle Lightning Bolt-R
+l: 67 Castle Lightning Bolt-G
+l: 68 Castle Lightning Bolt-B
+l: 69 Knight Mode
+l: 70 Add-a-Ball
+l: 72 Left Orbit Lightning Bolt 1-R
+l: 73 Left Orbit Lightning Bolt 1-G
+l: 74 Left Orbit Lightning Bolt 1-B
+l: 75 Left Orbit Lightning Bolt 2-R
+l: 76 Left Orbit Lightning Bolt 2-G
+l: 77 Left Orbit Lightning Bolt 2-B
+l: 79 Flail Lightning Bolt-R
+l: 80 Flail Lightning Bolt-G
+l: 81 Flail Lightning Bolt-B
+l: 82 Flail Arrow 1
+l: 83 Flail Arrow 2
+l: 85 Center Target Lightning Bolt-R
+l: 86 Center Target Lightning Bolt-G
+l: 87 Center Target Lightning Bolt-B
+l: 88 Center Target Arrow 1
+l: 89 Center Target Arrow 2
+l: 91 Shield Lightning Bolt-R
+l: 92 Shield Lightning Bolt-G
+l: 93 Shield Lightning Bolt-B
+l: 94 Right Lock
+l: 95 Extra Ball
+l: 96 Mystery
+l: 98 Shield Target Lightning Bolt-R
+l: 99 Shield Target Lightning Bolt-G
+l: 100 Shield Target Lightning Bolt-B
+l: 101 Light Lock
+l: 103 Right Orbit Lightning Bolt 1-R
+l: 104 Right Orbit Lightning Bolt 1-G
+l: 105 Right Orbit Lightning Bolt 1-B
+l: 106 Right Orbit Lightning Bolt 2-R
+l: 107 Right Orbit Lightning Bolt 2-G
+l: 108 Right Orbit Lightning Bolt 2-B
+l: 110 Right 3 Bank Drop-Top
+l: 111 Right 3 Bank Drop-Mid
+l: 112 Right 3 Bank Drop-Bottom
+l: 115 Top Lane-(W)AR
+l: 116 Top Lane-W(A)R
+l: 117 Top Lane-WA(R)
+l: 120 Flame Panel
+l: 125 Knight Left Eye
+l: 126 Knight Right Eye
+l: 127 Knight Mask-R
+l: 128 Knight Mask-G
+l: 129 Knight Mask-B
+l: 131 Lock 1
+l: 132 Lock 2
+l: 133 Lock 3
+l: 140 Left Flood-R
+l: 141 Left Flood-G
+l: 142 Left Flood-B
+l: 143 Right Flood-R
+l: 144 Right Flood-G
+l: 145 Right Flood-B
+l: 150 Coin Door GI
+l: 151 Bottom GI-RED
+l: 152 Bottom GI-WHT
+l: 154 Top GI-RED
+l: 155 Top GI-WHT
+l: 160 Bottom Arch Flash (2x)
+l: 163 Center Flash
+l: 165 Left Orbit Flash
+l: 166 Shield VUK Flash
+l: 170 Left Pop Bumper
+l: 171 Right Pop Bumper
+l: 172 Bottom Pop Bumper
+l: 174 Flail Flash 1 (2x)
+l: 175 Flail Flash 2 (2x)
+l: 176 Flail Flash 3 (2x)
+l: 177 Flail Flash 4 (2x)
+l: 178 Flail Flash 5 (2x)
+c: 1 Trough
+c: 2 Auto Plunger
+c: 3 Left Flipper
+c: 4 Right Flipper
+c: 5 Left Slingshot
+c: 6 Right Slingshot
+c: 7 Shaker Motor
+c: 9 U/P Right Flipper
+c: 10 Shield VUK
+c: 12 Left Pop Bumper
+c: 13 Right Pop Bumper
+c: 14 Bottom Pop Bumper
+c: 16 1 Bank Drop
+c: 17 U/P Lock
+c: 18 Magnet
+c: 19 Left/Right Gate
+c: 22 Shield
+c: 24 Castle VUK
+c: 26 Right 3 Bank Drop
+c: 33 Coin Meter
+c: 34 Ticket Meter
+c: 35 Ticket Dispenser

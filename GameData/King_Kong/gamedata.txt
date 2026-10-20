@@ -1,0 +1,300 @@
+s: 1 Left Outlane-Lower
+s: 2 Left Inlane-Inner
+s: 3 Left Outlane-Upper
+s: 4 Left Inlane-Outer
+s: 5 Right Inlane
+s: 6 Right Outlane
+s: 7 Left Slingshot
+s: 8 Right Slingshot
+s: 9 Left Flipper Button
+s: 10 Right Flipper Button
+s: 11 Left Flipper EOS
+s: 12 Right Flipper EOS
+s: 13 UP Left Flipper Button
+s: 14 UP Right Flipper Button
+s: 15 Trough 6
+s: 16 Trough 5
+s: 17 Trough 4
+s: 18 Trough 3
+s: 19 Trough 2
+s: 20 Trough 1
+s: 21 Trough Jam
+s: 22 Shooter Lane
+s: 23 UP Left Flipper EOS
+s: 24 UP Right Flipper EOS
+s: 25 Shooter Exit
+s: 30 River Exit
+s: 31 Pit Target-Top
+s: 32 Pit Target-Mid
+s: 33 Pit Target-Bot
+s: 37 Kong Cave Made
+s: 38 Kong Cave VUK
+s: 41 River Enter
+s: 42 4 Bank Drop 1-Top
+s: 43 4 Bank Drop 2
+s: 44 4 Bank Drop 3
+s: 45 4 Bank Drop 4-Bot
+s: 46 Island Treasure
+s: 49 X1
+s: 50 X2
+s: 51 X3
+s: 52 X4
+s: 54 Center Ramp Made Opto
+s: 55 Left Orbit Entrance Opto
+s: 56 Left Ramp Made Opto
+s: 57 Biplane Ramp Made Opto
+s: 58 Center Shot Enter Opto
+s: 59 Train Enter Opto
+s: 60 Train Lock Opto
+s: 62 U-Turn Rollover
+s: 63 Left Orbit Spinner Opto
+s: 64 Powerup Target
+s: 67 Gong Hit Opto
+s: 70 Kong Gong VUK Opto
+s: 71 Right Spinner Opto
+s: 72 Right Orbit
+s: 73 Kick Target
+s: 74 2.42 Million Bananas
+s: 90 Action Button
+s: 93 Start Button
+s: 94 Tournament Start Button
+s: 96 Left Coin
+s: 97 Right Coin
+s: 98 Center Coin
+s: 99 Fourth Coin
+s: 100 Fifth Coin
+s: 101 Tilt Pendulum
+s: 102 Sixth Coin
+s: 103 Ticket Notch
+s: 104 Slam Tilt
+l: 1 Coin Enable
+l: 2 Start Button
+l: 3 Tournament Start
+l: 4 Action Button-R
+l: 5 Action Button-G
+l: 6 Action Button-B
+l: 11 Cliffhanger
+l: 12 Left Return 2
+l: 13 Left Return 2X
+l: 14 Left Return 1
+l: 15 Right Return 1
+l: 16 Right Return 2X
+l: 17 Right Return 2
+l: 18 Shoot Again
+l: 19 Eighth Wonder
+l: 22 Kong Multiball
+l: 23 TREX Defeated
+l: 24 Biplanes Destroyed
+l: 25 Climb Complete
+l: 26 Island Scenes
+l: 27 Spider Pit Cleared
+l: 30 (K)ING KONG
+l: 31 K(I)NG KONG
+l: 32 KI(N)G KONG
+l: 33 KIN(G) KONG
+l: 34 KING (K)ONG
+l: 35 KING K(O)NG
+l: 36 KING KO(N)G
+l: 37 KING KON(G)
+l: 38 Bash Gong W/Lit
+l: 40 Giant Spider
+l: 41 Octopus Insect
+l: 42 2 Legged Lizard
+l: 43 The Pit!
+l: 45 Kong Cave- R
+l: 46 Kong Cave- G
+l: 47 Kong Cave- B
+l: 48 Kong Cave Mystery
+l: 49 Extra Ball
+l: 53 100Ft
+l: 54 200Ft
+l: 55 300Ft
+l: 56 400Ft
+l: 57 500Ft
+l: 58 600Ft
+l: 59 700Ft
+l: 60 800Ft
+l: 61 900Ft
+l: 62 1000Ft
+l: 63 1100Ft
+l: 64 1200Ft
+l: 65 Building Roof
+l: 66 1250Ft
+l: 67 Biplane 1
+l: 68 Biplane 2
+l: 69 Biplane 3
+l: 70 Biplane 4
+l: 71 Attack
+l: 73 Sweep Bonus
+l: 74 Powerup
+l: 76 Light Lock
+l: 77 Light Combos
+l: 78 Light Jackpot
+l: 79 4 Bank Drop 1- Top
+l: 80 4 Bank Drop 2
+l: 81 4 Bank Drop 3
+l: 82 4 Bank Drop 4- Bot
+l: 84 Log Bridge
+l: 85 Island Treasure
+l: 88 Left Orbit-R
+l: 89 Left Orbit-G
+l: 90 Left Orbit-B
+l: 91 Left Orbit Climb
+l: 92 X1
+l: 93 Left Ramp-R
+l: 94 Left Ramp-G
+l: 95 Left Ramp-B
+l: 96 Left Ramp Climb
+l: 98 2.42 Million Bananas
+l: 99 Biplane-R
+l: 100 Biplane-G
+l: 101 Biplane-B
+l: 102 Biplane Climb
+l: 103 U-Turn-R
+l: 104 U-Turn-G
+l: 105 U-Turn-B
+l: 106 U-Turn Climb
+l: 109 Center Ramp-R
+l: 110 Center Ramp-G
+l: 111 Center Ramp-B
+l: 112 Center Ramp Climb
+l: 114 X2
+l: 115 Center Lane-R
+l: 116 Center Lane-G
+l: 117 Center Lane-B
+l: 118 Center Lane Climb
+l: 119 Lost Temple
+l: 121 X3
+l: 122 Island Scene
+l: 123 Bang A Gong
+l: 124 Kong Gong-R
+l: 125 Kong Gong-G
+l: 126 Kong Gong-B
+l: 127 X4
+l: 129 NYC Event
+l: 130 Island Lock
+l: 131 Right Orbit-R
+l: 132 Right Orbit-G
+l: 133 Right Orbit-B
+l: 134 Right Orbit Climb
+l: 136 Left Ramp BB
+l: 138 Biplane BB Super Jackpot
+l: 139 Biplane BB Advance Biplane
+l: 141 Train Lock 3
+l: 142 Train Lock 2
+l: 143 Train Lock 1
+l: 144 Gong Left
+l: 145 Gong Right
+l: 150 Coin Door GI
+l: 151 Bottom GI-WHT (x7)
+l: 152 Arch GI-WHT (x3)
+l: 155 Top GI-WHT (x12)
+l: 156 Backpanel GI-WHT (x2)
+l: 164 Lower Left Spot
+l: 165 Lower Right Spot
+l: 166 Temple Flash
+l: 167 Pit Flash
+l: 169 Left Spinner Flash
+l: 170 Right Spinner Flash
+l: 171 Gong Flash
+l: 172 Kong Cave Flasher
+l: 174 Kong Accent Spot-Top
+l: 175 Kong Accent Spot-Bot
+l: 176 Train Flash
+l: 177 Waterfall Flash
+l: 178 River Flash Top
+l: 179 River Flash Mid
+l: 220 Speaker 1-R
+l: 221 Speaker 1-G
+l: 222 Speaker 1-B
+l: 223 Speaker 2-R
+l: 224 Speaker 2-G
+l: 225 Speaker 2-B
+l: 226 Speaker 3-R
+l: 227 Speaker 3-G
+l: 228 Speaker 3-B
+l: 229 Speaker 4-R
+l: 230 Speaker 4-G
+l: 231 Speaker 4-B
+l: 232 Speaker 5-R
+l: 233 Speaker 5-G
+l: 234 Speaker 5-B
+l: 235 Speaker 6-R
+l: 236 Speaker 6-G
+l: 237 Speaker 6-B
+l: 238 Speaker 7-R
+l: 239 Speaker 7-G
+l: 240 Speaker 7-B
+l: 241 Speaker 8-R
+l: 242 Speaker 8-G
+l: 243 Speaker 8-B
+l: 244 Speaker 9-R
+l: 245 Speaker 9-G
+l: 246 Speaker 9-B
+l: 247 Speaker 10-R
+l: 248 Speaker 10-G
+l: 249 Speaker 10-B
+l: 250 Speaker 11-R
+l: 251 Speaker 11-G
+l: 252 Speaker 11-B
+l: 253 Speaker 12-R
+l: 254 Speaker 12-G
+l: 255 Speaker 12-B
+l: 256 Speaker 13-R
+l: 257 Speaker 13-G
+l: 258 Speaker 13-B
+l: 259 Speaker 14-R
+l: 260 Speaker 14-G
+l: 261 Speaker 14-B
+l: 262 Speaker 15-R
+l: 263 Speaker 15-G
+l: 264 Speaker 15-B
+l: 265 Speaker 16-R
+l: 266 Speaker 16-G
+l: 267 Speaker 16-B
+l: 268 Speaker 17-R
+l: 269 Speaker 17-G
+l: 270 Speaker 17-B
+l: 271 Speaker 18-R
+l: 272 Speaker 18-G
+l: 273 Speaker 18-B
+l: 274 Speaker 19-R
+l: 275 Speaker 19-G
+l: 276 Speaker 19-B
+l: 277 Speaker 20-R
+l: 278 Speaker 20-G
+l: 279 Speaker 20-B
+l: 280 Speaker 21-R
+l: 281 Speaker 21-G
+l: 282 Speaker 21-B
+l: 283 Speaker 22-R
+l: 284 Speaker 22-G
+l: 285 Speaker 22-B
+l: 286 Speaker 23-R
+l: 287 Speaker 23-G
+l: 288 Speaker 23-B
+c: 1 Trough
+c: 2 Auto Plunger
+c: 3 Left Flipper
+c: 4 Right Flipper
+c: 5 Left Slingshot
+c: 6 Right Slingshot
+c: 7 Shaker Motor
+c: 8 Up L Flip
+c: 9 Up R Flip
+c: 11 Spider Pit Magnet
+c: 12 Kong Cave VUK
+c: 13 Kong Gong Latch
+c: 14 River Diverter
+c: 15 4 Bank Drop Target
+c: 16 Center Ramp Diverter
+c: 17 Kong Gong
+c: 18 Kong Gong VUK
+c: 19 Kick Target
+c: 20 Train Lock
+c: 24 King Kong Servo-Body
+c: 25 King Kong Servo-L Arm
+c: 26 King Kong Servo-R Arm
+c: 33 Coin Meter
+c: 34 Ticket Meter
+c: 35 Ticket Dispenser

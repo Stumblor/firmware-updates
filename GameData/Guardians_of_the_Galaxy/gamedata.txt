@@ -1,0 +1,315 @@
+s: 1 Left Outlane
+s: 2 Left Return Lane-Left
+s: 3 Left Return Lane-Right
+s: 5 Right Return Lane
+s: 6 Right Outlane
+s: 7 Left Slingshot
+s: 8 Right Slingshot
+s: 9 Left Flipper Button
+s: 10 Right Flipper Button
+s: 11 Left Flipper EOS
+s: 12 Right Flipper EOS
+s: 15 Trough 6
+s: 16 Trough 5
+s: 17 Trough 4
+s: 18 Trough 3
+s: 19 Trough 2
+s: 20 Trough 1
+s: 21 Trough Jam
+s: 22 Shooter Lane
+s: 28 Left Lane
+s: 29 Left Lane Target
+s: 30 Guardians Target-Top
+s: 31 Guardians Target-Bottom
+s: 34 Left Spinner
+s: 35 Left Orbit
+s: 36 Kickback Opto
+s: 37 Left Ramp Exit
+s: 39 Groot Target-Left
+s: 40 Groot Target-Right
+s: 41 Groot Opto
+s: 42 Groot Trough 1
+s: 43 Groot Trough 2
+s: 44 Groot Trough 3
+s: 45 Groot Trough 4
+s: 46 Groot Motor Away
+s: 47 Groot Motor Home
+s: 49 Center Drop Target
+s: 50 Orb Standup Target
+s: 51 Orb Motor Home
+s: 52 Orb Motor Away
+s: 54 Right Spinner
+s: 55 Right Orbit
+s: 56 Right Ramp Exit
+s: 58 Left Pop Bumper
+s: 59 Right Pop Bumper
+s: 60 Bottom Pop Bumper
+s: 62 Top Lane-Left
+s: 63 Top Lane-Right
+s: 65 Hadron Enforcer Target 1
+s: 66 Hadron Enforcer Target 2
+s: 67 Hadron Enforcer Target 3
+s: 68 Hadron Enforcer Target 4
+s: 69 Hadron Enforcer Target 5
+s: 71 Right Scoop
+s: 80 Lockdown Button
+s: 84 Start Button
+s: 85 Tournament Start Button
+s: 90 Left Coin
+s: 91 Right Coin
+s: 92 Center Coin
+s: 93 Fourth Coin
+s: 94 Fifth Coin
+s: 95 Tilt Pendulum
+s: 96 Sixth Coin
+s: 97 Ticket Notch
+s: 98 Slam Tilt
+l: 1 Coin Enable
+l: 2 Start Button
+l: 3 Tournament Start
+l: 4 Lockdown Button-RED
+l: 5 Lockdown Button-GRN
+l: 6 Lockdown Button-BLU
+l: 11 Left Outlane-RED
+l: 12 Left Outlane-GRN
+l: 13 Left Outlane-BLU
+l: 14 Left Return Lane-Left-RED
+l: 15 Left Return Lane-Left-GRN
+l: 16 Left Return Lane-Left-BLU
+l: 17 Left Return Lane-Right-RED
+l: 18 Left Return Lane-Right-GRN
+l: 19 Left Return Lane-Right-BLU
+l: 20 Antiquities Shop-RED
+l: 21 Antiquities Shop-GRN
+l: 22 Antiquities Shop-BLU
+l: 23 Pod Chase-RED
+l: 24 Pod Chase-GRN
+l: 25 Pod Chase-BLU
+l: 26 Sanctuary-RED
+l: 27 Sanctuary-GRN
+l: 28 Sanctuary-BLU
+l: 29 Yaka Arrow-RED
+l: 30 Yaka Arrow-GRN
+l: 31 Yaka Arrow-BLU
+l: 32 Sibling Rivalry-RED
+l: 33 Sibling Rivalry-GRN
+l: 34 Sibling Rivalry-BLU
+l: 35 Escape Kyln-RED
+l: 36 Escape Kyln-GRN
+l: 37 Escape Kyln-BLU
+l: 38 Knowhere-RED
+l: 39 Knowhere-GRN
+l: 40 Knowhere-BLU
+l: 41 Quills Quest-RED
+l: 42 Quills Quest-GRN
+l: 43 Quills Quest-BLU
+l: 44 Immolation Initiative-RED
+l: 45 Immolation Initiative-GRN
+l: 46 Immolation Initiative-BLU
+l: 47 Orb Multiball-Bottom-RED
+l: 48 Orb Multiball-Bottom-GRN
+l: 49 Orb Multiball-Bottom-BLU
+l: 50 Save Xandar-RED
+l: 51 Save Xandar-GRN
+l: 52 Save Xandar-BLU
+l: 53 Groot Multiball-Bottom-RED
+l: 54 Groot Multiball-Bottom-GRN
+l: 55 Groot Multiball-Bottom-BLU
+l: 56 Shoot Again (x2)
+l: 59 Right Return Lane-RED
+l: 60 Right Return Lane-GRN
+l: 61 Right Return Lane-BLU
+l: 62 Right Outlane-RED
+l: 63 Right Outlane-GRN
+l: 64 Right Outlane-BLU
+l: 71 Left Lane Arrow-RED
+l: 72 Left Lane Arrow-GRN
+l: 73 Left Lane Arrow-BLU
+l: 74 Left Lane X-RED
+l: 75 Left Lane X-GRN
+l: 76 Left Lane X-BLU
+l: 77 Left Lane Rectangle-RED
+l: 78 Left Lane Rectangle-GRN
+l: 79 Left Lane Rectangle-BLU
+l: 81 Guardians-RED
+l: 82 Guardians-GRN
+l: 83 Guardians-BLU
+l: 100 Left Orbit Arrow-RED
+l: 101 Left Orbit Arrow-GRN
+l: 102 Left Orbit Arrow-BLU
+l: 103 Left Orbit X-RED
+l: 104 Left Orbit X-GRN
+l: 105 Left Orbit X-BLU
+l: 106 Left Orbit Rectangle-RED
+l: 107 Left Orbit Rectangle-GRN
+l: 108 Left Orbit Rectangle-BLU
+l: 110 Rocket Arrow-RED
+l: 111 Rocket Arrow-GRN
+l: 112 Rocket Arrow-BLU
+l: 113 Rocket X-RED
+l: 114 Rocket X-GRN
+l: 115 Rocket X-BLU
+l: 116 Rocket Rectangle-RED
+l: 117 Rocket Rectangle-GRN
+l: 118 Rocket Rectangle-BLU
+l: 119 Rocket Multiball-RED
+l: 120 Rocket Multiball-GRN
+l: 121 Rocket Multiball-BLU
+l: 123 Left Ramp Arrow-RED
+l: 124 Left Ramp Arrow-GRN
+l: 125 Left Ramp Arrow-BLU
+l: 126 Left Ramp X-RED
+l: 127 Left Ramp X-GRN
+l: 128 Left Ramp X-BLU
+l: 129 Left Ramp Rectangle-RED
+l: 130 Left Ramp Rectangle-GRN
+l: 131 Left Ramp Rectangle-BLU
+l: 133 Groot Target-Left-RED
+l: 134 Groot Target-Left-GRN
+l: 135 Groot Target-Left-BLU
+l: 136 Groot Target-Right-RED
+l: 137 Groot Target-Right-GRN
+l: 138 Groot Target-Right-BLU
+l: 139 Groot Multiball-RED
+l: 140 Groot Multiball-GRN
+l: 141 Groot Multiball-BLU
+l: 142 Groot Arrow-RED
+l: 143 Groot Arrow-GRN
+l: 144 Groot Arrow-BLU
+l: 145 Groot X-RED
+l: 146 Groot X-GRN
+l: 147 Groot X-BLU
+l: 148 Groot Rectangle-RED
+l: 149 Groot Rectangle-GRN
+l: 150 Groot Rectangle-BLU
+l: 158 Lock 1-RED
+l: 159 Lock 1-GRN
+l: 160 Lock 1-BLU
+l: 161 Lock 2-RED
+l: 162 Lock 2-GRN
+l: 163 Lock 2-BLU
+l: 164 Lock 3-RED
+l: 165 Lock 3-GRN
+l: 166 Lock 3-BLU
+l: 167 Lock 4-RED
+l: 168 Lock 4-GRN
+l: 169 Lock 4-BLU
+l: 171 Orb Arrow-RED
+l: 172 Orb Arrow-GRN
+l: 173 Orb Arrow-BLU
+l: 174 Orb X-RED
+l: 175 Orb X-GRN
+l: 176 Orb X-BLU
+l: 177 Orb Rectangle-RED
+l: 178 Orb Rectangle-GRN
+l: 179 Orb Rectangle-BLU
+l: 180 Orb Multiball-RED
+l: 181 Orb Multiball-GRN
+l: 182 Orb Multiball-BLU
+l: 184 Right Ramp Arrow-RED
+l: 185 Right Ramp Arrow-GRN
+l: 186 Right Ramp Arrow-BLU
+l: 187 Right Ramp X-RED
+l: 188 Right Ramp X-GRN
+l: 189 Right Ramp X-BLU
+l: 190 Right Ramp Rectangle-RED
+l: 191 Right Ramp Rectangle-GRN
+l: 192 Right Ramp Rectangle-BLU
+l: 194 Right Orbit Arrow-RED
+l: 195 Right Orbit Arrow-GRN
+l: 196 Right Orbit Arrow-BLU
+l: 197 Right Orbit X-RED
+l: 198 Right Orbit X-GRN
+l: 199 Right Orbit X-BLU
+l: 200 Right Orbit Rectangle-RED
+l: 201 Right Orbit Rectangle-GRN
+l: 202 Right Orbit Rectangle-BLU
+l: 204 Right Scoop Arrow-RED
+l: 205 Right Scoop Arrow-GRN
+l: 206 Right Scoop Arrow-BLU
+l: 207 Right Scoop X-RED
+l: 208 Right Scoop X-GRN
+l: 209 Right Scoop X-BLU
+l: 210 Right Scoop Rectangle-RED
+l: 211 Right Scoop Rectangle-GRN
+l: 212 Right Scoop Rectangle-BLU
+l: 215 Billboard 1
+l: 216 Billboard 2
+l: 217 Billboard 3
+l: 218 Billboard 4
+l: 220 Hadron Enforcer 1-RED
+l: 221 Hadron Enforcer 1-GRN
+l: 222 Hadron Enforcer 1-BLU
+l: 223 Hadron Enforcer 2-RED
+l: 224 Hadron Enforcer 2-GRN
+l: 225 Hadron Enforcer 2-BLU
+l: 226 Hadron Enforcer 3-RED
+l: 227 Hadron Enforcer 3-GRN
+l: 228 Hadron Enforcer 3-BLU
+l: 229 Hadron Enforcer 4-RED
+l: 230 Hadron Enforcer 4-GRN
+l: 231 Hadron Enforcer 4-BLU
+l: 232 Hadron Enforcer 5-RED
+l: 233 Hadron Enforcer 5-GRN
+l: 234 Hadron Enforcer 5-BLU
+l: 239 Left Pop Bumper-RED
+l: 240 Left Pop Bumper-GRN
+l: 241 Left Pop Bumper-BLU
+l: 242 Right Pop Bumper-RED
+l: 243 Right Pop Bumper-GRN
+l: 244 Right Pop Bumper-BLU
+l: 245 Bottom Pop Bumper-RED
+l: 246 Bottom Pop Bumper-GRN
+l: 247 Bottom Pop Bumper-BLU
+l: 249 Top Lane-Left-RED
+l: 250 Top Lane-Left-GRN
+l: 251 Top Lane-Left-BLU
+l: 252 Top Lane-Right-RED
+l: 253 Top Lane-Right-GRN
+l: 254 Top Lane-Right-BLU
+l: 256 Orb-RED
+l: 257 Orb-GRN
+l: 258 Orb-BLU
+l: 275 Coin Door GI
+l: 276 Bottom RED GI
+l: 277 Bottom WHITE GI
+l: 278 Bottom BLUE GI
+l: 279 Top RED GI
+l: 280 Top WHITE GI
+l: 281 Top BLUE GI
+l: 282 Backpanel GI
+l: 285 Left Sling
+l: 286 Right Sling
+l: 287 Yondu
+l: 288 Left Ramp Top
+l: 289 Left Ramp Bottom
+l: 290 Right Ramp Top
+l: 291 Right Ramp Bottom
+l: 292 Pop Bumper
+l: 293 Magnet
+l: 294 Drop Target
+l: 295 Rocket Spot Light
+l: 296 Groot Spot Light
+c: 1 Trough
+c: 2 Auto Plunger
+c: 3 Left Flipper
+c: 4 Right Flipper
+c: 5 Left Slingshot
+c: 6 Right Slingshot
+c: 7 Shaker Motor
+c: 9 Right Scoop
+c: 10 Center Drop Target-Down
+c: 11 Center Drop Target-Up
+c: 13 Left Pop Bumper
+c: 14 Right Pop Bumper
+c: 15 Bottom Pop Bumper
+c: 17 Orbit Control Gates-L/R
+c: 19 Left Magnet
+c: 20 Groot-Trough Eject
+c: 21 Top Magnet
+c: 22 Right Magnet
+c: 24 Kickback
+c: 25 Rocket Raccoon
+c: 33 Coin Meter
+c: 34 Ticket Meter
+c: 35 Ticket Dispenser

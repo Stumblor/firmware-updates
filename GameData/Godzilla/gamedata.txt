@@ -1,0 +1,219 @@
+s: 1 Left Outlane
+s: 2 Left Return Lane
+s: 5 Right Return Lane
+s: 6 Right Outlane
+s: 7 Left Slingshot
+s: 8 Right Slingshot
+s: 9 Left Flipper Button
+s: 10 Right Flipper Button
+s: 11 Left Flipper EOS
+s: 12 Right Flipper EOS
+s: 13 UP Left Flip Button
+s: 15 Trough 6
+s: 16 Trough 5
+s: 17 Trough 4
+s: 18 Trough 3
+s: 19 Trough 2
+s: 20 Trough 1
+s: 21 Trough Jam
+s: 22 Shooter Lane
+s: 23 UP Left Flipper EOS
+s: 27 Maser Target
+s: 28 Left Spinner
+s: 29 Skill Shot
+s: 31 Pop Bumper
+s: 33 Mecha Exit Top
+s: 34 Mecha Exit Bottom
+s: 35 Right Scoop
+s: 37 Shield Ramp Spinner
+s: 38 Shield Target Left
+s: 39 Shield Target Center
+s: 40 Shield Target Right
+s: 41 Shield Motor Open
+s: 42 Shield Motor Closed
+s: 47 Pwrline Left Tgt
+s: 48 Pwrline Center Tgt
+s: 49 Pwrline Right Tgt
+s: 51 Godzilla Target
+s: 52 Building Hit Opto
+s: 53 Building Exit
+s: 55 Building Up
+s: 56 Building Down
+s: 58 Big Loop Enter
+s: 59 Big Loop Exit
+s: 60 Top Spinner
+s: 62 L Ramp Made Opto
+s: 63 VUK Opto
+s: 64 VUK Exit Opto
+s: 65 R Ramp Made Opto
+s: 70 Lockdown Button
+s: 73 Start Button
+s: 74 Tournament Start Button
+s: 76 Left Coin
+s: 77 Right Coin
+s: 78 Center Coin
+s: 79 Fourth Coin
+s: 80 Fifth Coin
+s: 81 Tilt Pendulum
+s: 82 Sixth Coin
+s: 83 Ticket Notch
+s: 84 Slam Tilt
+l: 1 Coin Enable
+l: 2 Start Button
+l: 3 Tournament Start
+l: 4 Lockdown Button-R
+l: 5 Lockdown Button-G
+l: 6 Lockdown Button-B
+l: 11 Left Outlane
+l: 12 Left Return Lane
+l: 13 Right Outlane
+l: 14 Right Return Lane
+l: 15 Shoot Again (x2)
+l: 18 Adv Fighter Left
+l: 19 Fighter Left 1
+l: 20 Fighter Left 2
+l: 21 Fighter Left 3
+l: 22 Adv Fighter Right
+l: 23 Fighter Right 1
+l: 24 Fighter Right 2
+l: 25 Fighter Right 3
+l: 28 Maser
+l: 29 Maser Ready
+l: 30 Left Spinner R
+l: 31 Left Spinner G
+l: 32 Left Spinner B
+l: 33 Tank 1
+l: 34 Adv Rampage
+l: 37 Rodan
+l: 38 Mothra
+l: 39 Anguirus
+l: 40 Top Saucer R
+l: 41 Top Saucer G
+l: 42 Top Saucer B
+l: 43 Bottom Saucer R
+l: 44 Bottom Saucer G
+l: 45 Bottom Saucer B
+l: 46 Saucer
+l: 49 Attack Mecha
+l: 50 Tank 6
+l: 51 Select City
+l: 52 Mecha Lane R
+l: 53 Mecha Lane G
+l: 54 Mecha Lane B
+l: 55 Pop Bumper R
+l: 56 Pop Bumper G
+l: 57 Pop Bumper B
+l: 60 Shield Left R
+l: 61 Shield Left G
+l: 62 Shield Left B
+l: 63 Shield Center R
+l: 64 Shield Center G
+l: 65 Shield Center B
+l: 66 Shield Right R
+l: 67 Shield Right G
+l: 68 Shield Right B
+l: 71 Tanks
+l: 72 Kaiju
+l: 73 Bridge
+l: 74 Power
+l: 75 NY
+l: 76 London
+l: 77 Paris
+l: 78 Tokyo
+l: 79 Planet X
+l: 80 Monster Zero Wiz
+l: 81 King of the Monsters Wiz
+l: 82 Mecha Wiz
+l: 85 Skill Shot
+l: 86 Left Ramp R
+l: 87 Left Ramp G
+l: 88 Left Ramp B
+l: 89 Tank 2
+l: 90 Adv Train
+l: 91 Magna Grab
+l: 92 Tank 3
+l: 93 Attack Bridge
+l: 96 Building R
+l: 97 Building G
+l: 98 Building B
+l: 99 Top Spinner R
+l: 100 Top Spinner G
+l: 101 Top Spinner B
+l: 102 Powerline Left
+l: 103 Lite Destruction Jackpot
+l: 104 Powerline Center
+l: 105 Tank 4
+l: 106 Tesla Strike
+l: 107 Building Fire Left 1R
+l: 108 Building Fire Left 1G
+l: 109 Building Fire Left 2R
+l: 110 Building Fire Left 2G
+l: 111 Building Fire Left 3R
+l: 112 Building Fire Left 3G
+l: 113 Building Fire Right 1R
+l: 114 Building Fire Right 1G
+l: 115 Building Fire Right 2R
+l: 116 Building Fire Right 2G
+l: 117 Building Fire Right 3R
+l: 118 Building Fire Right 3G
+l: 121 Heat Ray L1
+l: 122 Heat Ray L2
+l: 123 Heat Ray L3
+l: 124 Heat Ray
+l: 127 Right Ramp R
+l: 128 Right Ramp G
+l: 129 Right Ramp B
+l: 130 Tank 5
+l: 131 Powerline Right
+l: 134 Big Loop R
+l: 135 Big Loop G
+l: 136 Big Loop B
+l: 137 Destruction Jackpot
+l: 138 Tail Whip
+l: 141 Left BB-Bash Building
+l: 142 Left BB-Lite Battle
+l: 143 Left BB-Bridge Out
+l: 144 Center BB-Lock 1
+l: 145 Center BB-Lock 2
+l: 146 Center BB-Multiball Ready
+l: 147 Right BB-Bash Building
+l: 148 Right BB-Lite Battle
+l: 149 Right BB-Bridge Out
+l: 150 Scoop BB-Battle
+l: 151 Scoop BB-Godzilla Pwr Up
+l: 152 Scoop BB-Summon Ally
+l: 160 Coin Door GI
+l: 161 Lower Playfield GI-RED(x4)
+l: 162 Lower Playfield GI-WHT(x9)
+l: 163 Upper Playfield GI-RED(x9)
+l: 164 Upper Playfield GI-WHT(x12)
+l: 170 Maser Fire Flash
+l: 171 Maser Flash
+l: 172 Building Spot
+l: 173 Scoop BB Mecha Spot
+l: 174 Godzilla Spot
+l: 175 Globe Flash
+l: 176 Top Spinner Flash
+l: 178 Backpanel Left Flash
+l: 179 Mothra Flash
+l: 180 Backpanel Right Flash
+l: 181 Backpanel L Cent Flash
+l: 182 Backpanel R Cent Flash
+c: 1 Trough
+c: 2 Auto Plunger
+c: 3 Left Flipper
+c: 4 Right Flipper
+c: 5 Left Slingshot
+c: 6 Right Slingshot
+c: 7 Shaker Motor
+c: 8 Up Left Flip
+c: 9 Pop Bumper
+c: 10 Right Scoop
+c: 12 Shield Motor
+c: 13 Bridge
+c: 16 Godzilla Magnet
+c: 17 Mechagodzilla Magnet
+c: 18 VUK
+c: 33 Coin Meter
+c: 34 Ticket Meter
+c: 35 Ticket Dispenser

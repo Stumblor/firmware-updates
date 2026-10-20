@@ -1,0 +1,202 @@
+s: 1 Left Outlane
+s: 2 Left Return Lane
+s: 5 Right Return Lane
+s: 6 Right Outlane
+s: 7 Left Slingshot
+s: 8 Right Slingshot
+s: 9 Left Flipper Button
+s: 10 Right Flipper Button
+s: 11 Left Flipper EOS
+s: 12 Right Flipper EOS
+s: 20 Trough 6
+s: 21 Trough 5
+s: 22 Trough 4
+s: 23 Trough 3
+s: 24 Trough 2
+s: 25 Trough 1
+s: 26 Trough Jam
+s: 27 Shooter Lane
+s: 28 Up/Down Ramp Rollover
+s: 30 (D)EAD Drop Target
+s: 31 D(E)AD Drop Target
+s: 32 DE(A)D Drop Target
+s: 33 DEA(D) Drop Target
+s: 34 (P)OOL Drop Target
+s: 35 P(O)OL Drop Target
+s: 36 PO(O)L Drop Target
+s: 37 POO(L) Drop Target
+s: 39 Dazzler Spinner
+s: 40 Left Orbit
+s: 42 Left Ramp Opto
+s: 43 Lower Inside Loop
+s: 44 Hell House Eject
+s: 45 Top Left Ramp Opto
+s: 46 Wolverine Spinner
+s: 48 Lil' Deadpool Drop Target Left
+s: 49 Lil' Deadpool Drop Target Center
+s: 50 Lil' Deadpool Drop Target Right
+s: 52 Super Jackpot Target
+s: 53 Lil' Deadpool Target
+s: 54 Lil' Deadpool Lock Opto
+s: 55 Right Katana Lane Opto
+s: 57 Left Pop Bumper
+s: 58 Right Pop Bumper
+s: 59 Bottom Pop Bumper
+s: 61 Lock 1
+s: 62 Lock 2
+s: 63 Lock 3
+s: 64 Lock 4
+s: 66 Top Target
+s: 67 Top Lane Left
+s: 68 Top Lane Left Center
+s: 69 Top Lane Right Center
+s: 70 Top Lane Right
+s: 71 Right Orbit
+s: 80 Lockdown Button
+s: 83 Start Button
+s: 84 Tournament Start Button
+s: 86 Left Coin
+s: 87 Right Coin
+s: 88 Center Coin
+s: 89 Fourth Coin
+s: 90 Fifth Coin
+s: 91 Tilt Pendulum
+s: 92 Sixth Coin
+s: 93 Ticket Notch
+s: 94 Slam Tilt
+l: 1 Coin Enable
+l: 2 Start Button
+l: 3 Tournament Start
+l: 4 Lockdown Button-R
+l: 5 Lockdown Button-G
+l: 6 Lockdown Button-B
+l: 11 Left Outlane
+l: 12 Left Inlane
+l: 13 Right Inlane
+l: 14 Right Outlane
+l: 15 Regenerate
+l: 18 Juggernaut
+l: 19 Mystique
+l: 20 Sabretooth
+l: 21 T-Rex
+l: 22 Megalodon
+l: 23 3X
+l: 24 5X
+l: 25 4X
+l: 26 2X
+l: 27 Shoot Again
+l: 30 (D)EAD
+l: 31 D(E)AD
+l: 32 DE(A)D
+l: 33 DEA(D)
+l: 35 (P)OOL
+l: 36 P(O)OL
+l: 37 PO(O)L
+l: 38 POO(L)
+l: 40 Sauron
+l: 41 Mr Sinister
+l: 43 Dazzler Team Up
+l: 44 Disco
+l: 45 Left Orbit Weapon
+l: 46 Left Orbit Arrow-R
+l: 47 Left Orbit Arrow-G
+l: 48 Left Orbit Arrow-B
+l: 51 Left Katana 1
+l: 52 Left Katana 2
+l: 53 Left Katana 3
+l: 54 Left Ramp Weapon
+l: 55 Left Ramp Arrow-R
+l: 56 Left Ramp Arrow-G
+l: 57 Left Ramp Arrow-B
+l: 59 Special
+l: 60 Colossus Team Up
+l: 61 Lower Inside Loop Weapon
+l: 62 Lower Inside Loop Arrow-R
+l: 63 Lower Inside Loop Arrow-G
+l: 64 Lower Inside Loop Arrow-B
+l: 66 Quest
+l: 67 Mystery
+l: 68 Extra Ball
+l: 69 Weapon Jackpot
+l: 70 Battle
+l: 73 Left Eye
+l: 74 Right Eye
+l: 77 3-Bank Drop Target Left
+l: 78 3-Bank Drop Target Center
+l: 79 3-Bank Drop Target Right
+l: 80 Colossal Jackpot
+l: 81 Lil' Deadpool Flood-R
+l: 82 Lil' Deadpool Flood-G
+l: 83 Lil' Deadpool Flood-B
+l: 86 Right Katana 1
+l: 87 Right Katana 2
+l: 88 Right Katana 3
+l: 89 Right Ramp Weapon
+l: 90 Right Ramp Arrow-R
+l: 91 Right Ramp Arrow-G
+l: 92 Right Ramp Arrow-B
+l: 93 Lock
+l: 96 Domino Team Up
+l: 97 Right Orbit Weapon
+l: 98 Right Orbit Arrow-R
+l: 99 Right Orbit Arrow-G
+l: 100 Right Orbit Arrow-B
+l: 103 Wolverine Team Up
+l: 104 Center Loop Weapon
+l: 105 Center Loop Arrow-R
+l: 106 Center Loop Arrow-G
+l: 107 Center Loop Arrow-B
+l: 115 Top Lane Left
+l: 116 Top Lane Left Center
+l: 117 Top Lane Right Center
+l: 118 Top Lane Right
+l: 121 Katana Handle 1
+l: 122 Katana Handle 2
+l: 123 Katana Handle 3
+l: 124 Katana Handle 4
+l: 125 Katana Handle 5
+l: 126 Katana Handle 6
+l: 127 Katana Handle 7
+l: 150 Coin Door GI
+l: 151 Bottom GI
+l: 152 Mid Left GI
+l: 153 Mid Right GI
+l: 154 Upper Left GI
+l: 155 Upper Right GI
+l: 156 Backpanel GI
+l: 160 Dazzler Spinner Flash
+l: 161 Wolverine Spinner Flash
+l: 162 Truck Flash
+l: 163 Pop Bumper Flash
+l: 164 Disco Ball Flash (x2)
+l: 165 T. Rex Backpanel Flash
+l: 166 Juggernaut Backpanel Flash
+l: 167 Mystique Backpanel Flash
+l: 168 Sabretooth Backpanel Flash
+l: 169 Megalodon Backpanel Flash
+l: 170 Eject Flash
+l: 171 Bottom Pop Bumper
+l: 172 Left Pop Bumper
+l: 173 Right Pop Bumper
+c: 1 Trough
+c: 2 Auto Plunger
+c: 3 Left Flipper
+c: 4 Right Flipper
+c: 5 Left Slingshot
+c: 6 Right Slingshot
+c: 7 Shaker Motor
+c: 12 Left 4 Bank Drop Reset
+c: 13 Up/Down Ramp-Hold
+c: 14 Right 4 Bank Drop Reset
+c: 15 Lil' Deadpool 3 Bank Drop Trip
+c: 16 Lil' Deadpool 3 Bank Drop Reset
+c: 18 Hell House Eject
+c: 19 Left Pop Bumper
+c: 20 Right Pop Bumper
+c: 21 Bottom Pop Bumper
+c: 23 Lock Post
+c: 24 Left/Right Control Gates
+c: 25 Up/Down Ramp
+c: 33 Coin Meter
+c: 34 Ticket Meter
+c: 35 Ticket Dispenser

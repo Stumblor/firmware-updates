@@ -1,0 +1,582 @@
+s: 1 Left Outlane
+s: 2 Left Return Lane
+s: 5 Right Return Lane
+s: 6 Right Outlane
+s: 7 Left Slingshot
+s: 8 Right Slingshot
+s: 9 Left Flipper Button
+s: 10 Right Flipper Button
+s: 11 Left Flipper EOS
+s: 12 Right Flipper EOS
+s: 15 Trough 6
+s: 16 Trough 5
+s: 17 Trough 4
+s: 18 Trough 3
+s: 19 Trough 2
+s: 20 Trough 1
+s: 21 Trough Jam
+s: 22 Shooter Lane
+s: 24 Skill Shot 1
+s: 25 Skill Shot 2
+s: 27 Left Eject
+s: 28 Left 2 Bank Tgt Top
+s: 29 Left 2 Bank Tgt Bot
+s: 31 Right VUK Opto
+s: 32 Crate
+s: 33 Mid Right Tgt Top
+s: 34 Mid Right Tgt Bot
+s: 35 Left Ramp Left Tgt
+s: 36 Left Ramp Right Tgt
+s: 37 Left Ramp Exit Opto
+s: 38 Left Spinner Opto
+s: 40 Car Front Opto
+s: 41 Car Hold Opto
+s: 42 Car Hit Opto
+s: 43 Captive Ball Tgt
+s: 44 Car 1
+s: 45 Car 2
+s: 46 Center Ramp Exit Opto
+s: 48 Right Orbit
+s: 49 Right Ramp Exit Opto
+s: 50 Right Ramp Tgt
+s: 52 Pop Bumper
+s: 53 Top Sling
+s: 54 Lock 1
+s: 55 Lock 2
+s: 56 Lock 3
+s: 59 Left Orbit
+s: 60 Pop Enter
+s: 61 Pop Exit Opto
+s: 62 Pop Target 1
+s: 63 Pop Target 2
+s: 64 Pop Target 3
+s: 65 Pop Target 4
+s: 66 Pop Target 5
+s: 67 Pop Target 6
+s: 68 Pop Target 7
+s: 69 Drop Target Opto
+s: 90 Lockdown Button
+s: 93 Start Button
+s: 94 Tournament Start Button
+s: 96 Left Coin
+s: 97 Right Coin
+s: 98 Center Coin
+s: 99 Fourth Coin
+s: 100 Fifth Coin
+s: 101 Tilt Pendulum
+s: 102 Sixth Coin
+s: 103 Ticket Notch
+s: 104 Slam Tilt
+l: 1 Coin Enable
+l: 2 Start Button
+l: 3 Tournament Start
+l: 4 Lockdown Button-R
+l: 5 Lockdown Button-G
+l: 6 Lockdown Button-B
+l: 11 Left Outlane-Top
+l: 12 Left Outlane-Bot
+l: 13 Left Return Lane-Top
+l: 14 Left Return Lane-Bot
+l: 15 Left Ball Save
+l: 16 Shoot Again
+l: 17 Right Return Lane-Top
+l: 18 Right Return Lane-Bot
+l: 19 Right Outlane-Top
+l: 20 Right Outlane-Bot
+l: 21 Right Ball Save
+l: 24 Center Arrow 1
+l: 25 Center Arrow 2
+l: 26 Center Arrow 3
+l: 27 Center Arrow 4
+l: 28 Center Arrow 5
+l: 29 Faction 1
+l: 30 Faction 2
+l: 31 Faction 3
+l: 32 Faction 4
+l: 33 Faction 5
+l: 34 Faction 6
+l: 35 Faction 7
+l: 38 Left 2 Bank Tgt Top
+l: 39 Left 2 Bank Tgt Bot
+l: 40 Administrator
+l: 41 Left Eject-R
+l: 42 Left Eject-G
+l: 43 Left Eject-B
+l: 44 Left Eject 1
+l: 45 Left Eject 2
+l: 46 Left Eject 3
+l: 47 Extra Ball
+l: 50 Crate Top
+l: 51 Crate Mid
+l: 52 Crate Bot
+l: 56 Left Orbit Top Arrow
+l: 57 Left Orbit-R
+l: 58 Left Orbit-G
+l: 59 Left Orbit-B
+l: 60 Left Orbit 1
+l: 61 Left Orbit 2
+l: 62 Left Orbit 3
+l: 65 Left Ramp Left Tgt
+l: 66 Left Ramp Diamond
+l: 67 Left Ramp Right Tgt
+l: 68 Left Ramp-R
+l: 69 Left Ramp-G
+l: 70 Left Ramp-B
+l: 71 Left Ramp 1
+l: 72 Left Ramp 2
+l: 73 Left Ramp 3
+l: 76 Drop Tgt Entrance
+l: 77 Drop Target-R
+l: 78 Drop Target-G
+l: 79 Drop Target-B
+l: 80 Drop Target 1
+l: 81 Drop Target 2
+l: 82 Drop Target 3
+l: 85 Center Ramp Diamond
+l: 86 Center Ramp-R
+l: 87 Center Ramp-G
+l: 88 Center Ramp-B
+l: 89 Center Ramp 1
+l: 90 Center Ramp 2
+l: 91 Center Ramp 3
+l: 94 Car 1
+l: 95 Car 2
+l: 96 Car 3
+l: 97 Car 4
+l: 98 (W)INSTON
+l: 99 W(I)NSTON
+l: 100 WI(N)STON
+l: 101 WIN(S)TON
+l: 102 WINS(T)ON
+l: 103 WINST(O)N
+l: 104 WINSTO(N)
+l: 107 Right Orbit-R
+l: 108 Right Orbit-G
+l: 109 Right Orbit-B
+l: 110 Right Orbit 1
+l: 111 Right Orbit 2
+l: 112 Right Orbit 3
+l: 115 Right Ramp Left Tgt
+l: 116 Right Ramp Diamond
+l: 117 Right Ramp-R
+l: 118 Right Ramp-G
+l: 119 Right Ramp-B
+l: 120 Right Ramp 1
+l: 121 Right Ramp 2
+l: 122 Right Ramp 3
+l: 125 Marker Left
+l: 126 Marker Right
+l: 130 Dance Floor 1
+l: 131 Dance Floor 2
+l: 132 Dance Floor 3
+l: 133 Dance Floor 4
+l: 134 Dance Floor Large
+l: 135 Pop Bumper-R
+l: 136 Pop Bumper-G
+l: 137 Pop Bumper-B
+l: 139 Lock 1
+l: 140 Lock 2
+l: 141 Lock 3
+l: 150 Coin Door GI
+l: 151 Bottom GI (x17)
+l: 152 Top Left GI (x14)
+l: 153 Top Right GI (x9)
+l: 155 Top GI-RED (x9)
+l: 156 Top GI-GRN (x9)
+l: 157 Top GI-BLU (x9)
+l: 160 Lower Left Spotlight
+l: 161 Left Sling Flash
+l: 162 Right Sling Flash
+l: 164 Left Eject Flash
+l: 165 Spinner Flash
+l: 166 Center Circle 1 Flash
+l: 167 Center Circle 2 Flash
+l: 168 Center Circle 3 Flash
+l: 169 Crate Flash (2x)
+l: 170 Right VUK Flash
+l: 171 Job Start Flash
+l: 172 Dancefloor Flash Left
+l: 173 Dancefloor Flash Right
+l: 175 Backpanel Flash
+l: 176 Building Spotlight
+l: 177 Car Spotlight
+l: 178 Continental Flash WHT
+l: 179 Continental Flash RED
+l: 181 Coins Flash
+l: 220 Speaker 1-R
+l: 221 Speaker 1-G
+l: 222 Speaker 1-B
+l: 223 Speaker 2-R
+l: 224 Speaker 2-G
+l: 225 Speaker 2-B
+l: 226 Speaker 3-R
+l: 227 Speaker 3-G
+l: 228 Speaker 3-B
+l: 229 Speaker 4-R
+l: 230 Speaker 4-G
+l: 231 Speaker 4-B
+l: 232 Speaker 5-R
+l: 233 Speaker 5-G
+l: 234 Speaker 5-B
+l: 235 Speaker 6-R
+l: 236 Speaker 6-G
+l: 237 Speaker 6-B
+l: 238 Speaker 7-R
+l: 239 Speaker 7-G
+l: 240 Speaker 7-B
+l: 241 Speaker 8-R
+l: 242 Speaker 8-G
+l: 243 Speaker 8-B
+l: 244 Speaker 9-R
+l: 245 Speaker 9-G
+l: 246 Speaker 9-B
+l: 247 Speaker 10-R
+l: 248 Speaker 10-G
+l: 249 Speaker 10-B
+l: 250 Speaker 11-R
+l: 251 Speaker 11-G
+l: 252 Speaker 11-B
+l: 253 Speaker 12-R
+l: 254 Speaker 12-G
+l: 255 Speaker 12-B
+l: 256 Speaker 13-R
+l: 257 Speaker 13-G
+l: 258 Speaker 13-B
+l: 259 Speaker 14-R
+l: 260 Speaker 14-G
+l: 261 Speaker 14-B
+l: 262 Speaker 15-R
+l: 263 Speaker 15-G
+l: 264 Speaker 15-B
+l: 265 Speaker 16-R
+l: 266 Speaker 16-G
+l: 267 Speaker 16-B
+l: 268 Speaker 17-R
+l: 269 Speaker 17-G
+l: 270 Speaker 17-B
+l: 271 Speaker 18-R
+l: 272 Speaker 18-G
+l: 273 Speaker 18-B
+l: 274 Speaker 19-R
+l: 275 Speaker 19-G
+l: 276 Speaker 19-B
+l: 277 Speaker 20-R
+l: 278 Speaker 20-G
+l: 279 Speaker 20-B
+l: 280 Speaker 21-R
+l: 281 Speaker 21-G
+l: 282 Speaker 21-B
+l: 283 Speaker 22-R
+l: 284 Speaker 22-G
+l: 285 Speaker 22-B
+l: 286 Speaker 23-R
+l: 287 Speaker 23-G
+l: 288 Speaker 23-B
+l: 300 Expressive Lighting L 1-R
+l: 301 Expressive Lighting L 1-G
+l: 302 Expressive Lighting L 1-B
+l: 303 Expressive Lighting L 2-R
+l: 304 Expressive Lighting L 2-G
+l: 305 Expressive Lighting L 2-B
+l: 306 Expressive Lighting L 3-R
+l: 307 Expressive Lighting L 3-G
+l: 308 Expressive Lighting L 3-B
+l: 309 Expressive Lighting L 4-R
+l: 310 Expressive Lighting L 4-G
+l: 311 Expressive Lighting L 4-B
+l: 312 Expressive Lighting L 5-R
+l: 313 Expressive Lighting L 5-G
+l: 314 Expressive Lighting L 5-B
+l: 315 Expressive Lighting L 6-R
+l: 316 Expressive Lighting L 6-G
+l: 317 Expressive Lighting L 6-B
+l: 318 Expressive Lighting L 7-R
+l: 319 Expressive Lighting L 7-G
+l: 320 Expressive Lighting L 7-B
+l: 321 Expressive Lighting L 8-R
+l: 322 Expressive Lighting L 8-G
+l: 323 Expressive Lighting L 8-B
+l: 324 Expressive Lighting L 9-R
+l: 325 Expressive Lighting L 9-G
+l: 326 Expressive Lighting L 9-B
+l: 327 Expressive Lighting L 10-R
+l: 328 Expressive Lighting L 10-G
+l: 329 Expressive Lighting L 10-B
+l: 330 Expressive Lighting L 11-R
+l: 331 Expressive Lighting L 11-G
+l: 332 Expressive Lighting L 11-B
+l: 333 Expressive Lighting L 12-R
+l: 334 Expressive Lighting L 12-G
+l: 335 Expressive Lighting L 12-B
+l: 336 Expressive Lighting L 13-R
+l: 337 Expressive Lighting L 13-G
+l: 338 Expressive Lighting L 13-B
+l: 339 Expressive Lighting L 14-R
+l: 340 Expressive Lighting L 14-G
+l: 341 Expressive Lighting L 14-B
+l: 342 Expressive Lighting L 15-R
+l: 343 Expressive Lighting L 15-G
+l: 344 Expressive Lighting L 15-B
+l: 345 Expressive Lighting L 16-R
+l: 346 Expressive Lighting L 16-G
+l: 347 Expressive Lighting L 16-B
+l: 348 Expressive Lighting L 17-R
+l: 349 Expressive Lighting L 17-G
+l: 350 Expressive Lighting L 17-B
+l: 351 Expressive Lighting L 18-R
+l: 352 Expressive Lighting L 18-G
+l: 353 Expressive Lighting L 18-B
+l: 354 Expressive Lighting L 19-R
+l: 355 Expressive Lighting L 19-G
+l: 356 Expressive Lighting L 19-B
+l: 357 Expressive Lighting L 20-R
+l: 358 Expressive Lighting L 20-G
+l: 359 Expressive Lighting L 20-B
+l: 360 Expressive Lighting L 21-R
+l: 361 Expressive Lighting L 21-G
+l: 362 Expressive Lighting L 21-B
+l: 363 Expressive Lighting L 22-R
+l: 364 Expressive Lighting L 22-G
+l: 365 Expressive Lighting L 22-B
+l: 366 Expressive Lighting L 23-R
+l: 367 Expressive Lighting L 23-G
+l: 368 Expressive Lighting L 23-B
+l: 369 Expressive Lighting L 24-R
+l: 370 Expressive Lighting L 24-G
+l: 371 Expressive Lighting L 24-B
+l: 372 Expressive Lighting L 25-R
+l: 373 Expressive Lighting L 25-G
+l: 374 Expressive Lighting L 25-B
+l: 375 Expressive Lighting L 26-R
+l: 376 Expressive Lighting L 26-G
+l: 377 Expressive Lighting L 26-B
+l: 378 Expressive Lighting L 27-R
+l: 379 Expressive Lighting L 27-G
+l: 380 Expressive Lighting L 27-B
+l: 381 Expressive Lighting L 28-R
+l: 382 Expressive Lighting L 28-G
+l: 383 Expressive Lighting L 28-B
+l: 384 Expressive Lighting L 29-R
+l: 385 Expressive Lighting L 29-G
+l: 386 Expressive Lighting L 29-B
+l: 387 Expressive Lighting L 30-R
+l: 388 Expressive Lighting L 30-G
+l: 389 Expressive Lighting L 30-B
+l: 390 Expressive Lighting L 31-R
+l: 391 Expressive Lighting L 31-G
+l: 392 Expressive Lighting L 31-B
+l: 393 Expressive Lighting L 32-R
+l: 394 Expressive Lighting L 32-G
+l: 395 Expressive Lighting L 32-B
+l: 396 Expressive Lighting L 33-R
+l: 397 Expressive Lighting L 33-G
+l: 398 Expressive Lighting L 33-B
+l: 399 Expressive Lighting L 34-R
+l: 400 Expressive Lighting L 34-G
+l: 401 Expressive Lighting L 34-B
+l: 402 Expressive Lighting L 35-R
+l: 403 Expressive Lighting L 35-G
+l: 404 Expressive Lighting L 35-B
+l: 405 Expressive Lighting L 36-R
+l: 406 Expressive Lighting L 36-G
+l: 407 Expressive Lighting L 36-B
+l: 408 Expressive Lighting L 37-R
+l: 409 Expressive Lighting L 37-G
+l: 410 Expressive Lighting L 37-B
+l: 411 Expressive Lighting L 38-R
+l: 412 Expressive Lighting L 38-G
+l: 413 Expressive Lighting L 38-B
+l: 414 Expressive Lighting L 39-R
+l: 415 Expressive Lighting L 39-G
+l: 416 Expressive Lighting L 39-B
+l: 417 Expressive Lighting L 40-R
+l: 418 Expressive Lighting L 40-G
+l: 419 Expressive Lighting L 40-B
+l: 420 Expressive Lighting L 41-R
+l: 421 Expressive Lighting L 41-G
+l: 422 Expressive Lighting L 41-B
+l: 423 Expressive Lighting L 42-R
+l: 424 Expressive Lighting L 42-G
+l: 425 Expressive Lighting L 42-B
+l: 426 Expressive Lighting L 43-R
+l: 427 Expressive Lighting L 43-G
+l: 428 Expressive Lighting L 43-B
+l: 429 Expressive Lighting L 44-R
+l: 430 Expressive Lighting L 44-G
+l: 431 Expressive Lighting L 44-B
+l: 432 Expressive Lighting L 45-R
+l: 433 Expressive Lighting L 45-G
+l: 434 Expressive Lighting L 45-B
+l: 435 Expressive Lighting L 46-R
+l: 436 Expressive Lighting L 46-G
+l: 437 Expressive Lighting L 46-B
+l: 438 Expressive Lighting L 47-R
+l: 439 Expressive Lighting L 47-G
+l: 440 Expressive Lighting L 47-B
+l: 441 Expressive Lighting L 48-R
+l: 442 Expressive Lighting L 48-G
+l: 443 Expressive Lighting L 48-B
+l: 444 Expressive Lighting R 49-R
+l: 445 Expressive Lighting R 49-G
+l: 446 Expressive Lighting R 49-B
+l: 447 Expressive Lighting R 50-R
+l: 448 Expressive Lighting R 50-G
+l: 449 Expressive Lighting R 50-B
+l: 450 Expressive Lighting R 51-R
+l: 451 Expressive Lighting R 51-G
+l: 452 Expressive Lighting R 51-B
+l: 453 Expressive Lighting R 52-R
+l: 454 Expressive Lighting R 52-G
+l: 455 Expressive Lighting R 52-B
+l: 456 Expressive Lighting R 53-R
+l: 457 Expressive Lighting R 53-G
+l: 458 Expressive Lighting R 53-B
+l: 459 Expressive Lighting R 54-R
+l: 460 Expressive Lighting R 54-G
+l: 461 Expressive Lighting R 54-B
+l: 462 Expressive Lighting R 55-R
+l: 463 Expressive Lighting R 55-G
+l: 464 Expressive Lighting R 55-B
+l: 465 Expressive Lighting R 56-R
+l: 466 Expressive Lighting R 56-G
+l: 467 Expressive Lighting R 56-B
+l: 468 Expressive Lighting R 57-R
+l: 469 Expressive Lighting R 57-G
+l: 470 Expressive Lighting R 57-B
+l: 471 Expressive Lighting R 58-R
+l: 472 Expressive Lighting R 58-G
+l: 473 Expressive Lighting R 58-B
+l: 474 Expressive Lighting R 59-R
+l: 475 Expressive Lighting R 59-G
+l: 476 Expressive Lighting R 59-B
+l: 477 Expressive Lighting R 60-R
+l: 478 Expressive Lighting R 60-G
+l: 479 Expressive Lighting R 60-B
+l: 480 Expressive Lighting R 61-R
+l: 481 Expressive Lighting R 61-G
+l: 482 Expressive Lighting R 61-B
+l: 483 Expressive Lighting R 62-R
+l: 484 Expressive Lighting R 62-G
+l: 485 Expressive Lighting R 62-B
+l: 486 Expressive Lighting R 63-R
+l: 487 Expressive Lighting R 63-G
+l: 488 Expressive Lighting R 63-B
+l: 489 Expressive Lighting R 64-R
+l: 490 Expressive Lighting R 64-G
+l: 491 Expressive Lighting R 64-B
+l: 492 Expressive Lighting R 65-R
+l: 493 Expressive Lighting R 65-G
+l: 494 Expressive Lighting R 65-B
+l: 495 Expressive Lighting R 66-R
+l: 496 Expressive Lighting R 66-G
+l: 497 Expressive Lighting R 66-B
+l: 498 Expressive Lighting R 67-R
+l: 499 Expressive Lighting R 67-G
+l: 500 Expressive Lighting R 67-B
+l: 501 Expressive Lighting R 68-R
+l: 502 Expressive Lighting R 68-G
+l: 503 Expressive Lighting R 68-B
+l: 504 Expressive Lighting R 69-R
+l: 505 Expressive Lighting R 69-G
+l: 506 Expressive Lighting R 69-B
+l: 507 Expressive Lighting R 70-R
+l: 508 Expressive Lighting R 70-G
+l: 509 Expressive Lighting R 70-B
+l: 510 Expressive Lighting R 71-R
+l: 511 Expressive Lighting R 71-G
+l: 512 Expressive Lighting R 71-B
+l: 513 Expressive Lighting R 72-R
+l: 514 Expressive Lighting R 72-G
+l: 515 Expressive Lighting R 72-B
+l: 516 Expressive Lighting R 73-R
+l: 517 Expressive Lighting R 73-G
+l: 518 Expressive Lighting R 73-B
+l: 519 Expressive Lighting R 74-R
+l: 520 Expressive Lighting R 74-G
+l: 521 Expressive Lighting R 74-B
+l: 522 Expressive Lighting R 75-R
+l: 523 Expressive Lighting R 75-G
+l: 524 Expressive Lighting R 75-B
+l: 525 Expressive Lighting R 76-R
+l: 526 Expressive Lighting R 76-G
+l: 527 Expressive Lighting R 76-B
+l: 528 Expressive Lighting R 77-R
+l: 529 Expressive Lighting R 77-G
+l: 530 Expressive Lighting R 77-B
+l: 531 Expressive Lighting R 78-R
+l: 532 Expressive Lighting R 78-G
+l: 533 Expressive Lighting R 78-B
+l: 534 Expressive Lighting R 79-R
+l: 535 Expressive Lighting R 79-G
+l: 536 Expressive Lighting R 79-B
+l: 537 Expressive Lighting R 80-R
+l: 538 Expressive Lighting R 80-G
+l: 539 Expressive Lighting R 80-B
+l: 540 Expressive Lighting R 81-R
+l: 541 Expressive Lighting R 81-G
+l: 542 Expressive Lighting R 81-B
+l: 543 Expressive Lighting R 82-R
+l: 544 Expressive Lighting R 82-G
+l: 545 Expressive Lighting R 82-B
+l: 546 Expressive Lighting R 83-R
+l: 547 Expressive Lighting R 83-G
+l: 548 Expressive Lighting R 83-B
+l: 549 Expressive Lighting R 84-R
+l: 550 Expressive Lighting R 84-G
+l: 551 Expressive Lighting R 84-B
+l: 552 Expressive Lighting R 85-R
+l: 553 Expressive Lighting R 85-G
+l: 554 Expressive Lighting R 85-B
+l: 555 Expressive Lighting R 86-R
+l: 556 Expressive Lighting R 86-G
+l: 557 Expressive Lighting R 86-B
+l: 558 Expressive Lighting R 87-R
+l: 559 Expressive Lighting R 87-G
+l: 560 Expressive Lighting R 87-B
+l: 561 Expressive Lighting R 88-R
+l: 562 Expressive Lighting R 88-G
+l: 563 Expressive Lighting R 88-B
+l: 564 Expressive Lighting R 89-R
+l: 565 Expressive Lighting R 89-G
+l: 566 Expressive Lighting R 89-B
+l: 567 Expressive Lighting R 90-R
+l: 568 Expressive Lighting R 90-G
+l: 569 Expressive Lighting R 90-B
+l: 570 Expressive Lighting R 91-R
+l: 571 Expressive Lighting R 91-G
+l: 572 Expressive Lighting R 91-B
+l: 573 Expressive Lighting R 92-R
+l: 574 Expressive Lighting R 92-G
+l: 575 Expressive Lighting R 92-B
+l: 576 Expressive Lighting R 93-R
+l: 577 Expressive Lighting R 93-G
+l: 578 Expressive Lighting R 93-B
+l: 579 Expressive Lighting R 94-R
+l: 580 Expressive Lighting R 94-G
+l: 581 Expressive Lighting R 94-B
+l: 582 Expressive Lighting R 95-R
+l: 583 Expressive Lighting R 95-G
+l: 584 Expressive Lighting R 95-B
+l: 585 Expressive Lighting R 96-R
+l: 586 Expressive Lighting R 96-G
+l: 587 Expressive Lighting R 96-B
+c: 1 Trough
+c: 2 Auto Plunger
+c: 3 Left Flipper
+c: 4 Right Flipper
+c: 5 Left Slingshot
+c: 6 Right Slingshot
+c: 7 Shaker Motor
+c: 8 Crate
+c: 9 Marker
+c: 10 Left Eject
+c: 12 Right VUK
+c: 14 Drop Reset
+c: 15 Drop Trip
+c: 16 Top Sling
+c: 17 Pop Bumper
+c: 19 Diverter
+c: 20 Lock Post
+c: 33 Coin Meter
+c: 34 Ticket Meter
+c: 35 Ticket Dispenser

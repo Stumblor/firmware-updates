@@ -1,0 +1,221 @@
+s: 1 Left Outlane
+s: 2 Left Return Lane
+s: 5 Right Return Lane
+s: 6 Right Outlane
+s: 7 Left Slingshot
+s: 8 Right Slingshot
+s: 9 Left Flipper Button
+s: 10 Right Flipper Button
+s: 11 Left Flipper EOS
+s: 12 Right Flipper EOS
+s: 13 UP Left Flipper Button
+s: 15 Trough 6
+s: 16 Trough 5
+s: 17 Trough 4
+s: 18 Trough 3
+s: 19 Trough 2
+s: 20 Trough 1
+s: 21 Trough Jam
+s: 22 Shooter Lane
+s: 23 UP Left Flipper EOS
+s: 25 Left Eject
+s: 27 Left Spinner Opto
+s: 30 Right VUK Opto
+s: 32 Right Ramp Enter Opto
+s: 33 Side Ramp Enter Opto
+s: 34 Right Ramp Exit Opto
+s: 35 Side Ramp Target
+s: 38 Left Orbit
+s: 39 Right Orbit
+s: 40 Side Loop
+s: 42 Center 3 Bank Drop Left Opto
+s: 43 Center 3 Bank Drop Center Opto
+s: 44 Center 3 Bank Drop Right Opto
+s: 45 Left Lane
+s: 46 Center Lane
+s: 48 Rocket Target 1
+s: 49 Rocket Target 2
+s: 50 Rocket Target 3
+s: 51 Rocket Target 4
+s: 52 Rocket Target 5
+s: 53 Rocket Target 6
+s: 54 Rocket Target 7
+s: 55 Rocket Opto 1
+s: 56 Rocket Opto 2
+s: 57 Rocket VUK Opto
+s: 58 Rocket Lock 1 Opto
+s: 59 Rocket Lock 2 Opto
+s: 60 Rocket Lock 3 Opto
+s: 61 Center Lane Diverter EOS
+s: 65 Top Lane Left
+s: 66 Top Lane Center
+s: 67 Top Lane Right
+s: 69 Left Pop Bumper
+s: 70 Right Pop Bumper
+s: 71 Pop Bumper Exit
+s: 73 Tank Hood Target
+s: 74 Tank Target
+s: 77 Back Ramp Opto
+s: 80 Jetpack Home Opto
+s: 81 Jetpack Encoder Opto 1
+s: 82 Jetpack Encoder Opto 2
+s: 100 Lockdown Button
+s: 103 Start Button
+s: 104 Tournament Start Button
+s: 106 Left Coin
+s: 107 Right Coin
+s: 108 Center Coin
+s: 109 Fourth Coin
+s: 110 Fifth Coin
+s: 111 Tilt Pendulum
+s: 112 Sixth Coin
+s: 113 Ticket Notch
+s: 114 Slam Tilt
+l: 1 Coin Enable
+l: 2 Start Button
+l: 3 Tournament Start
+l: 4 Lockdown Button-RED
+l: 5 Lockdown Button-GRN
+l: 6 Lockdown Button-BLU
+l: 11 Left Outlane
+l: 12 Left Return Lane
+l: 13 Left Ball Save
+l: 14 Right Return Lane
+l: 15 Right Outlane
+l: 16 Right Ball Save
+l: 17 Shoot Again
+l: 20 Left Eject Arrow-RED
+l: 21 Left Eject Arrow-GRN
+l: 22 Left Eject Arrow-BLU
+l: 23 Mystery
+l: 24 Extra Ball
+l: 25 007 Logo
+l: 28 Diamonds Are Forever
+l: 29 Y.O.L.T.
+l: 30 Thunderball
+l: 31 Goldfinger
+l: 32 F.R.W.L.
+l: 33 Dr. No
+l: 34 H.M.S.S.
+l: 37 Right Ramp Arrow-RED
+l: 38 Right Ramp Arrow-GRN
+l: 39 Right Ramp Arrow-BLU
+l: 40 Mr. Henderson
+l: 41 Blofeld
+l: 42 Largo
+l: 43 Goldfinger-Right Ramp
+l: 44 Rosa Klebb
+l: 45 Dr. No-Right Ramp
+l: 48 Right VUK Arrow-RED
+l: 49 Right VUK Arrow-GRN
+l: 50 Right VUK Arrow-BLU
+l: 51 Q Branch-RED
+l: 52 Q Branch-GRN
+l: 53 Q Branch-BLU
+l: 54 DB5 Under
+l: 56 Ramp Target
+l: 57 Knife Shoe
+l: 58 Oddjob Hat
+l: 59 Shark
+l: 60 Bird One
+l: 61 Bath-O-Sub
+l: 62 Gun Barrel
+l: 63 Tarantula
+l: 67 Left Orbit Arrow-RED
+l: 68 Left Orbit Arrow-GRN
+l: 69 Left Orbit Arrow-BLU
+l: 70 Left Orbit-T-Ball 1
+l: 71 Left Orbit-T-Ball 2
+l: 72 Left Orbit-T-Ball 3
+l: 75 Left Lane Arrow-RED
+l: 76 Left Lane Arrow-GRN
+l: 77 Left Lane Arrow-BLU
+l: 80 Center 3 Bank Drop Left
+l: 81 Center 3 Bank Drop Center
+l: 82 Center 3 Bank Drop Right
+l: 85 Rocket 1
+l: 86 Rocket 2
+l: 87 Rocket 3
+l: 88 Rocket 4
+l: 89 Rocket 5
+l: 90 Rocket 6
+l: 93 Center Lane Arrow-RED
+l: 94 Center Lane Arrow-GRN
+l: 95 Center Lane Arrow-BLU
+l: 96 Lock
+l: 99 Tank Hood
+l: 100 Tank
+l: 101 Pop Exit
+l: 105 Side Loop Arrow-RED
+l: 106 Side Loop Arrow-GRN
+l: 107 Side Loop Arrow-BLU
+l: 108 Tiffany Case
+l: 109 Kissy
+l: 110 Domino
+l: 111 Pussy Galore
+l: 112 Tatiana Romanova
+l: 113 Honey Ryder
+l: 116 Side Ramp Arrow-RED
+l: 117 Side Ramp Arrow-GRN
+l: 118 Side Ramp Arrow-BLU
+l: 119 Mr. Wint Mr. Kidd
+l: 120 Mr. Osato
+l: 121 Fiona Volpe
+l: 122 Oddjob
+l: 123 Grant
+l: 124 Prof. Dent
+l: 127 Right Orbit Arrow-RED
+l: 128 Right Orbit Arrow-GRN
+l: 129 Right Orbit Arrow-BLU
+l: 130 Right Orbit-1
+l: 131 Right Orbit-2
+l: 132 Right Orbit-3
+l: 135 Top Lane-Left
+l: 136 Top Lane-Center
+l: 137 Top Lane-Right
+l: 150 Coin Door GI
+l: 151 Lower GI-WHT(x11)
+l: 152 Lower Mid GI-RED(x3)
+l: 154 Upper Mid GI-WHT(x6)
+l: 155 Upper GI-WHT(x8)
+l: 156 Backpanel GI-WHT(x5)
+l: 160 Left Sling Flash
+l: 161 Right Sling Flash
+l: 162 Underwater Flash 1
+l: 163 Underwater Flash 2
+l: 164 Right Ramp Flash
+l: 166 DAF Spinner Flash
+l: 167 Gantry Flash-Top
+l: 168 Left Pop Bumper
+l: 169 Right Pop Bumper
+l: 170 Pop Flash
+l: 173 Backpanel Flash
+l: 174 Backpanel Flash 1
+l: 175 Backpanel Flash 2
+l: 176 Backpanel Flash 3
+l: 177 Backpanel Flash 4
+l: 178 Backpanel Flash 5
+l: 179 Backpanel Flash 6
+l: 180 Backpanel Flash 7
+c: 1 Trough
+c: 2 Auto Plunger
+c: 3 Left Flipper
+c: 4 Right Flipper
+c: 5 Left Slingshot
+c: 6 Right Slingshot
+c: 7 Shaker Motor
+c: 8 Upper Left Flipper
+c: 9 Right Return Up Post
+c: 11 Left Eject
+c: 12 Back Ramp Up Post
+c: 14 Center 3 Bank Drop Target
+c: 15 Center Lane Diverter
+c: 16 Jet Pack Magnet
+c: 17 Rocket VUK
+c: 19 Right VUK
+c: 21 Rocket Lock
+c: 23 Left/Right Pop Bumper
+c: 26 Control Gate
+c: 33 Coin Meter
+c: 34 Ticket Meter
+c: 35 Ticket Dispenser

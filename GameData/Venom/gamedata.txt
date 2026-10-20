@@ -1,0 +1,279 @@
+s: 1 Left Outlane
+s: 2 Left Return Lane
+s: 5 Right Return Lane
+s: 6 Right Outlane
+s: 7 Left Slingshot
+s: 8 Right Slingshot
+s: 9 Left Flipper Button
+s: 10 Right Flipper Button
+s: 11 Left Flipper EOS
+s: 12 Right Flipper EOS
+s: 15 Trough 6
+s: 16 Trough 5
+s: 17 Trough 4
+s: 18 Trough 3
+s: 19 Trough 2
+s: 20 Trough 1
+s: 21 Trough Jam
+s: 22 Shooter Lane
+s: 25 Upper Shooter Lane
+s: 28 Left Target
+s: 32 Left Lock 1 Opto
+s: 33 Left Lock 2 Opto
+s: 34 Left Lock 3 Opto
+s: 39 Right Target
+s: 42 Right Lock 1 Opto
+s: 43 Right Lock 2 Opto
+s: 44 Right Lock 3 Opto
+s: 47 Down 3 Bank-Left
+s: 48 Down 3 Bank-Cener
+s: 49 Down 3 Bank-Right
+s: 51 Left Orbit
+s: 52 Top Post Opto
+s: 53 Top Lane-Left
+s: 54 Top Lane-Right
+s: 55 Right Orbit
+s: 57 Left Pop Bumper
+s: 58 Right Pop Bumper
+s: 59 10 Pt Sw
+s: 60 Left Loop Enter Opto
+s: 62 Bell Tower Target
+s: 63 Left Mini Target
+s: 64 Right Mini Target
+s: 65 180 Scoop Made
+s: 66 R Ramp Made Opto
+s: 68 Left Ramp Made
+s: 70 Center Ramp Made
+s: 72 Carnage Ball Home
+s: 73 Carnage 50% Opto
+s: 74 Carnage 75% Opto
+s: 75 Carnage Away
+s: 76 Scoop Made Opto
+s: 79 VUK Opto
+s: 80 Loop Hole Entrance Opto
+s: 81 Subway Left Opto
+s: 84 Scoop Motor 1
+s: 85 Scoop Motor 2
+s: 87 Scoop Motor 3
+s: 90 Right Loop Entrance
+s: 100 Lockdown Button
+s: 103 Start Button
+s: 104 Tournament Start Button
+s: 106 Left Coin
+s: 107 Right Coin
+s: 108 Center Coin
+s: 109 Fourth Coin
+s: 110 Fifth Coin
+s: 111 Tilt Pendulum
+s: 112 Sixth Coin
+s: 113 Ticket Notch
+s: 114 Slam Tilt
+l: 1 Coin Enable
+l: 2 Start Button
+l: 3 Tournament Start
+l: 4 Lockdown Button-R
+l: 5 Lockdown Button-G
+l: 6 Lockdown Button-B
+l: 11 Left Outlane
+l: 12 Left Return Lane
+l: 13 Right Return Lane
+l: 14 Right Outlane
+l: 15 Shoot Again
+l: 18 Riot-R
+l: 19 Riot-G
+l: 20 Riot-B
+l: 22 Riot 1-R
+l: 23 Riot 1-G
+l: 24 Riot 1-B
+l: 26 Riot 2-R
+l: 27 Riot 2-G
+l: 28 Riot 2-B
+l: 30 Riot 3-R
+l: 31 Riot 3-G
+l: 32 Riot 3-B
+l: 34 Agony-R
+l: 35 Agony-G
+l: 36 Agony-B
+l: 38 Agony 1-R
+l: 39 Agony 1-G
+l: 40 Agony 1-B
+l: 42 Agony 2-R
+l: 43 Agony 2-G
+l: 44 Agony 2-B
+l: 46 Agony 3-R
+l: 47 Agony 3-G
+l: 48 Agony 3-B
+l: 50 Phage-R
+l: 51 Phage-G
+l: 52 Phage-B
+l: 54 Phage 1-R
+l: 55 Phage 1-G
+l: 56 Phage 1-B
+l: 58 Phage 2-R
+l: 59 Phage 2-G
+l: 60 Phage 2-B
+l: 62 Phage 3-R
+l: 63 Phage 3-G
+l: 64 Phage 3-B
+l: 66 Lasher-R
+l: 67 Lasher-G
+l: 68 Lasher-B
+l: 70 Lasher 1-R
+l: 71 Lasher 1-G
+l: 72 Lasher 1-B
+l: 74 Lasher 2-R
+l: 75 Lasher 2-G
+l: 76 Lasher 2-B
+l: 78 Lasher 3-R
+l: 79 Lasher 3-G
+l: 80 Lasher 3-B
+l: 83 Team Up 1
+l: 84 Team Up 2
+l: 85 Team Up 3
+l: 88 Venomized 1
+l: 89 Venomized 2
+l: 90 Venomized 3
+l: 91 Knull-R
+l: 92 Knull-G
+l: 93 Knull-B
+l: 94 Grendel-R
+l: 95 Grendel-G
+l: 96 Grendel-B
+l: 99 1X
+l: 100 2X
+l: 101 4X
+l: 104 Left Target
+l: 105 Right Target
+l: 108 Left Orbit-R
+l: 109 Left Orbit-G
+l: 110 Left Orbit-B
+l: 111 Left Orbit Web
+l: 114 Left Ramp-R
+l: 115 Left Ramp-G
+l: 116 Left Ramp-B
+l: 117 Left Ramp Web
+l: 118 Left Ramp Lock-R
+l: 119 Left Ramp Lock-G
+l: 120 Left Ramp Lock-B
+l: 121 Chamge Host
+l: 124 Carnage 1-R
+l: 125 Carnage 1-G
+l: 126 Carnage 1-B
+l: 127 Carnage 2
+l: 128 Carnage 3
+l: 129 Carnage Inf
+l: 132 Center Ramp-R
+l: 133 Center Ramp-G
+l: 134 Center Ramp-B
+l: 135 Center Ramp Web
+l: 136 Center Ramp Lock-R
+l: 137 Center Ramp Lock-G
+l: 138 Center Ramp Lock-B
+l: 139 Start-R
+l: 140 Start-G
+l: 141 Start-B
+l: 144 Bell Tower-R
+l: 145 Bell Tower-G
+l: 146 Bell Tower-B
+l: 147 Bell Tower INF
+l: 150 Left Loop-R
+l: 151 Left Loop-G
+l: 152 Left Loop-B
+l: 153 Left Loop Web
+l: 154 Left Loop Lock-R
+l: 155 Left Loop Lock-G
+l: 156 Left Loop Lock-B
+l: 159 Mini Target Left
+l: 160 Mini Target Right
+l: 163 Scoop-R
+l: 164 Scoop-G
+l: 165 Scoop-B
+l: 166 Scoop Web
+l: 167 Scoop Lock-R
+l: 168 Scoop Lock-G
+l: 169 Scoop Lock-B
+l: 170 Mystery
+l: 171 Extra Ball
+l: 174 Right Loop-R
+l: 175 Right Loop-G
+l: 176 Right Loop-B
+l: 177 Right Loop Web
+l: 178 Right Loop Lock-R
+l: 179 Right Loop Lock-G
+l: 180 Right Loop Lock-B
+l: 183 Right Orbit-R
+l: 184 Right Orbit-G
+l: 185 Right Orbit-B
+l: 186 Right Orbit Web
+l: 187 Right Orbit Lock-R
+l: 188 Right Orbit Lock-G
+l: 189 Right Orbit Lock-B
+l: 192 Down 3 Bank Left
+l: 193 Down 3 Bank Center
+l: 194 Down 3 Bank Right
+l: 195 Down 3 Bank 2ND Left
+l: 196 Down 3 Bank 2ND Center
+l: 197 Down 3 Bank 2ND Right
+l: 198 Rampage
+l: 201 Top Lane Left (2x)
+l: 202 Top Lane Right (2x)
+l: 203 Ravencroft 1 (2x)
+l: 204 Ravencroft 2
+l: 207 Host BB 1
+l: 208 Host BB 2
+l: 209 Host BB 3
+l: 210 Host BB 4
+l: 211 Host BB 5
+l: 212 Host BB 6
+l: 213 Host BB 7
+l: 216 Left BB Lock 1
+l: 217 Left BB Lock 2
+l: 218 Left BB Lock 3
+l: 221 Right BB Lock 1
+l: 222 Right BB Lock 2
+l: 223 Right BB Lock 3
+l: 226 Scoop BB Mystery 1
+l: 227 Scoop BB Mystery 2
+l: 228 Scoop BB Mystery 3
+l: 229 Scoop BB Mystery 4
+l: 230 Scoop BB Mystery 5
+l: 231 Scoop BB Battle 1
+l: 232 Scoop BB Battle 2
+l: 233 Scoop BB Battle 3
+l: 245 Coin Door GI
+l: 246 Left GI-1 (x6)
+l: 247 Left GI-RED (x7)
+l: 248 Left GI-2 (x5)
+l: 249 Right GI-1 (x6)
+l: 250 Right GI-RED (x6)
+l: 251 Right GI-2/Backpanel (x3)
+l: 255 Lower Left Flash
+l: 256 Lower Right Flash
+l: 258 Left Pop Flash
+l: 259 Right Pop Flash
+l: 260 Up Left Flash
+l: 261 Up Right Flash
+l: 262 Ravencroft Flash-WHT
+l: 263 Ravencroft Flash-RED
+c: 1 Trough
+c: 2 Auto Plunger
+c: 3 Left Flipper
+c: 4 Right Flipper
+c: 5 Left Slingshot
+c: 6 Right Slingshot
+c: 7 Shaker Motor
+c: 8 Left Lock
+c: 9 Down 3 Bank
+c: 10 Right Lock
+c: 11 Left Pop Bumper
+c: 12 Right Pop Bumper
+c: 15 Carnage
+c: 16 Top Post
+c: 19 VUK
+c: 21 Loop Diverter
+c: 22 Left Mech Motor
+c: 23 Right Up Ramp
+c: 24 Up Post
+c: 33 Coin Meter
+c: 34 Ticket Meter
+c: 35 Ticket Dispenser

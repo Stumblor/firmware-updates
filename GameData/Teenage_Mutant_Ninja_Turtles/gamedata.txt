@@ -1,0 +1,216 @@
+s: 1 Left Outlane
+s: 2 Left Return Lane-Left
+s: 3 Left Return Lane-Right
+s: 5 Right Return Lane
+s: 6 Right Outlane
+s: 7 Left Slingshot
+s: 8 Right Slingshot
+s: 9 Left Flipper Button
+s: 10 Right Flipper Button
+s: 11 Left Flipper EOS
+s: 12 Right Flipper EOS
+s: 13 Up Left Flipper Button
+s: 14 Skill Shot
+s: 15 Trough 6
+s: 16 Trough 5
+s: 17 Trough 4
+s: 18 Trough 3
+s: 19 Trough 2
+s: 20 Trough 1
+s: 21 Trough Jam
+s: 22 Shooter Lane
+s: 23 Up Left Flipper EOS
+s: 28 Left Bank Target (2x)
+s: 29 Lower Lock 1
+s: 30 Lower Lock 2
+s: 31 Right Bank Target (2x)
+s: 36 Left Ramp Left Target
+s: 37 Left Ramp Right Target
+s: 39 Upper Pop Target
+s: 40 Lower Pop Target
+s: 41 Center Ramp Target
+s: 43 Right Spinner
+s: 46 Upper Lock 1
+s: 47 Upper Lock 2
+s: 48 Upper Lock 3
+s: 50 Left Ramp Enter Opto
+s: 51 Left Ramp Exit Opto
+s: 53 Center Ramp Exit Opto
+s: 55 Right Ramp Enter
+s: 56 Ramp Right Exit
+s: 57 Van Enter Opto
+s: 58 Glider Lock Opto
+s: 62 Left Orbit
+s: 63 Right Orbit
+s: 64 Center Loop
+s: 66 Left Top Lane
+s: 67 Right Top Lane
+s: 69 Left Pop Bumper
+s: 70 Right Pop Bumper
+s: 71 Bottom Pop Bumper
+s: 80 Lockdown Button
+s: 83 Start Button
+s: 84 Tournament Start Button
+s: 86 Left Coin
+s: 87 Right Coin
+s: 88 Center Coin
+s: 89 Fourth Coin
+s: 90 Fifth Coin
+s: 91 Tilt Pendulum
+s: 92 Sixth Coin
+s: 93 Ticket Notch
+s: 94 Slam Tilt
+l: 1 Coin Enable
+l: 2 Start Button
+l: 3 Tournament Start
+l: 4 Lockdown Button-R
+l: 5 Lockdown Button-G
+l: 6 Lockdown Button-B
+l: 11 Left Outlane
+l: 12 Left Return Lane Left-R
+l: 13 Left Return Lane Left-G
+l: 14 Left Return Lane Left-B
+l: 15 Left Return Lane Right
+l: 16 Right Return Lane-R
+l: 17 Right Return Lane-G
+l: 18 Right Return Lane-B
+l: 19 Right Outlane
+l: 22 Team Up-R
+l: 23 Team Up-G
+l: 24 Team Up-B
+l: 25 Shoot Again
+l: 28 Episode 6
+l: 29 Episode 2
+l: 30 Episode 4
+l: 31 Episode 3
+l: 32 Episode 1
+l: 33 Episode 8
+l: 34 Episode 5
+l: 35 Episode 7
+l: 36 Final Battle
+l: 39 Splinter-R
+l: 40 Splinter-G
+l: 41 Splinter-B
+l: 42 (L)AIR
+l: 43 L(A)IR
+l: 44 LA(I)R
+l: 45 LAI(R)
+l: 48 Leonardo-R
+l: 49 Leonardo-G
+l: 50 Leonardo-B
+l: 51 Training
+l: 52 Jackpoto Grande
+l: 55 Shredder-R
+l: 56 Shredder-G
+l: 57 Shredder-B
+l: 58 Foot Combo 1
+l: 59 Turtle Power Multiball
+l: 62 April-R
+l: 63 April-G
+l: 64 April-B
+l: 65 (A)PRIL
+l: 66 A(P)RIL
+l: 67 AP(R)IL
+l: 68 APR(I)L
+l: 69 APRI(L)
+l: 72 Turtle Michelangelo
+l: 73 Turtle Raphael
+l: 74 Turtle Donatello
+l: 75 Turtle Leonardo
+l: 78 Bebop-R
+l: 79 Bebop-G
+l: 80 Bebop-B
+l: 81 Left Orbit Training
+l: 82 Left Orbit Weapon-R
+l: 83 Left Orbit Weapon-G
+l: 84 Left Orbit Weapon-B
+l: 87 Left Ramp Left X
+l: 88 Left Ramp Right X
+l: 91 Raphael-R
+l: 92 Raphael-G
+l: 93 Raphael-B
+l: 96 Michael-R
+l: 97 Michael-G
+l: 98 Michael-B
+l: 99 Extra Ball
+l: 100 Pizza Topping
+l: 101 Ninja Pizza Parlor
+l: 102 Start Episode-R
+l: 103 Start Episode-G
+l: 104 Start Episode-B
+l: 105 2X Playfield
+l: 108 Donatello-R
+l: 109 Donatello-G
+l: 110 Donatello-B
+l: 111 Foot Combo 2
+l: 112 Foot Combo 3
+l: 113 Weapon-R
+l: 114 Weapon-G
+l: 115 Weapon-B
+l: 118 Pizza Slice
+l: 119 Add Ball
+l: 122 Krang-R
+l: 123 Krang-G
+l: 124 Krang-B
+l: 125 Foot Combo 2 loop
+l: 126 Mondo Jackpot-R
+l: 127 Mondo Jackpot-G
+l: 128 Mondo Jackpot-B
+l: 131 Rocksteady-R
+l: 132 Rocksteady-G
+l: 133 Rocksteady-B
+l: 134 Right Orbit Training
+l: 135 Right Orbit Weapon-R
+l: 136 Right Orbit Weapon-G
+l: 137 Right Orbit Weapon-B
+l: 140 Top Lane Left
+l: 141 Top Lane Right
+l: 150 Coin Door GI
+l: 151 Bottom GI-RED(x6)
+l: 152 Bottom GI-WHT(x13)
+l: 153 Bottom GI-GRN(x6)
+l: 154 Top GI-RED(x7)
+l: 155 Top GI-WHT(x15)
+l: 156 Top GI-GRN(x5)
+l: 160 Left Pop Bumper
+l: 161 Right Pop Bumper
+l: 162 Bottom Pop Bumper
+l: 163 Pop Flash
+l: 165 Left Ramp Flash
+l: 168 Right Ramp Flash
+l: 170 Van Flash
+l: 172 Left Orbit Flash
+l: 173 Right Orbit Flash
+l: 174 Pizza Flash Left
+l: 175 Pizza Flash Right
+l: 176 Cowabunga Dude Flash
+l: 177 Lair Flash
+l: 178 Left Sling Flash
+l: 179 Right Sling Flash
+l: 180 Krang Body Flash
+l: 182 Left Ramp Training
+l: 183 Left Ramp Glider
+l: 184 Right Ramp Training
+l: 185 Right Ramp Glider
+c: 1 Trough
+c: 2 Auto Plunger
+c: 3 Left Flipper
+c: 4 Right Flipper
+c: 5 Left Slingshot
+c: 6 Right Slingshot
+c: 7 Shaker Motor
+c: 8 Upper Left Flipper
+c: 9 Lower Lock
+c: 10 Upper Lock
+c: 11 Left Pop Bumper
+c: 12 Right Pop Bumper
+c: 13 Bottom Pop Bumper
+c: 14 Krang
+c: 15 Pizza Magnet
+c: 16 Van Door
+c: 19 Up Post
+c: 20 Van Diverter
+c: 23 Glider Diverter Servo
+c: 33 Coin Meter
+c: 34 Ticket Meter
+c: 35 Ticket Dispenser

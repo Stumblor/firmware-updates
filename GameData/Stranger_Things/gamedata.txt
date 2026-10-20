@@ -1,0 +1,204 @@
+s: 1 Left Outlane
+s: 2 Left Return Lane
+s: 5 Right Return Lane
+s: 6 Right Outlane
+s: 7 Left Slingshot
+s: 8 Right Slingshot
+s: 9 Left Flipper Button
+s: 10 Right Flipper Button
+s: 11 Left Flipper EOS
+s: 12 Right Flipper EOS
+s: 15 Trough 6
+s: 16 Trough 5
+s: 17 Trough 4
+s: 18 Trough 3
+s: 19 Trough 2
+s: 20 Trough 1
+s: 21 Trough Jam
+s: 22 Shooter Lane
+s: 28 Demodog Target 1 Left
+s: 29 Demodog Target 2
+s: 30 Left Ramp Target Left
+s: 31 Left Ramp Target Right
+s: 32 Demodog Target 5
+s: 33 Demodog Target 6
+s: 34 Demodog Target 7 Right
+s: 36 Left Eject
+s: 38 Left Spinner
+s: 39 Left Orbit
+s: 40 Left Down Post Lock 1
+s: 41 Left Down Post Lock 2
+s: 44 Right Ramp Exit
+s: 45 Back Ramp Exit
+s: 47 Left Pop Bumper
+s: 48 Right Pop Bumper
+s: 49 Pop Bumper 10 Pt Switch
+s: 50 Right Orbit
+s: 53 Drop Target Ball Sense
+s: 55 Center 4 Bank Drop 1 Left
+s: 56 Center 4 Bank Drop 2
+s: 57 Center 4 Bank Drop 3
+s: 58 Center 4 Bank Drop 4 Right
+s: 63 Left Ramp Enter
+s: 65 Left Ramp Exit
+s: 67 Backpanel Lock Top
+s: 68 Backpanel Lock Bottom
+s: 70 Left Lane Target
+s: 72 Demogorgon Opto
+s: 74 Center Lane Opto
+s: 75 Right Lane Rollover
+s: 77 Demodog Target 3
+s: 78 Demodog Target 4
+s: 82 Screen Motor Up
+s: 83 Screen Motor Down
+s: 84 Screen Ramp Opto
+s: 90 Lockdown Button
+s: 93 Start Button
+s: 94 Tournament Start Button
+s: 96 Left Coin
+s: 97 Right Coin
+s: 98 Center Coin
+s: 99 Fourth Coin
+s: 100 Fifth Coin
+s: 101 Tilt Pendulum
+s: 102 Sixth Coin
+s: 103 Ticket Notch
+s: 104 Slam Tilt
+l: 1 Coin Enable
+l: 2 Start Button
+l: 3 Tournament Start
+l: 4 Lockdown Button-RED
+l: 5 Lockdown Button-GRN
+l: 6 Lockdown Button-BLU
+l: 11 Left Outlane
+l: 12 Left Return Lane
+l: 13 Spell of Protection
+l: 14 Right Return Lane
+l: 15 Right Outlane
+l: 18 5-Way Combo
+l: 19 Send It Back
+l: 20 Demodog
+l: 21 Demogorgon
+l: 22 Light The Fire
+l: 23 TK Multiball
+l: 24 Final Showdown
+l: 27 2X Playfield Multiplier
+l: 28 Shoot Again
+l: 31 Left Eject Arrow-RED
+l: 32 Left Eject Arrow-GRN
+l: 33 Left Eject Arrow-BLU
+l: 34 2X Scoring
+l: 37 Left Orbit Arrow-RED
+l: 38 Left Orbit Arrow-GRN
+l: 39 Left Orbit Arrow-BLU
+l: 40 Left Orbit Mode Start 3
+l: 41 Left Orbit Mode Start 2
+l: 42 Left Orbit Mode Start 1
+l: 45 Left Ramp Arrow-RED
+l: 46 Left Ramp Arrow-GRN
+l: 47 Left Ramp Arrow-BLU
+l: 48 Lock
+l: 49 Left Ramp Mode Start 3
+l: 50 Left Ramp Mode Start 2
+l: 51 Left Ramp Mode Start 1
+l: 54 Left Lane Arrow-RED
+l: 55 Left Lane Arrow-GRN
+l: 56 Left Lane Arrow-BLU
+l: 57 Extra Ball
+l: 58 Demodog Attack
+l: 59 Mystery
+l: 62 Center Lane Arrow-RED
+l: 63 Center Lane Arrow-GRN
+l: 64 Center Lane Arrow-BLU
+l: 65 Bust out!
+l: 66 Trap ‘Em
+l: 67 What's that?
+l: 68 Run Will!
+l: 69 Can't stop this!
+l: 72 Right Lane Arrow-RED
+l: 73 Right Lane Arrow-GRN
+l: 74 Right Lane Arrow-BLU
+l: 75 Burn it Back
+l: 78 Right Ramp Arrow-RED
+l: 79 Right Ramp Arrow-GRN
+l: 80 Right Ramp Arrow-BLU
+l: 81 Right Ramp Mode Start 3
+l: 82 Right Ramp Mode Start 2
+l: 83 Right Ramp Mode Start 1
+l: 86 Right Orbit Arrow-RED
+l: 87 Right Orbit Arrow-GRN
+l: 88 Right Orbit Arrow-BLU
+l: 89 Right Orbit Mode Start 3
+l: 90 Right Orbit Mode Start 2
+l: 91 Right Orbit Mode Start 1
+l: 94 Where’s Barb?
+l: 95 Monster Hunting!
+l: 96 Bullies!
+l: 97 Get me out!
+l: 98 Operation Mirkwood!
+l: 99 Follow the Compass!
+l: 102 Quarter Hunt!
+l: 103 Save Will!
+l: 104 What Mama Says
+l: 105 Morse Code!
+l: 106 Lure Dart!
+l: 107 Turn up the heat!
+l: 110 Break Out!
+l: 111 Junk Yard
+l: 112 It's a trap!
+l: 115 (D)EMODOG
+l: 116 D(E)MODOG
+l: 117 Lite Lock Left
+l: 118 Lite Lock Right
+l: 119 DE(M)ODOG
+l: 120 DEM(O)DOG
+l: 121 DEMO(D)OG
+l: 122 DEMOD(O)G
+l: 123 DEMODO(G)
+l: 126 4 Bank Drop 1 Left
+l: 127 4 Bank Drop 2
+l: 128 4 Bank Drop 3
+l: 129 4 Bank Drop 4 Right
+l: 132 Backpanel 1
+l: 133 Backpanel 2
+l: 134 Backpanel 3
+l: 135 Backpanel 4
+l: 141 UV Control 1 (Optional)
+l: 142 UV Control 2 (Optional)
+l: 150 Coin Door GI
+l: 151 Bottom GI-WHT(x10)
+l: 152 Bottom GI-VIO(x9)
+l: 154 Top GI-WHT(x3)
+l: 155 Top GI-VIO(X3)
+l: 160 Demogorgon Left Flash
+l: 161 Demogorgon Front Flash
+l: 162 Demogorgon Body Flash
+l: 164 Eject Flash
+l: 165 Left Orbit Flash
+l: 166 Left Backpanel Flash
+l: 168 Upper Right Ramp Flash
+l: 169 Left Pop Bumper
+l: 170 Right Pop Bumper
+l: 172 Lower Right Ramp Flash
+l: 175 Shooter Illumination 1 (Optional)
+l: 176 Shooter Illumination 2 (Optional)
+c: 1 Trough
+c: 2 Auto Plunger
+c: 3 Left Flipper
+c: 4 Right Flipper
+c: 5 Left Slingshot
+c: 6 Right Slingshot
+c: 7 Shaker Motor
+c: 9 Left Down Post
+c: 11 Left Eject
+c: 13 Left Pop Bumper
+c: 14 Right Pop Bumper
+c: 16 Telekinesis Lock
+c: 17 Left Ramp Diverter
+c: 19 Left Ramp Up Post
+c: 21 Center 4 Bank Drop Reset
+c: 22 Center 4 Bank Drop Trip
+c: 25 Demogorgon
+c: 33 Coin Meter
+c: 34 Ticket Meter
+c: 35 Ticket Dispenser

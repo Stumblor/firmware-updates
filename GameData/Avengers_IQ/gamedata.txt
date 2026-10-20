@@ -1,0 +1,260 @@
+s: 1 Left Outlane
+s: 2 Left Return Lane
+s: 5 Right Return Lane
+s: 6 Right Outlane
+s: 7 Left Slingshot
+s: 8 Right Slingshot
+s: 9 Left Flipper Button
+s: 10 Right Flipper Button
+s: 11 Left Flipper EOS
+s: 12 Right Flipper EOS
+s: 13 Up Left Flipper Button
+s: 15 Trough 6
+s: 16 Trough 5
+s: 17 Trough 4
+s: 18 Trough 3
+s: 19 Trough 2
+s: 20 Trough 1
+s: 21 Trough Jam
+s: 22 Shooter Lane
+s: 23 Up Left Flipper EOS
+s: 26 Left Spinner
+s: 28 3 Bank Drop-Bottom
+s: 29 3 Bank Drop-Mid
+s: 30 3 Bank Drop-Top
+s: 32 Loop Ramp Exit
+s: 33 Subway VUK
+s: 34 Right Bullseye Target
+s: 36 Tower Opto 1
+s: 37 Tower Opto 2
+s: 38 Tower Opto 3
+s: 39 Hulk Lane-Top
+s: 40 Hulk Lane-Bottom
+s: 41 Left Ramp Exit Opto
+s: 42 Back Ramp Exit Opto
+s: 46 Subway Enter Opto
+s: 47 Subway Lock 1 Opto
+s: 48 Subway Lock 2 Opto
+s: 49 Subway Lock 3 Opto
+s: 50 Sanctum Target
+s: 51 Left Bullseye Target
+s: 52 Mid Bullseye Target
+s: 53 Left Pop Bumper
+s: 54 Right Pop Bumper
+s: 55 Bottom Pop Bumper
+s: 57 Skill Shot Rollover
+s: 58 Right Ramp Exit Opto
+s: 59 Inner Loop Opto
+s: 60 Captive Ball Target
+s: 61 Loop Ramp Enter Opto
+s: 62 Right Orbit Enter
+s: 70 Lockdown Button (optional)
+s: 73 Start Button
+s: 74 Tournament Start Button
+s: 76 Left Coin
+s: 77 Right Coin
+s: 78 Center Coin
+s: 79 Fourth Coin
+s: 80 Fifth Coin
+s: 81 Tilt Pendulum
+s: 82 Sixth Coin
+s: 83 Ticket Notch
+s: 84 Slam Tilt
+s: 86 Disc Scoop Up
+s: 87 Disc Scoop Down
+s: 88 ANGLE SENSOR 0
+s: 89 ANGLE SENSOR 1
+s: 90 ANGLE SENSOR 2
+s: 91 ANGLE SENSOR 3
+s: 92 ANGLE SENSOR 4
+s: 93 ANGLE SENSOR 5
+s: 94 ANGLE SENSOR 6
+s: 95 ANGLE SENSOR 7
+s: 96 ANGLE SENSOR 8
+s: 97 ANGLE SENSOR 9
+s: 98 ANGLE SENSOR WEAK
+s: 99 ANGLE SENSOR THRESHOLD
+l: 1 Coin Enable
+l: 2 Start Button
+l: 3 Tournament Start
+l: 4 Lockdown Button-R
+l: 5 Lockdown Button-G
+l: 6 Lockdown Button-B
+l: 11 Left Outlane
+l: 12 Left Return Lane
+l: 13 Right Return Lane
+l: 14 Right Outlane
+l: 15 Shoot Again
+l: 18 Drops Gem-R
+l: 19 Drops Gem-G
+l: 20 Drops Gem-B
+l: 21 Hulk-Collect
+l: 22 Iron Man-Collect
+l: 23 Captain America-Collect
+l: 24 Black Widow-Collect
+l: 25 Thor-Collect
+l: 26 Black Panther-Collect
+l: 29 Drop Target Grid 1
+l: 30 Drop Target Grid 2
+l: 31 Drop Target Grid 3
+l: 32 Drop Target Grid 4
+l: 33 Drop Target Grid 5
+l: 34 Drop Target Grid 6
+l: 35 Drop Target Grid 7
+l: 36 Drop Target Grid 8
+l: 37 Drop Target Grid 9
+l: 40 Soul Gem
+l: 41 Black Order
+l: 42 Thanos Battle
+l: 45 Right Bullseye
+l: 46 Scoop Arrow
+l: 47 Change Gem
+l: 50 Left Spinner-R
+l: 51 Left Spinner-G
+l: 52 Left Spinner-B
+l: 53 Left Orbit Gem-R
+l: 54 Left Orbit Gem-G
+l: 55 Left Orbit Gem-B
+l: 56 Hulk
+l: 59 Tower-R
+l: 60 Tower-G
+l: 61 Tower-B
+l: 62 Hawkeye Challenge
+l: 63 Iron Man
+l: 64 Tower Lock 1
+l: 65 Tower Lock 2
+l: 66 Tower Lock 3
+l: 69 Disc Spin CCW
+l: 70 Disc-R
+l: 71 Disc-G
+l: 72 Disc-B
+l: 73 Disc Spin CW
+l: 74 (S)TRANGE-R
+l: 75 (S)TRANGE-G
+l: 76 (S)TRANGE-B
+l: 77 S(T)RANGE-R
+l: 78 S(T)RANGE-G
+l: 79 S(T)RANGE-B
+l: 80 ST(R)ANGE-R
+l: 81 ST(R)ANGE-G
+l: 82 ST(R)ANGE-B
+l: 83 STR(A)NGE-R
+l: 84 STR(A)NGE-G
+l: 85 STR(A)NGE-B
+l: 86 STRA(N)GE-R
+l: 87 STRA(N)GE-G
+l: 88 STRA(N)GE-B
+l: 89 STRAN(G)E-R
+l: 90 STRAN(G)E-G
+l: 91 STRAN(G)E-B
+l: 92 STRANG(E)-R
+l: 93 STRANG(E)-G
+l: 94 STRANG(E)-B
+l: 95 Open Portal
+l: 96 Portal Lock
+l: 97 Eye of Agamotto
+l: 100 Left Ramp Gem-R
+l: 101 Left Ramp Gem-G
+l: 102 Left Ramp Gem-B
+l: 103 Inner Loop-R
+l: 104 Inner Loop-G
+l: 105 Inner Loop-B
+l: 106 Center Bullseye
+l: 107 Black Widow
+l: 108 Left Ramp-R
+l: 109 Left Ramp-G
+l: 110 Left Ramp-B
+l: 111 Right Ramp-R
+l: 112 Right Ramp-G
+l: 113 Right Ramp-B
+l: 114 Collect Gem
+l: 115 Left Bullseye
+l: 119 Extra Ball
+l: 120 Add-A-Ball
+l: 121 Spot Iron
+l: 124 Pops Gem-R
+l: 125 Pops Gem-G
+l: 126 Pops Gem-B
+l: 127 Captain America
+l: 128 Pops-R
+l: 129 Pops-G
+l: 130 Pops-B
+l: 131 Skill Shot Rollover
+l: 134 Marvel Gem-R
+l: 135 Marvel Gem-G
+l: 136 Marvel Gem-B
+l: 137 (T)HOR
+l: 138 T(H)OR
+l: 139 TH(O)R
+l: 140 THO(R)
+l: 143 Marvel-R
+l: 144 Marvel-G
+l: 145 Marvel-B
+l: 148 Thor Power Up
+l: 149 Thor Multiball
+l: 153 Right Orbit Gem-R
+l: 154 Right Orbit Gem-G
+l: 155 Right Orbit Gem-B
+l: 156 Black Panther
+l: 157 Right Orbit-R
+l: 158 Right Orbit-G
+l: 159 Right Orbit-B
+l: 162 Left Subway-R
+l: 163 Left Subway-G
+l: 164 Left Subway-B
+l: 165 Center Subway-R
+l: 166 Center Subway-G
+l: 167 Center Subway-B
+l: 168 Right Subway-R
+l: 169 Right Subway-G
+l: 170 Right Subway-B
+l: 173 Glove Gem 1 ORG
+l: 174 Glove Gem 2 PURPLE
+l: 175 Glove Gem 3 BLU
+l: 176 Glove Gem 4 GRN
+l: 177 Glove Gem 5 YEL
+l: 178 Glove Gem 6 RED
+l: 181 ANGLE SENSOR XYZ0
+l: 182 ANGLE SENSOR XYZ1
+l: 183 ANGLE SENSOR FS
+l: 184 ANGLE SENSOR ENABLE
+l: 187 Coin Door GI
+l: 188 Bottom GI-Left (x8)
+l: 189 Bottom GI-Right (x8)
+l: 190 Top GI-Left (x6)
+l: 191 Top GI-Right (x6)
+l: 198 Left Spinner Flash
+l: 199 VUK Flash
+l: 200 Tower Flash
+l: 201 Left Pop Bumper
+l: 202 Right Pop Bumper
+l: 203 Bottom Pop Bumper
+l: 204 Glove Spotlight
+l: 206 Backpanel Flash 1 (L)
+l: 207 Backpanel Flash 2
+l: 208 Backpanel Flash 3 (R)
+l: 209 Sanctum Flash
+l: 210 Disc Flash
+l: 213 Shooter Illumination R (Optional)
+l: 214 Shooter Illumination G (Optional)
+l: 215 Shooter Illumination B (Optional)
+c: 1 Trough
+c: 2 Auto Plunger
+c: 3 Left Flipper
+c: 4 Right Flipper
+c: 5 Left Slingshot
+c: 6 Right Slingshot
+c: 7 Shaker Motor
+c: 8 Up Left Flip
+c: 9 Subway VUK
+c: 10 3 Bank Drop
+c: 12 Up Post Left
+c: 13 Tower Magnet
+c: 14 Motor-Disc Up/Down
+c: 16 Subway Lock
+c: 18 Left Pop Bumper
+c: 19 Right Pop Bumper
+c: 20 Bot Pop Bumper
+c: 33 Coin Meter
+c: 34 Ticket Meter
+c: 35 Ticket Dispenser

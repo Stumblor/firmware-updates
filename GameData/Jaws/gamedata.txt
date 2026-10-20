@@ -1,0 +1,323 @@
+s: 1 Left Outlane
+s: 2 Left Return Lane
+s: 3 Bot R Outlane
+s: 5 Right Return Lane
+s: 6 Right Outlane
+s: 7 Left Slingshot
+s: 8 Right Slingshot
+s: 9 Left Flipper Button
+s: 10 Right Flipper Button
+s: 11 Left Flipper EOS
+s: 12 Right Flipper EOS
+s: 14 UP Right Flipper Button
+s: 15 Trough 6
+s: 16 Trough 5
+s: 17 Trough 4
+s: 18 Trough 3
+s: 19 Trough 2
+s: 20 Trough 1
+s: 21 Trough Jam
+s: 22 Shooter Lane
+s: 23 MID Rt Flipper EOS
+s: 24 UP Right Flipper EOS
+s: 30 Quickshot Bottom
+s: 31 Bottom Rt Tgt
+s: 32 Mid Flipper Lane
+s: 33 Right Pop Bumper
+s: 34 Quickshot Gate
+s: 36 3 Bank Bot
+s: 37 3 Bank Mid
+s: 38 3 Bank Top
+s: 40 Spinner Opto
+s: 41 Quickshot Top
+s: 42 Quickshot Mid
+s: 43 Left Loop Entrance
+s: 45 Tgt 1
+s: 46 Chum Bucket Tgt
+s: 47 Tgt 2
+s: 48 Tgt 3
+s: 49 Fishing Reel Mag Sw
+s: 51 Center Ramp Made
+s: 54 Shark Fin Tgt
+s: 55 Shark Position 1
+s: 56 Shark Position 2
+s: 57 Shark Position 3
+s: 58 Shark Position 4
+s: 59 Shark Position 5
+s: 60 Shark Position 6
+s: 61 Shark Position 7
+s: 64 Boat Hit- Left Opto
+s: 65 Boat Hit- Center Opto
+s: 66 Boat Hit- Right Opto
+s: 68 Shark Up-Mag Sw
+s: 69 Shark Down-Mag Sw
+s: 70 Shark Hit
+s: 71 Left Ramp Enter
+s: 72 Left Ramp Made Opto
+s: 73 Right Ramp Made Opto
+s: 80 Up PF Tgt
+s: 81 Up PF Ship Wheel Mag
+s: 82 UP PF Ramp Made
+s: 90 Lockdown Button
+s: 93 Start Button
+s: 94 Tournament Start Button
+s: 96 Left Coin
+s: 97 Right Coin
+s: 98 Center Coin
+s: 99 Fourth Coin
+s: 100 Fifth Coin
+s: 101 Tilt Pendulum
+s: 102 Sixth Coin
+s: 103 Ticket Notch
+s: 104 Slam Tilt
+l: 1 Coin Enable
+l: 2 Start Button
+l: 3 Tournament Start
+l: 4 Lockdown Button-R
+l: 5 Lockdown Button-G
+l: 6 Lockdown Button-B
+l: 11 Left Outlane
+l: 12 Left Return Lane
+l: 13 Right Return Lane
+l: 15 Shoot Again
+l: 17 Left Return 1
+l: 18 Left Return 2
+l: 19 Left Return 3
+l: 21 Right Return 1
+l: 22 Right Return 2
+l: 23 Right Return 3
+l: 25 Mako Shark
+l: 26 Hammerhead Shark
+l: 27 Great White
+l: 28 Tiger Shark
+l: 29 Thresher Shark
+l: 30 Search
+l: 31 4th of July
+l: 32 Rescue
+l: 33 Barrel Hook
+l: 34 Shark Cage
+l: 35 Dart
+l: 36 Binoculars
+l: 37 Oxygen
+l: 38 Tracker
+l: 41 Ready Barrel
+l: 42 Pipit
+l: 43 Light Machete
+l: 45 3 Bank Bottom
+l: 46 3 Bank Mid
+l: 47 3 Bank Top
+l: 48 FF Super Buoys
+l: 49 FF Super Life Ring
+l: 50 FF Cast N Catch
+l: 51 FF Light Video Mode
+l: 52 FF Night Search
+l: 54 Quickshot
+l: 55 Harpoon
+l: 57 Quickshot 1X
+l: 58 Quickshot 2X
+l: 59 Quickshot 4X
+l: 61 Collect Quickshot
+l: 62 Attach Barrel
+l: 63 Fin R
+l: 64 Fin G
+l: 65 Fin B
+l: 66 Encounter Jackpot
+l: 67 Extra Ball
+l: 69 Barrel 1
+l: 70 Barrel 2
+l: 71 Barrel 3
+l: 73 Fin Target 1-R
+l: 74 Fin Target 1-G
+l: 75 Fin Target 1-B
+l: 76 Fin Target 2-R
+l: 77 Fin Target 2-G
+l: 78 Fin Target 2-B
+l: 79 Fin Target 3-R
+l: 80 Fin Target 3-G
+l: 81 Fin Target 3-B
+l: 82 Fin Target 4-R
+l: 83 Fin Target 4-G
+l: 84 Fin Target 4-B
+l: 85 Fin Target 5-R
+l: 86 Fin Target 5-G
+l: 87 Fin Target 5-B
+l: 88 Fin Target 6-R
+l: 89 Fin Target 6-G
+l: 90 Fin Target 6-B
+l: 91 Fin Target 7-R
+l: 92 Fin Target 7-G
+l: 93 Fin Target 7-B
+l: 95 Advance Bounty Right
+l: 96 Activate Fishfinder
+l: 97 Light Life Ring
+l: 99 West Beach R
+l: 100 West Beach G
+l: 101 West Beach B
+l: 102 West Beach Rescue Top
+l: 103 West Beach Rescue Left
+l: 104 West Beach Rescue Right
+l: 105 West Beach Shark
+l: 106 West Beach Closed X
+l: 108 Target 1
+l: 110 Marina R
+l: 111 Marina G
+l: 112 Marina B
+l: 113 Marina Rescue Top
+l: 114 Marina Rescue Left
+l: 115 Marina Rescue Right
+l: 116 Marina Shark
+l: 117 Marina Closed X
+l: 119 Chumline Advance
+l: 120 Advance Bounty Left
+l: 122 North Beach R
+l: 123 North Beach G
+l: 124 North Beach B
+l: 125 North Beach Rescue Top
+l: 126 North Beach Rescue Left
+l: 127 North Beach Rescue Right
+l: 128 North Beach Shark
+l: 129 North Beach Closed X
+l: 131 Boat Hit Left
+l: 132 Boat Hit Center
+l: 133 Boat Hit Right
+l: 135 Target 2
+l: 136 Target 3
+l: 138 The Pond R
+l: 139 The Pond G
+l: 140 The Pond B
+l: 141 The Pond Rescue Top
+l: 142 The Pond Rescue Left
+l: 143 The Pond Rescue Right
+l: 144 The Pond Shark
+l: 145 The Pond Closed X
+l: 147 East Beach R
+l: 148 East Beach G
+l: 149 East Beach B
+l: 150 East Beach Rescue Top
+l: 151 East Beach Rescue Left
+l: 152 East Beach Rescue Right
+l: 153 East Beach Shark
+l: 154 East Beach Closed X
+l: 156 Orca BB Left
+l: 157 Orca BB Right
+l: 159 Shark BB 1 Top
+l: 160 Shark BB 2
+l: 161 Shark BB 3
+l: 162 Shark BB 4 Bot
+l: 164 Quints BB 1 Top
+l: 165 Quints BB 2 Mid
+l: 166 Quints BB 3 Bot
+l: 170 Upper PF Ramp R
+l: 171 Upper PF Ramp G
+l: 172 Upper PF Ramp B
+l: 173 Upper PF Ship Wheel R
+l: 174 Upper PF Ship Wheel G
+l: 175 Upper PF Ship Wheel B
+l: 176 Upper PF Radio
+l: 180 Coin Door GI
+l: 181 Bottom GI (x6)
+l: 182 Top GI (x8)
+l: 183 Bottom Arch GI (x3)
+l: 185 Top GI-RED (x8)
+l: 186 Top GI-GRN (x8)
+l: 187 Top GI-BLU (x8)
+l: 189 Mid Right Spotlight
+l: 190 Lower Left Spotlight
+l: 191 Lower Right Spotlight
+l: 192 Fish Finder Multiball Flash
+l: 193 Pop Bumper
+l: 195 West Beach Flasher
+l: 196 Boat Flash
+l: 197 Fishing Reel Flash
+l: 199 Backpanel Ramp Flash
+l: 200 Backpanel Center Flash (2x)
+l: 201 Backpanel Right Flash
+l: 203 Upper PF Flash
+l: 204 Upper PF Ship Wheel Flash
+l: 220 Speaker 1-R
+l: 221 Speaker 1-G
+l: 222 Speaker 1-B
+l: 223 Speaker 2-R
+l: 224 Speaker 2-G
+l: 225 Speaker 2-B
+l: 226 Speaker 3-R
+l: 227 Speaker 3-G
+l: 228 Speaker 3-B
+l: 229 Speaker 4-R
+l: 230 Speaker 4-G
+l: 231 Speaker 4-B
+l: 232 Speaker 5-R
+l: 233 Speaker 5-G
+l: 234 Speaker 5-B
+l: 235 Speaker 6-R
+l: 236 Speaker 6-G
+l: 237 Speaker 6-B
+l: 238 Speaker 7-R
+l: 239 Speaker 7-G
+l: 240 Speaker 7-B
+l: 241 Speaker 8-R
+l: 242 Speaker 8-G
+l: 243 Speaker 8-B
+l: 244 Speaker 9-R
+l: 245 Speaker 9-G
+l: 246 Speaker 9-B
+l: 247 Speaker 10-R
+l: 248 Speaker 10-G
+l: 249 Speaker 10-B
+l: 250 Speaker 11-R
+l: 251 Speaker 11-G
+l: 252 Speaker 11-B
+l: 253 Speaker 12-R
+l: 254 Speaker 12-G
+l: 255 Speaker 12-B
+l: 256 Speaker 13-R
+l: 257 Speaker 13-G
+l: 258 Speaker 13-B
+l: 259 Speaker 14-R
+l: 260 Speaker 14-G
+l: 261 Speaker 14-B
+l: 262 Speaker 15-R
+l: 263 Speaker 15-G
+l: 264 Speaker 15-B
+l: 265 Speaker 16-R
+l: 266 Speaker 16-G
+l: 267 Speaker 16-B
+l: 268 Speaker 17-R
+l: 269 Speaker 17-G
+l: 270 Speaker 17-B
+l: 271 Speaker 18-R
+l: 272 Speaker 18-G
+l: 273 Speaker 18-B
+l: 274 Speaker 19-R
+l: 275 Speaker 19-G
+l: 276 Speaker 19-B
+l: 277 Speaker 20-R
+l: 278 Speaker 20-G
+l: 279 Speaker 20-B
+l: 280 Speaker 21-R
+l: 281 Speaker 21-G
+l: 282 Speaker 21-B
+l: 283 Speaker 22-R
+l: 284 Speaker 22-G
+l: 285 Speaker 22-B
+l: 286 Speaker 23-R
+l: 287 Speaker 23-G
+l: 288 Speaker 23-B
+c: 1 Trough
+c: 2 Auto Plunger
+c: 3 Left Flipper
+c: 4 Right Flipper
+c: 5 Left Slingshot
+c: 6 Right Slingshot
+c: 7 Shaker Motor
+c: 8 Mid R Flip
+c: 9 UP P/F R Flip
+c: 12 Right Pop Bumper
+c: 13 Shark Motor Up/Down
+c: 14 Shark Fin Up/Down
+c: 15 Right Inlane Up Post
+c: 16 Left Inlane Up Post
+c: 17 3 Bank Drop
+c: 33 Coin Meter
+c: 34 Ticket Meter
+c: 35 Ticket Dispenser

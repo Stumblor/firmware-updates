@@ -113,6 +113,7 @@ l: 62 What Makes You SPECIAL
 l: 63 Cold Fusion
 l: 64 Observatory
 l: 65 Main Quest-Wedding Day
+l: 66 Main Quest-Radscorpion Attack
 l: 67 Main Quest-The Kings
 l: 68 Radroach Target 1
 l: 69 Extra Ball
@@ -133,6 +134,9 @@ l: 113 Pip-Boy Lit Right
 l: 116 Center Ramp-R
 l: 117 Center Ramp-G
 l: 118 Center Ramp-B
+l: 119 Fallout Radio Center Ramp-R
+l: 120 Fallout Radio Center Ramp-G
+l: 121 Fallout Radio Center Ramp-B
 l: 122 Side Quest Center Ramp
 l: 123 Companion Center Ramp
 l: 124 Stimpak Center Ramp

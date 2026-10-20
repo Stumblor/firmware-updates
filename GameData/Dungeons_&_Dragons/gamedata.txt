@@ -1,0 +1,327 @@
+s: 1 Left Outlane
+s: 2 Left Return Lane
+s: 5 Right Return Lane
+s: 6 Right Outlane
+s: 7 Left Slingshot
+s: 8 Right Slingshot
+s: 9 Left Flipper Button
+s: 10 Right Flipper Button
+s: 11 Left Flipper EOS
+s: 12 Right Flipper EOS
+s: 13 Shooter Lane-Upper
+s: 14 Up Right Flipper Button
+s: 15 Trough 6
+s: 16 Trough 5
+s: 17 Trough 4
+s: 18 Trough 3
+s: 19 Trough 2
+s: 20 Trough 1
+s: 21 Trough Jam
+s: 22 Shooter Lane
+s: 24 Up Right Flipper EOS
+s: 30 Hidden Passage
+s: 31 Secret Door Target
+s: 37 Left Eject
+s: 40 Dragon Target Left
+s: 41 Dragon Target Center
+s: 42 Dragon Target Right
+s: 44 Dragon Hold 1
+s: 45 Dragon Hold 2
+s: 46 Dragon Hold 3
+s: 47 Dragon Hold 4
+s: 48 Dragon Hold Stack
+s: 50 Dragon LR Away
+s: 51 Dragon LR Home
+s: 52 Dragon UD Home
+s: 56 Dungeon Opto-Upper
+s: 57 Dungeon Opto-Lower
+s: 58 Cube Enter Opto
+s: 59 Bottom Right Orbit Opto
+s: 60 Center Ramp Opto
+s: 61 Right Ramp Opto
+s: 62 Left Ramp Opto
+s: 65 Dungeon Left Target
+s: 66 Dungeon Right Target
+s: 68 Critical Hit Target
+s: 70 Spinner Opto
+s: 71 Top VUK
+s: 72 Dragon Jaw
+s: 77 Left Orbit
+s: 78 Left Loop
+s: 79 Right Loop
+s: 80 Top Right Orbit
+s: 90 Action Button
+s: 93 Start Button
+s: 94 Tournament Start Button
+s: 96 Left Coin
+s: 97 Right Coin
+s: 98 Center Coin
+s: 99 Fourth Coin
+s: 100 Fifth Coin
+s: 101 Tilt Pendulum
+s: 102 Sixth Coin
+s: 103 Ticket Notch
+s: 104 Slam Tilt
+l: 1 Coin Enable
+l: 2 Start Button
+l: 3 Tournament Start
+l: 4 Action Button-R
+l: 5 Action Button-G
+l: 6 Action Button-B
+l: 11 Left Outlane
+l: 12 Left Return Lane
+l: 13 Right Return Lane
+l: 14 Right Outlane
+l: 16 Shield
+l: 17 Shoot again
+l: 22 White 1-R
+l: 23 White 1-G
+l: 24 White 1-B
+l: 25 Orange 2-R
+l: 26 Orange 2-G
+l: 27 Orange 2-B
+l: 28 Greenest-R
+l: 29 Greenest-G
+l: 30 Greenest-B
+l: 31 Blue 2-R
+l: 32 Blue 2-G
+l: 33 Blue 2-B
+l: 34 Blue 1-R
+l: 35 Blue 1-G
+l: 36 Blue 1-B
+l: 37 West Gate-R
+l: 38 West Gate-G
+l: 39 West Gate-B
+l: 40 Dark Hold-R
+l: 41 Dark Hold-G
+l: 42 Dark Hold-B
+l: 43 Orange 1-R
+l: 44 Orange 1-G
+l: 45 Orange 1-B
+l: 46 White 2-R
+l: 47 White 2-G
+l: 48 White 2-B
+l: 49 Kobold Mining Town-R
+l: 50 Kobold Mining Town-G
+l: 51 Kobold Mining Town-B
+l: 52 Purple 2-R
+l: 53 Purple 2-G
+l: 54 Purple 2-B
+l: 55 Arabel-R
+l: 56 Arabel-G
+l: 57 Arabel-B
+l: 58 Purple 1-R
+l: 59 Purple 1-G
+l: 60 Purple 1-B
+l: 62 New Character 1
+l: 63 New Character 2
+l: 64 New Character 3
+l: 66 Ritual
+l: 67 Undermountain
+l: 68 Rescue King
+l: 69 Blue 3-R
+l: 70 Blue 3-G
+l: 71 Blue 3-B
+l: 72 Dragonspear Castle-R
+l: 73 Dragonspear Castle-G
+l: 74 Dragonspear Castle-B
+l: 75 Orange 3-R
+l: 76 Orange 3-G
+l: 77 Orange 3-B
+l: 78 White 3-R
+l: 79 White 3-G
+l: 80 White 3-B
+l: 81 Gauntlgrym-R
+l: 82 Gauntlgrym-G
+l: 83 Gauntlgrym-B
+l: 84 Purple 3-R
+l: 85 Purple 3-G
+l: 86 Purple 3-B
+l: 88 Secret Passage
+l: 89 Secret Door
+l: 91 Double Scoring
+l: 92 Mimic 1-R
+l: 93 Mimic 1-G
+l: 94 Mimic 1-B
+l: 95 Mimic 2-R
+l: 96 Mimic 2-G
+l: 97 Mimic 2-B
+l: 98 Fizmo
+l: 99 Treasure
+l: 101 Left Orbit 1-R
+l: 102 Left Orbit 1-G
+l: 103 Left Orbit 1-B
+l: 104 Left Orbit 2-R
+l: 105 Left Orbit 2-G
+l: 106 Left Orbit 2-B
+l: 107 Cube
+l: 111 Dragon Tgt Left
+l: 112 Dragon Tgt Cent
+l: 113 Dragon Tgt Right
+l: 114 (D)RAGON
+l: 115 D(R)AGON
+l: 116 DR(A)GON
+l: 117 DRA(G)ON
+l: 118 DRAG(O)N
+l: 119 DRAGO(N)
+l: 128 Dragon Eyes
+l: 130 Dungeon Arrow-R
+l: 131 Dungeon Arrow-G
+l: 132 Dungeon Arrow-B
+l: 135 Loop 1-R
+l: 136 Loop 1-G
+l: 137 Loop 1-B
+l: 138 Loop 2-R
+l: 139 Loop 2-G
+l: 140 Loop 2-B
+l: 141 Super Jackpot
+l: 142 Dungeon
+l: 143 Dungeon Left Tgt
+l: 144 Center Ramp 1-R
+l: 145 Center Ramp 1-G
+l: 146 Center Ramp 1-B
+l: 147 Center Ramp 2-R
+l: 148 Center Ramp 2-G
+l: 149 Center Ramp 2-B
+l: 150 Critical Hit
+l: 152 Spinner 1-R
+l: 153 Spinner 1-G
+l: 154 Spinner 1-B
+l: 155 Spinner 2-R
+l: 156 Spinner 2-G
+l: 157 Spinner 2-B
+l: 158 Light Dungeon Crawl
+l: 159 Inner Loop 1-R
+l: 160 Inner Loop 1-G
+l: 161 Inner Loop 1-B
+l: 162 Inner Loop 2-R
+l: 163 Inner Loop 2-G
+l: 164 Inner Loop 2-B
+l: 166 Right Ramp 1-R
+l: 167 Right Ramp 1-G
+l: 168 Right Ramp 1-B
+l: 169 Right Ramp 2-R
+l: 170 Right Ramp 2-G
+l: 171 Right Ramp 2-B
+l: 172 Extra Ball
+l: 173 Choose Action
+l: 174 Dungeon Right Tgt
+l: 175 Cube (x2)-R
+l: 176 Cube (x2)-G
+l: 177 Cube (x2)-B
+l: 178 Magnet
+l: 179 Right Orbit 1-R
+l: 180 Right Orbit 1-G
+l: 181 Right Orbit 1-B
+l: 182 Right Orbit 2-R
+l: 183 Right Orbit 2-G
+l: 184 Right Orbit 2-B
+l: 185 Jackpot
+l: 188 BB Gary 1
+l: 189 BB Gary 2
+l: 190 BB Gary 3
+l: 191 BB Spinner
+l: 200 Coin Door GI
+l: 201 Right GI-Wht (x10)
+l: 203 Right GI-Blu (x7)
+l: 205 Left GI-Wht (x9)
+l: 206 Back Panel GI (x4)
+l: 207 Left GI-BLU (x5)
+l: 210 Upper Left Flash
+l: 211 Upper Right Flash
+l: 212 Lower Left Flash
+l: 213 Lower Right Flash
+l: 214 Dungeon Flash
+l: 215 Treasure Chest Flash
+l: 216 Cave Flash
+l: 217 Lower Left Spotlight
+l: 218 Lower Right Spotlight
+l: 220 Speaker 1-R
+l: 221 Speaker 1-G
+l: 222 Speaker 1-B
+l: 223 Speaker 2-R
+l: 224 Speaker 2-G
+l: 225 Speaker 2-B
+l: 226 Speaker 3-R
+l: 227 Speaker 3-G
+l: 228 Speaker 3-B
+l: 229 Speaker 4-R
+l: 230 Speaker 4-G
+l: 231 Speaker 4-B
+l: 232 Speaker 5-R
+l: 233 Speaker 5-G
+l: 234 Speaker 5-B
+l: 235 Speaker 6-R
+l: 236 Speaker 6-G
+l: 237 Speaker 6-B
+l: 238 Speaker 7-R
+l: 239 Speaker 7-G
+l: 240 Speaker 7-B
+l: 241 Speaker 8-R
+l: 242 Speaker 8-G
+l: 243 Speaker 8-B
+l: 244 Speaker 9-R
+l: 245 Speaker 9-G
+l: 246 Speaker 9-B
+l: 247 Speaker 10-R
+l: 248 Speaker 10-G
+l: 249 Speaker 10-B
+l: 250 Speaker 11-R
+l: 251 Speaker 11-G
+l: 252 Speaker 11-B
+l: 253 Speaker 12-R
+l: 254 Speaker 12-G
+l: 255 Speaker 12-B
+l: 256 Speaker 13-R
+l: 257 Speaker 13-G
+l: 258 Speaker 13-B
+l: 259 Speaker 14-R
+l: 260 Speaker 14-G
+l: 261 Speaker 14-B
+l: 262 Speaker 15-R
+l: 263 Speaker 15-G
+l: 264 Speaker 15-B
+l: 265 Speaker 16-R
+l: 266 Speaker 16-G
+l: 267 Speaker 16-B
+l: 268 Speaker 17-R
+l: 269 Speaker 17-G
+l: 270 Speaker 17-B
+l: 271 Speaker 18-R
+l: 272 Speaker 18-G
+l: 273 Speaker 18-B
+l: 274 Speaker 19-R
+l: 275 Speaker 19-G
+l: 276 Speaker 19-B
+l: 277 Speaker 20-R
+l: 278 Speaker 20-G
+l: 279 Speaker 20-B
+l: 280 Speaker 21-R
+l: 281 Speaker 21-G
+l: 282 Speaker 21-B
+l: 283 Speaker 22-R
+l: 284 Speaker 22-G
+l: 285 Speaker 22-B
+l: 286 Speaker 23-R
+l: 287 Speaker 23-G
+l: 288 Speaker 23-B
+c: 1 Trough
+c: 2 Auto Plunger
+c: 3 Left Flipper
+c: 4 Right Flipper
+c: 5 Left Slingshot
+c: 6 Right Slingshot
+c: 7 Shaker Motor
+c: 8 Shield
+c: 9 Up Right Flipper
+c: 10 Left Eject
+c: 11 Up Post
+c: 12 Dragon VUK
+c: 13 Diverter
+c: 14 Up/Down Ramp
+c: 15 Magnet
+c: 16 Dungeon
+c: 18 Top VUK
+c: 33 Coin Meter
+c: 34 Ticket Meter
+c: 35 Ticket Dispenser

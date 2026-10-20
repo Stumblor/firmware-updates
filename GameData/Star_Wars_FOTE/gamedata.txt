@@ -1,0 +1,227 @@
+s: 1 Left Outlane
+s: 2 Left Return Lane-Left
+s: 3 Left Return Lane-Right
+s: 5 Right Return Lane
+s: 6 Right Outlane
+s: 7 Left Slingshot
+s: 8 Right Slingshot
+s: 9 Left Flipper Button
+s: 10 Right Flipper Button
+s: 11 Left Flipper EOS
+s: 12 Right Flipper EOS
+s: 15 Trough 6
+s: 16 Trough 5
+s: 17 Trough 4
+s: 18 Trough 3
+s: 19 Trough 2
+s: 20 Trough 1
+s: 21 Trough Jam
+s: 22 Shooter Lane
+s: 25 Left Pop Bumper
+s: 26 Left Eject Opto
+s: 27 Right Pop Bumper
+s: 28 Right Spinner Opto
+s: 29 Right Target
+s: 30 Left Spinner Opto
+s: 31 (F)ORCE Target
+s: 32 Left Orbit
+s: 36 AT-AT Target
+s: 37 AT-AT Up-Mag Sw
+s: 38 AT-AT Down-Mag Sw
+s: 41 Death Star Tgt Opto
+s: 42 Death Star Motor Up
+s: 43 Death Star Motor Down
+s: 44 Death Star Lock 1
+s: 45 Death Star Lock 2
+s: 46 Death Star Lock 3
+s: 51 Top VUK
+s: 52 F(O)RCE Target
+s: 53 FO(R)CE Target
+s: 54 Jump Ramp Enter Opto
+s: 55 Jump Ramp Exit Opto
+s: 56 Jump Ramp Up-Mag Sw
+s: 57 Jump Ramp Down-Mag Sw
+s: 59 Drop Target Opto
+s: 60 Sarlacc Ramp Opto
+s: 61 Sarlacc Pit Exit
+s: 62 Right Orbit
+s: 63 FOR(C)E Target
+s: 64 FORC(E) Target
+s: 65 Right Ramp Exit Opto
+s: 90 Lockdown Button
+s: 93 Start Button
+s: 94 Tournament Start Button
+s: 96 Left Coin
+s: 97 Right Coin
+s: 98 Center Coin
+s: 99 Fourth Coin
+s: 100 Fifth Coin
+s: 101 Tilt Pendulum
+s: 102 Sixth Coin
+s: 103 Ticket Notch
+s: 104 Slam Tilt
+s: 105 Ticket Low
+l: 1 Coin Enable
+l: 2 Start Button
+l: 3 Tournament Start
+l: 4 Lockdown Button-R
+l: 5 Lockdown Button-G
+l: 6 Lockdown Button-B
+l: 11 Left Outlane
+l: 12 Left Return Lane-Left
+l: 13 Left Return Lane-Right
+l: 14 Right Return Lane
+l: 15 Right Outlane
+l: 16 Shoot Again
+l: 18 Shooter Lane Runway 1
+l: 19 Shooter Lane Runway 2
+l: 20 Shooter Lane Runway 3
+l: 21 Shooter Lane Runway 4
+l: 24 Scene 1
+l: 25 Scene 2
+l: 26 Scene 3
+l: 27 Scene 4
+l: 28 Scene 5
+l: 29 Scene 6
+l: 30 Scene 7
+l: 31 Scene 8
+l: 34 Left Pop Arrow-R
+l: 35 Left Pop Arrow-G
+l: 36 Left Pop Arrow-B
+l: 37 Left Pop-R
+l: 38 Left Pop-G
+l: 39 Left Pop-B
+l: 40 Darth Vader x2-R
+l: 41 Darth Vader x2-G
+l: 42 Darth Vader x2-B
+l: 45 Right Pop Arrow-R
+l: 46 Right Pop Arrow-G
+l: 47 Right Pop Arrow-B
+l: 48 Right Pop-R
+l: 49 Right Pop-G
+l: 50 Right Pop-B
+l: 51 Right Target
+l: 54 Yoda-R
+l: 55 Yoda-G
+l: 56 Yoda-B
+l: 57 Yoda Arrow-R
+l: 58 Yoda Arrow-G
+l: 59 Yoda Arrow-B
+l: 60 Yoda-WHT
+l: 61 Icon 1
+l: 63 (F)ORCE
+l: 64 Luke-R
+l: 65 Luke-G
+l: 66 Luke-B
+l: 67 Luke Arrow-R
+l: 68 Luke Arrow-G
+l: 69 Luke Arrow-B
+l: 70 Luke-WHT
+l: 71 Icon 2
+l: 73 R2D2-R
+l: 74 R2D2-G
+l: 75 R2D2-B
+l: 76 R2D2 Arrow-R
+l: 77 R2D2 Arrow-G
+l: 78 R2D2 Arrow-B
+l: 79 R2D2-WHT
+l: 80 Icon 3
+l: 82 Lando-R
+l: 83 Lando-G
+l: 84 Lando-B
+l: 85 Lando Arrow-R
+l: 86 Lando Arrow-G
+l: 87 Lando Arrow-B
+l: 88 Lando-WHT
+l: 89 Icon 4
+l: 91 F(O)RCE
+l: 92 Han Solo-R
+l: 93 Han Solo-G
+l: 94 Han Solo-B
+l: 95 Han Solo Arrow-R
+l: 96 Han Solo Arrow-G
+l: 97 Han Solo Arrow-B
+l: 98 Han Solo-WHT
+l: 99 Icon 5
+l: 101 FO(R)CE
+l: 102 Chewie-R
+l: 103 Chewie-G
+l: 104 Chewie-B
+l: 105 Chewie Arrow-R
+l: 106 Chewie Arrow-G
+l: 107 Chewie Arrow-B
+l: 108 Chewie-WHT
+l: 109 Icon 6
+l: 111 FOR(C)E
+l: 112 Extra Ball-Right
+l: 113 Leia-R
+l: 114 Leia-G
+l: 115 Leia-B
+l: 116 Leia Arrow-R
+l: 117 Leia Arrow-G
+l: 118 Leia Arrow-B
+l: 119 Leia-WHT
+l: 120 Icon 7
+l: 122 FORC(E)
+l: 123 Obi-Wan-R
+l: 124 Obi-Wan-G
+l: 125 Obi-Wan-B
+l: 126 Obi-Wan Arrow-R
+l: 127 Obi-Wan Arrow-G
+l: 128 Obi-Wan Arrow-B
+l: 129 Obi-Wan-WHT
+l: 130 Icon 8
+l: 133 Lock 1
+l: 134 Lock 2
+l: 135 Lock 3
+l: 138 Feature 1
+l: 139 Feature 2
+l: 140 Feature 3
+l: 141 Feature 4
+l: 143 Luke Shot 1
+l: 144 Luke Shot 2
+l: 145 Luke Shot 3
+l: 146 Extra Ball-Left
+l: 150 Coin Door GI
+l: 151 Bottom GI-WHT (x14)
+l: 152 Bottom GI-RED (x11)
+l: 153 Bottom GI-BLU (x7)
+l: 155 Top GI-WHT (x18)
+l: 156 Top GI-RED (x5)
+l: 157 Top GI-BLU (x10)
+l: 164 Mini Wiz 1
+l: 165 Mini Wiz 2
+l: 166 Mini Wiz 3
+l: 167 Mini Wiz 4
+l: 168 Wizard Mode
+l: 169 Darth Vader Flash
+l: 170 Left Spinner Flash
+l: 172 AT-AT Flash
+l: 173 Stormtrooper Flash
+l: 174 Jabba Flash
+l: 175 Sarlacc Flash
+l: 177 Rt Spinner Flash
+l: 178 AT-AT Spotlight
+l: 179 Death Star Spotlight
+l: 180 Tie Fighter Spotlight
+l: 181 Millenium Falcon Flash
+l: 182 Hyperspace Flash
+l: 183 Asteroid Field Flash
+c: 1 Trough
+c: 2 Auto Plunger
+c: 3 Left Flipper
+c: 4 Right Flipper
+c: 5 Left Slingshot
+c: 6 Right Slingshot
+c: 7 Shaker Motor
+c: 9 Magnet
+c: 10 Right Pop Bumper
+c: 11 Left Pop Bumper
+c: 12 Left Eject
+c: 15 Top VUK
+c: 18 Death Star Eject
+c: 19 Drop Target-Reset
+c: 20 Drop Target-Trip
+c: 33 Coin Meter
+c: 34 Ticket Meter
+c: 35 Ticket Dispenser

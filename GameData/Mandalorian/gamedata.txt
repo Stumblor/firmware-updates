@@ -1,0 +1,220 @@
+s: 1 Left Outlane
+s: 2 Left Return Lane
+s: 5 Right Return Lane
+s: 6 Right Outlane
+s: 7 Left Slingshot
+s: 8 Right Slingshot
+s: 9 Left Flipper Button
+s: 10 Right Flipper Button
+s: 11 Left Flipper EOS
+s: 12 Right Flipper EOS
+s: 13 Mini PF Left Flipper Button
+s: 14 Mini PF Right Flipper Button
+s: 15 Trough 6
+s: 16 Trough 5
+s: 17 Trough 4
+s: 18 Trough 3
+s: 19 Trough 2
+s: 20 Trough 1
+s: 21 Trough Jam
+s: 22 Shooter Lane
+s: 23 Mini PF Left Flipper EOS(reserved)
+s: 24 Mini PF Right Flipper EOS(reserved)
+s: 25 Skill Shot
+s: 29 Left 3 Bank Target Top
+s: 30 Left 3 Bank Target Mid
+s: 31 Left 3 Bank Target Bot
+s: 32 Left Spinner
+s: 34 Right 2 Bank Target Top
+s: 35 Right 2 Bank Target Bot
+s: 37 Left Eject
+s: 38 Left Pop Bumper
+s: 39 Right Pop Bumper
+s: 40 10pt Switch
+s: 42 (C)HILD Rollover
+s: 43 C(H)ILD Rollover
+s: 44 CH(I)LD Rollover
+s: 45 CHI(L)D Rollover
+s: 48 Child Opto
+s: 50 Left Ramp Enter Opto
+s: 51 Left Ramp Exit Opto
+s: 52 Center Ramp Exit Opto
+s: 53 Center Ramp Enter Opto
+s: 54 Right Ramp Exit Opto
+s: 55 Right Scoop Opto
+s: 56 Right Ramp Left Target
+s: 57 Right Ramp Right Target
+s: 58 Scoop Rollover
+s: 59 Battleground Exit
+s: 60 Right Orbit
+s: 64 Razor Crest Hit Target
+s: 66 Mini PF Enter Opto
+s: 68 Mini PF Up
+s: 69 Mini PF Down
+s: 70 Mini PF Target 1 (Left)
+s: 71 Mini PF Target 2
+s: 72 Mini PF Target 3
+s: 73 Mini PF Target 4
+s: 74 Mini PF Target 5
+s: 75 Mini PF Target 6 (Right)
+s: 80 Lockdown Button
+s: 83 Start Button
+s: 84 Tournament Start Button
+s: 86 Left Coin
+s: 87 Right Coin
+s: 88 Center Coin
+s: 89 Fourth Coin
+s: 90 Fifth Coin
+s: 91 Tilt Pendulum
+s: 92 Sixth Coin
+s: 93 Ticket Notch
+s: 94 Slam Tilt
+l: 1 Coin Enable
+l: 2 Start Button
+l: 3 Tournament Start
+l: 4 Lockdown Button-R
+l: 5 Lockdown Button-G
+l: 6 Lockdown Button-B
+l: 11 Left Outlane
+l: 12 Left Return Lane
+l: 13 Right Outlane
+l: 14 Right Return Lane
+l: 15 Shoot Again
+l: 16 Force Flips
+l: 19 Mission 1
+l: 20 Mission 2
+l: 21 Mission 3
+l: 22 Mission 4
+l: 23 Mission 5
+l: 24 I Like those odds
+l: 27 Razorcrest 1
+l: 28 Razorcrest 2
+l: 29 Razorcrest 3
+l: 30 Precious Cargo
+l: 33 Encounters 1
+l: 34 Encounters 2
+l: 35 Encounters 3
+l: 36 You have what I want
+l: 38 This is the Way
+l: 41 +1x Left R
+l: 42 +1x Left G
+l: 43 +1x Left B
+l: 44 +1x Right R
+l: 45 +1x Right G
+l: 46 +1x Right B
+l: 47 +1x Bottom R
+l: 48 +1x Bottom G
+l: 49 +1x Bottom B
+l: 52 Left 3 Bank-Top
+l: 53 Left 3 Bank-Mid
+l: 54 Left 3 Bank-Bottom
+l: 57 Right 2 Bank-CARA
+l: 58 Right 2 Bank-DUNE
+l: 61 Left Orbit-R
+l: 62 Left Orbit-G
+l: 63 Left Orbit-B
+l: 64 Left Orbit-Child
+l: 65 Left Orbit-Hunter
+l: 68 Left Eject-R
+l: 69 Left Eject-G
+l: 70 Left Eject-B
+l: 71 Foundry
+l: 72 Extra Ball
+l: 73 Left Eject-Mission
+l: 76 Left Ramp-R
+l: 77 Left Ramp-G
+l: 78 Left Ramp-B
+l: 79 Encounters
+l: 80 Left Ramp-Mission
+l: 83 Razor 1-R
+l: 84 Razor 1-G
+l: 85 Razor 1-B
+l: 86 Razor 2-R
+l: 87 Razor 2-G
+l: 88 Razor 2-B
+l: 89 Razor 3-R
+l: 90 Razor 3-G
+l: 91 Razor 3-B
+l: 93 Right Scoop-R
+l: 94 Right Scoop-G
+l: 95 Right Scoop-B
+l: 96 Super Jackpot
+l: 97 Right Scoop Scope L
+l: 98 Right Scoop-Ambush
+l: 99 Scope Mid
+l: 101 Right Ramp-Left Target
+l: 102 Right Ramp-Right Target
+l: 104 Right Ramp-R
+l: 105 Right Ramp-G
+l: 106 Right Ramp-B
+l: 107 Right Ramp Scope R
+l: 108 Right Ramp-Ambush
+l: 109 Right Ramp-Mission
+l: 112 Right Orbit-R
+l: 113 Right Orbit-G
+l: 114 Right Orbit-B
+l: 115 Right Orbit-The Child
+l: 116 Right Orbit-Bounty Hunter
+l: 118 Child A
+l: 119 Child B
+l: 120 Child C
+l: 121 Child D
+l: 122 Child E
+l: 123 Razor Crest Ship (x2)
+l: 125 Mini PF-Battle 1-R
+l: 126 Mini PF-Battle 1-G
+l: 127 Mini PF-Battle 1-B
+l: 128 Mini PF-Battle 2-R
+l: 129 Mini PF-Battle 2-G
+l: 130 Mini PF-Battle 2-B
+l: 131 Mini PF-Battle 3-R
+l: 132 Mini PF-Battle 3-G
+l: 133 Mini PF-Battle 3-B
+l: 134 Mini PF-Battle 4-R
+l: 135 Mini PF-Battle 4-G
+l: 136 Mini PF-Battle 4-B
+l: 137 Mini PF-Battle 5-R
+l: 138 Mini PF-Battle 5-G
+l: 139 Mini PF-Battle 5-B
+l: 140 Mini PF-Battle 6-R
+l: 141 Mini PF-Battle 6-G
+l: 142 Mini PF-Battle 6-B
+l: 143 Level 1
+l: 144 Level 2
+l: 145 Level 3
+l: 150 Coin Door GI
+l: 151 Left Playfield GI-RED(x5)
+l: 152 Left Playfield GI-WHT(x11)
+l: 153 Right Playfield GI-RED(11)
+l: 154 Right Playfield GI-WHT(x13)
+l: 155 Backpanel GI (x6)
+l: 160 Lower Left Flash
+l: 161 Upper Left Flash
+l: 162 Left Pop Bumper
+l: 163 Right Pop Bumper
+l: 165 Child Spot
+l: 167 Backpanel Flash
+l: 169 Mini PF Spot
+l: 170 Scoop Flash
+l: 171 Lower Right Flash
+c: 1 Trough
+c: 2 Auto Plunger
+c: 3 Left Flipper
+c: 4 Right Flipper
+c: 5 Left Slingshot
+c: 6 Right Slingshot
+c: 7 Shaker Motor
+c: 8 Mini PF Left Flipper
+c: 9 Mini PF Right Flipper
+c: 11 Left Pop Bumper
+c: 12 Right Pop Bumper
+c: 13 Right Scoop
+c: 14 Left Eject
+c: 16 Magnet
+c: 17 Top Up Post
+c: 19 Right Up Post
+c: 20 Center Ramp Gate
+c: 21 Diverter-Mini PF
+c: 33 Coin Meter
+c: 34 Ticket Meter
+c: 35 Ticket Dispenser

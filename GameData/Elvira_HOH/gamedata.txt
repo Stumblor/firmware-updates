@@ -1,0 +1,227 @@
+s: 1 Left Outlane
+s: 2 Left Return Lane
+s: 5 Right Return Lane
+s: 6 Right Outlane
+s: 7 Left Slingshot
+s: 8 Right Slingshot
+s: 9 Left Flipper Button
+s: 10 Right Flipper Button
+s: 11 Left Flipper EOS
+s: 12 Right Flipper EOS
+s: 15 Trough 6
+s: 16 Trough 5
+s: 17 Trough 4
+s: 18 Trough 3
+s: 19 Trough 2
+s: 20 Trough 1
+s: 21 Trough Jam
+s: 22 Shooter Lane
+s: 25 Left 3-Bank Target Bot.
+s: 26 Left 3-Bank Target Mid.
+s: 27 Left 3-Bank Target Top
+s: 28 Trunk Lock 1
+s: 29 Trunk Lock 2 Opto
+s: 32 Left Loop
+s: 34 Left Ramp Enter Opto
+s: 35 Left Ramp Exit Opto
+s: 38 Drop Target Opto
+s: 39 Garage Lock 1 Opto
+s: 40 Garage Lock 2 Opto
+s: 41 Garage Lock 3 Opto
+s: 43 House Ramp Opto
+s: 44 Cellar Enter Opto
+s: 45 House Target Left
+s: 46 House Target Right
+s: 47 Cellar Backdoor Opto
+s: 48 Cellar VUK
+s: 49 House Ramp Motor Up
+s: 50 House Ramp Motor Down
+s: 52 House Diverter Motor Up
+s: 53 House Diverter Motor Down
+s: 54 House Lock
+s: 57 Turret Opto 1
+s: 58 Turret Opto 2
+s: 59 Turret Opto 3
+s: 60 Turret Opto 4
+s: 63 Top Lane Left
+s: 64 Top Lane Right
+s: 65 Left Pop Bumper
+s: 66 Right Pop Bumper
+s: 67 Bottom Pop Bumper
+s: 68 Pop Target
+s: 71 Right Ramp Exit Opto
+s: 74 Crypt Target Left
+s: 75 Crypt Target Right
+s: 76 Crypt Opto
+s: 77 Crypt Motor Sw 1
+s: 78 Crypt Motor Sw 2
+s: 79 Crypt Motor Sw 3
+s: 81 Right Spinner
+s: 83 Right Loop
+s: 86 Crypt VUK
+s: 89 Right 3-Bank Target Bot.
+s: 90 Right 3-Bank Target Mid.
+s: 91 Right 3-Bank Target Top
+s: 100 Lockdown Button
+s: 103 Start Button
+s: 104 Tournament Start Button
+s: 106 Left Coin
+s: 107 Right Coin
+s: 108 Center Coin
+s: 109 Fourth Coin
+s: 110 Fifth Coin
+s: 111 Tilt Pendulum
+s: 112 Sixth Coin
+s: 113 Ticket Notch
+s: 114 Slam Tilt
+l: 1 Coin Enable
+l: 2 Start Button
+l: 3 Tournament Start Button
+l: 4 Lockdown Button-R
+l: 5 Lockdown Button-G
+l: 6 Lockdown Button-B
+l: 11 Left Outlane
+l: 12 Left Return Lane
+l: 13 Right Return Lane
+l: 14 Right Outlane
+l: 17 Director's Cut
+l: 18 Shoot Again
+l: 20 "B" Level 1
+l: 21 "B" Level 2
+l: 22 "B" Level 3
+l: 23 "B" Level 4
+l: 25 Phase 1
+l: 26 Phase 2
+l: 27 Phase 3
+l: 29 2X Playfield
+l: 30 4X Playfield
+l: 32 Left 3-Bank Bot.
+l: 33 Left 3-Bank Mid.
+l: 34 Left 3-Bank Top
+l: 36 Junk 1
+l: 37 Junk 2
+l: 38 Junk 3
+l: 39 Junk 4
+l: 40 Junk 5
+l: 45 Run For Your Life
+l: 46 Scream Test
+l: 47 Makeout Mayhem
+l: 48 Dance Fever
+l: 49 Pool Party
+l: 52 Garg-Oil-Gauge 1
+l: 53 Garg-Oil-Gauge 2
+l: 54 Garg-Oil-Gauge 3
+l: 55 Garg-Oil-Gauge 4
+l: 57 Right 3-Bank Bot.
+l: 58 Right 3-Bank Mid.
+l: 59 Right 3-Bank Top
+l: 62 Left Loop Arrow-R
+l: 63 Left Loop Arrow-G
+l: 64 Left Loop Arrow-B
+l: 65 Left Loop Jackpot
+l: 66 Left Loop 1
+l: 67 Left Loop 2
+l: 70 Left Ramp Arrow-R
+l: 71 Left Ramp Arrow-G
+l: 72 Left Ramp Arrow-B
+l: 73 Left Ramp Jackpot
+l: 74 Left Ramp 1
+l: 75 Left Ramp 2
+l: 76 Left Ramp Trailer
+l: 79 Drop Target Arrow-R
+l: 80 Drop Target Arrow-G
+l: 81 Drop Target Arrow-B
+l: 82 Attic Attack Multiball
+l: 83 Add A Zombie Multiball
+l: 84 Wild Woman Multiball
+l: 88 House Target Left
+l: 89 House Target Right
+l: 90 House Arrow-R
+l: 91 House Arrow-G
+l: 92 House Arrow-B
+l: 93 House Jackpot
+l: 94 Extra Ball
+l: 95 House 1
+l: 96 House 2
+l: 99 For Sale/Wild Market Value
+l: 104 Left Top Lane
+l: 105 Right Top Lane
+l: 111 Right Ramp Arrow-R
+l: 112 Right Ramp Arrow-G
+l: 113 Right Ramp Arrow-B
+l: 114 Right Ramp Jackpot
+l: 115 Right Ramp 1
+l: 116 Right Ramp Trailer
+l: 119 Crypt Target Left
+l: 120 Crypt Target Right
+l: 121 Crypt Arrow-R
+l: 122 Crypt Arrow-G
+l: 123 Crypt Arrow-B
+l: 124 Crypt Jackpot
+l: 125 Crypt 1
+l: 129 Right Loop Arrow-R
+l: 130 Right Loop Arrow-G
+l: 131 Right Loop Arrow-B
+l: 132 Right Loop Jackpot
+l: 133 Right Loop 1
+l: 134 Right Loop 2
+l: 138 House Window 1
+l: 139 House Window 2
+l: 140 House Window 3
+l: 141 Lock 1
+l: 142 Lock 2
+l: 143 House Window 6
+l: 144 House Window 7
+l: 145 House Window 8
+l: 146 House Window 9
+l: 147 House Window 10
+l: 148 House Turret
+l: 150 Left Flood-R
+l: 151 Left Flood-G
+l: 152 Left Flood-B
+l: 153 Right Flood-R
+l: 154 Right Flood-G
+l: 155 Right Flood-B
+l: 170 Coin Door GI
+l: 171 Lower Playfield GI
+l: 172 Shooter Lane GI
+l: 173 Mid Playfield GI
+l: 174 Upper Playfield GI
+l: 175 Backpanel Playfield GI
+l: 180 Left Pop Bumper Flash
+l: 181 Right Pop Bumper Flash
+l: 182 Bottom Pop Bumper Flash
+l: 183 Pop Bumper Flash
+l: 184 Right Ramp Flash
+l: 185 Crypt Flash (X2)
+l: 186 Crypt VUK Flash
+l: 187 Trunk Flash
+l: 188 Lower Left Ramp Flash
+l: 189 Gappa Angry Flash
+l: 190 Jump Around Flash
+l: 191 Lock Flash
+l: 192 Cellar Flash
+l: 193 Moon Flash
+l: 194 Skill Shot Flash
+l: 195 Lower RT Ramp Flash
+c: 1 Trough
+c: 2 Auto Plunger
+c: 3 Left Flipper
+c: 4 Right Flipper
+c: 5 Left Slingshot
+c: 6 Right Slingshot
+c: 7 Shaker Motor
+c: 10 Trunk Lid
+c: 11 Trunk Eject
+c: 13 Garage Lock Post
+c: 14 1-Bank Drop
+c: 15 House Lock
+c: 17 Crypt VUK
+c: 18 Cellar VUK
+c: 19 Control Gate
+c: 21 Left Pop Bumper
+c: 22 Right Pop Bumper
+c: 23 Bottom Pop Bumper
+c: 33 Ticket Meter
+c: 34 Coin Meter
+c: 35 Ticket Dispenser
