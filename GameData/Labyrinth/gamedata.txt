@@ -1,0 +1,294 @@
+s: 2 Coin entry
+s: 4 Select menu button
+s: 5 Back/Exit menu button
+s: 6 Down/+/Left menu button
+s: 7 Up/-/Right menu button
+s: 12 Coin door open
+s: 13 Plumb bob tilt
+s: 14 Start button
+s: 15 Left flipper button
+s: 22 Right flipper button
+s: 23 Upper right flipper button
+s: 24 Wiseman drop target
+s: 25 Wiseman entry-back
+s: 26 Wiseman subway
+s: 27 Wiseman scoop
+s: 28 Wiseman target-right
+s: 29 Wiseman target-left
+s: 30 Horseshoe-right
+s: 31 Right orbit pair-high
+s: 32 Ball trough #1 (right)
+s: 33 Ball trough #2
+s: 34 Ball trough #3
+s: 35 Ball trough #4
+s: 36 Ball trough #5
+s: 37 Ball trough #6 (left)
+s: 38 Ball trough jam (in trough chute)
+s: 39 Shooter lane
+s: 40 Ello target
+s: 41 Upper right slingshot pair
+s: 42 Ello lane
+s: 43 Upper right flipper EOS
+s: 44 Right orbit-low
+s: 45 Right ramp made
+s: 48 Wall target (lower left)
+s: 49 Left outlane-high
+s: 50 Helping Hands scoop
+s: 51 Junk Lady target
+s: 52 Fairy target-low left
+s: 53 Fairy target-low right
+s: 54 Change Mode target
+s: 55 Left orbit-low/ball lock
+s: 56 Left outlane-low
+s: 57 Left return lane
+s: 58 Left slingshot pair
+s: 59 Left flipper EOS
+s: 60 Right flipper EOS
+s: 61 Right slingshot pair
+s: 62 Right return lane
+s: 63 Right outlane
+s: 64 Horseshoe-left
+s: 65 Spinner (left orbit)
+s: 66 Center ramp made
+s: 67 Left ramp made
+s: 68 Fairy target-high right
+s: 69 Left ramp enter
+s: 72 Village entry-side
+s: 73 Fairy target-high left
+s: 74 Humongous drop target
+s: 75 Village scoop
+s: 76 Inner loop
+s: 77 Village entry-back
+s: 78 Left orbit pair-high
+s: 79 Orbit-top
+l: 0 Right ramp Advance Friend
+l: 1 Right ramp arrow-low
+l: 2 Right ramp arrow-mid
+l: 3 Right ramp arrow-high
+l: 4 Ello Mystery arrow
+l: 5 Ello Collect Orb triangle
+l: 6 GI Ello plastic
+l: 7 Ello target
+l: 8 GI Shooter lane-high
+l: 9 Ello spotlight
+l: 10 HELP outlane
+l: 11 HELP return lane
+l: 12 GI Right sling-high
+l: 13 GI Right sling-low
+l: 14 GI Right return lane-high
+l: 15 GI Right return lane-low
+l: 16 Ball Save
+l: 17 GI Left return lane-low
+l: 18 GI Left return lane-high
+l: 19 GI Left sling-low
+l: 20 GI Left sling-high
+l: 21 HELP return lane
+l: 22 HELP outlane
+l: 23 Wall target (lower left)
+l: 24 Hoggle face-upper left
+l: 25 Hoggle face-lower left
+l: 26 Hoggle Jackpot Ready
+l: 27 Hoggle face-lower right
+l: 28 Hoggle face-upper right
+l: 29 Helping Hands Jackpot
+l: 32 Goblin City Multiball
+l: 33 Cleaners
+l: 34 Oubliette
+l: 35 Bog
+l: 36 Battle Jareth
+l: 37 Knockers
+l: 38 Four Guards
+l: 39 Fireys
+l: 40 Sir Didymus face-upper left
+l: 41 Sir Didymus face-lower left
+l: 42 Sir Didymus Jackpot Ready
+l: 43 Sir Didymus face-lower right
+l: 44 Sir Didymus face-upper right
+l: 45 Ludo face-upper left
+l: 46 Ludo face-lower left
+l: 47 Ludo Jackpot Ready
+l: 48 Ludo face-lower right
+l: 49 Ludo face-upper right
+l: 50 Left orbit Advance Friend
+l: 51 Left orbit arrow-low
+l: 52 Left orbit arrow-mid
+l: 53 Left orbit arrow-high
+l: 54 Left orbit triangle
+l: 55 Fairy target-low left
+l: 56 Left ramp Advance Friend
+l: 57 Left ramp arrow-low
+l: 58 Left ramp arrow-mid
+l: 59 Left ramp arrow-high
+l: 60 Left ramp triangle
+l: 61 GI Left side plastic-low
+l: 62 GI Left side plastic-mid
+l: 63 GI Left side plastic-high
+l: 64 Start Mode-right
+l: 65 Horseshoe arrow-right
+l: 66 Wiseman target-right
+l: 67 Right orbit Advance Friend
+l: 68 Right orbit arrow-low
+l: 69 Right orbit arrow-mid
+l: 70 Right orbit arrow-high
+l: 71 GI Upper right flipper plastic
+l: 72 Right orbit triangle
+l: 73 GI Right ramp-right
+l: 74 GI Right ramp-left
+l: 75 GI Right ramp-high
+l: 76 Right orbit rectangle-low
+l: 77 GI Wiseman sculpture-right
+l: 78 GI Knockers sculpture-right
+l: 79 GI Firey plastic-low
+l: 80 Firey spotlight
+l: 81 GI Firey plastic-high
+l: 82 Right orbit rectangle-high
+l: 83 GI Knockers sculpture-mid
+l: 84 Top orbit rectangle
+l: 85 GI Knockers sculpture-left
+l: 86 GI Center ramp-high
+l: 87 GI Castle sculpture
+l: 88 Left orbit rectangle-high
+l: 89 GI Village sculpture-high
+l: 90 GI Village sculpture-mid
+l: 91 Left orbit rectangle-low
+l: 92 GI Village sculpture-low
+l: 93 Ludo spotlight-left
+l: 94 Ludo spotlight-mid
+l: 95 Ludo spotlight-right
+l: 96 Wiseman Jackpot
+l: 97 Wiseman Advance Quest
+l: 98 Change Mode target
+l: 99 Fairy target-low right
+l: 100 Under left ramp circle
+l: 101 GI Left ramp-left
+l: 102 GI Left ramp-right
+l: 103 Center ramp Advance Friend
+l: 104 Inner loop Advance Friend
+l: 105 Inner loop arrow-low
+l: 106 Inner loop arrow-mid
+l: 107 Inner loop arrow-high
+l: 108 Fairy target-high left
+l: 109 Center ramp arrow-low
+l: 110 Center ramp arrow-mid
+l: 111 Center ramp arrow-high
+l: 112 Start Mode-left
+l: 113 Wiseman target-left
+l: 114 Horseshoe arrow-left
+l: 115 Fairy target-high right
+l: 116 Center ramp triangle
+l: 117 GI Wiseman sculpture-left
+l: 118 GI Center ramp-right
+l: 119 GI Wiseman sculpture-high
+l: 120 Knockers spotlight
+l: 128 Froggy (left) eyes
+l: 129 Snarf (right) eyes
+l: 130 Baaba (center) eyes
+l: 131 Topper Strip 1 (left)
+l: 132 Topper Strip 2
+l: 133 Topper Strip 3
+l: 134 Topper Strip 4
+l: 135 Topper Strip 5
+l: 136 Topper Strip 6
+l: 137 Topper Strip 7
+l: 138 Topper Strip 8
+l: 139 Topper Strip 9
+l: 140 Topper Strip 10
+l: 141 Topper Strip 11
+l: 142 Topper Strip 12
+l: 143 Topper Strip 13
+l: 144 Topper Strip 14
+l: 145 Topper Strip 15
+l: 146 Topper Strip 16
+l: 147 Topper Strip 17
+l: 148 Topper Strip 18
+l: 149 Topper Strip 19
+l: 150 Topper Strip 20
+l: 151 Topper Strip 21
+l: 152 Topper Strip 22
+l: 153 Topper Strip 23
+l: 154 Topper Strip 24 (right)
+l: 155 Left Speaker Strip 1 (bottom)
+l: 156 Left Speaker Strip 2
+l: 157 Left Speaker Strip 3
+l: 158 Left Speaker Strip 4
+l: 159 Left Speaker Strip 5
+l: 160 Left Speaker Strip 6
+l: 161 Left Speaker Strip 7 (right)
+l: 162 Left Speaker Strip 8
+l: 163 Left Speaker Strip 9
+l: 164 Left Speaker Strip 10
+l: 165 Left Speaker Strip 11
+l: 166 Left Speaker Strip 12
+l: 167 Left Speaker Strip 13
+l: 168 Left Speaker Strip 14 (top)
+l: 169 Left Speaker Strip 15
+l: 170 Left Speaker Strip 16
+l: 171 Left Speaker Strip 17
+l: 172 Left Speaker Strip 18
+l: 173 Left Speaker Strip 19
+l: 174 Left Speaker Strip 20
+l: 175 Left Speaker Strip 21 (left)
+l: 176 Left Speaker Strip 22
+l: 177 Left Speaker Strip 23
+l: 178 Left Speaker Strip 24
+l: 179 Left Speaker Strip 25
+l: 180 Left Speaker Strip 26
+l: 181 Left Speaker Strip 27
+l: 182 Left Speaker Strip 28 (bottom)
+l: 183 Right Speaker Strip 1 (bottom)
+l: 184 Right Speaker Strip 2
+l: 185 Right Speaker Strip 3
+l: 186 Right Speaker Strip 4
+l: 187 Right Speaker Strip 5
+l: 188 Right Speaker Strip 6
+l: 189 Right Speaker Strip 7 (right)
+l: 190 Right Speaker Strip 8
+l: 191 Right Speaker Strip 9
+l: 192 Right Speaker Strip 10
+l: 193 Right Speaker Strip 11
+l: 194 Right Speaker Strip 12
+l: 195 Right Speaker Strip 13
+l: 196 Right Speaker Strip 14 (top)
+l: 197 Right Speaker Strip 15
+l: 198 Right Speaker Strip 16
+l: 199 Right Speaker Strip 17
+l: 200 Right Speaker Strip 18
+l: 201 Right Speaker Strip 19
+l: 202 Right Speaker Strip 20
+l: 203 Right Speaker Strip 21 (left)
+l: 204 Right Speaker Strip 22
+l: 205 Right Speaker Strip 23
+l: 206 Right Speaker Strip 24
+l: 207 Right Speaker Strip 25
+l: 208 Right Speaker Strip 26
+l: 209 Right Speaker Strip 27
+l: 210 Right Speaker Strip 28 (bottom)
+c: 3 Start button LED (lower cabinet-front)
+c: 7 Knocker (not factory installed)
+c: 8 Orbit magnet (top)
+c: 9 Left ramp lifter
+c: 10 Beggar magnet (center)
+c: 11 Upper right slingshot
+c: 12 Right flipper power
+c: 13 Right flipper hold
+c: 14 Left flipper power
+c: 15 Left flipper hold
+c: 16 Ball auto-launch
+c: 17 Ball trough eject
+c: 18 Right slingshot
+c: 19 Left slingshot
+c: 20 Horseshoe diverter down
+c: 21 Horseshoe diverter up
+c: 22 Wiseman drop target up
+c: 23 Wiseman scoop eject (right orbit)
+c: 24 Wiseman drop target down
+c: 25 Upper right flipper power
+c: 26 Upper right flipper hold
+c: 27 Ello up/down post
+c: 28 Left outlane up/down post
+c: 29 Helping Hands scoop eject
+c: 30 Forks ball catch down
+c: 31 Humongous drop target down
+c: 32 Forks ball catch up
+c: 33 Humongous drop target up
+c: 34 Village scoop eject (under left ramp)
