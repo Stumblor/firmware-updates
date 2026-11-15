@@ -23,6 +23,7 @@ s: 26 Junk Target
 s: 27 Pop Target-Left
 s: 28 Pop Target-Center
 s: 29 Pop Target-Right
+s: 31 Fat Man Load Opto
 s: 32 Left Lane
 s: 35 Radroach 2 Target
 s: 36 Radroach 3 Target
@@ -41,9 +42,24 @@ s: 53 Outer Loop
 s: 54 Inner Loop
 s: 55 Right Ramp Made Opto
 s: 56 Jump Ramp Opto
+s: 57 Subway Opto
 s: 58 Loop Ramp Opto
+s: 60 Vault Door Motor Open Opto
+s: 61 Vault Door Motor Closed Opto
 s: 63 Sundries Scoop Opto
 s: 64 Deathclaw Hit
+s: 68 Ghoul Target Opto
+s: 69 Raider Flip Flop Left
+s: 70 Raider Flip Flop Right
+s: 71 Radscorpion Spinner Opto
+s: 75 Vault Loop Opto
+s: 76 Vault Target-Left
+s: 77 Vault Target-Center
+s: 78 Vault Target-Right
+s: 80 Fat Man Pan-Home Opto
+s: 81 Fat Man Pan-Away Opto
+s: 82 Fat Man Tilt-Away Opto
+s: 83 Fat Man Tilt-Home Opto
 s: 90 Action Button
 s: 93 Start Button
 s: 94 Tournament Start Button
@@ -126,6 +142,26 @@ l: 76 Pip-Boy Lit Left
 l: 77 Fallout Radio Left Ramp-R
 l: 78 Fallout Radio Left Ramp-G
 l: 79 Fallout Radio Left Ramp-B
+l: 82 Vault Playfield 1
+l: 83 Vault Playfield 2
+l: 84 Vault Playfield 3
+l: 85 Vault Playfield 4
+l: 86 Vault Playfield 5
+l: 87 Vault Arrow Left-R
+l: 88 Vault Arrow Left-G
+l: 89 Vault Arrow Left-B
+l: 90 Vault Arrow Right-R
+l: 91 Vault Arrow Right-G
+l: 92 Vault Arrow Right-B
+l: 93 Vault Right Target 1
+l: 94 Vault Right Target 2
+l: 95 Vault Right Target 3
+l: 96 Vault Center Target 1
+l: 97 Vault Center Target 2
+l: 98 Vault Center Target 3
+l: 99 Vault Left Target 1
+l: 100 Vault Left Target 2
+l: 101 Vault Left Target 3
 l: 109 Pip-Boy Right Ramp-R
 l: 110 Pip-Boy Right Ramp-G
 l: 111 Pip-Boy Right Ramp-B
@@ -197,19 +233,35 @@ l: 185 Stimpak Right Ramp
 l: 187 Pip-Boy Rad-Meter R
 l: 188 Pip-Boy Rad-Meter G
 l: 189 Pip-Boy Radio W
+l: 192 Raider 1-R
+l: 193 Raider 1-G
+l: 194 Raider 1-B
+l: 195 Raider 2-R
+l: 196 Raider 2-G
+l: 197 Raider 2-B
+l: 198 Raider 3-R
+l: 199 Raider 3-G
+l: 200 Raider 3-B
 l: 210 Coin Door GI
-l: 211 Bottom GI-WHT (x7)
-l: 212 Bottom GI-RED (x7)
-l: 213 Bottom Arch GI
+l: 211 Bottom GI-WHT (x5)
+l: 212 Bottom GI-RED (x5)
+l: 213 Bottom Arch GI (x3)
 l: 215 Top GI-WHT (x6)
 l: 216 Top GI-RED (x6)
+l: 217 Raider GI (x5)
 l: 220 Pop Flash
 l: 221 Deathclaw Spot
+l: 222 Vault Playfield Flash
 l: 223 Bottle Cap Flash
 l: 224 Pip Boy Flash
 l: 225 Vault Spot
 l: 226 Sundries Flash
+l: 227 Vault Backpanel Flash
 l: 228 Nuka Cola Quantum Flash
+l: 229 Raider Flash-1
+l: 230 Raider Flash-2
+l: 231 Raider Flash-3
+l: 232 Raider Flash-4
 c: 1 Trough
 c: 2 Auto Plunger
 c: 3 Left Flipper
@@ -218,9 +270,15 @@ c: 5 Left Pop Bumper
 c: 6 Right Slingshot
 c: 7 Shaker Motor
 c: 8 Upper Left Flipper
+c: 9 Vault Magnet
+c: 10 Fat Man
 c: 11 Sundries Scoop
+c: 12 Deathclaw
+c: 13 Vault Door Motor
+c: 14 Vault Door Coil
 c: 15 Pip-Boy Magnet
 c: 16 Bottle Cap Spinner
+c: 18 Up Post
 c: 33 Coin Meter
 c: 34 Ticket Meter
 c: 35 Ticket Dispenser
