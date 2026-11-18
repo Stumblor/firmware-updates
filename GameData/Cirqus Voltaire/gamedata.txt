@@ -662,4 +662,4 @@ m: 33 Copy Cat (2.0)
 m: 34 2X Playfield (2.0)
 m: 35 Copy Cat Left (2.0)
 m: 36 Copy Cat Right (2.0)
-m: 36 Ringmaster Hit
+m: 37 Ringmaster Hit
